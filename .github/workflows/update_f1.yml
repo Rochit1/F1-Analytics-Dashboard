@@ -2,12 +2,10 @@ name: Update F1 Data
 
 on:
   schedule:
-    # Runs every Monday at 06:00 UTC. GitHub Actions cron is UTC only —
-    # adjust the hour if you want it to land at a specific local time.
+    # Runs every Monday at 06:00 UTC
     - cron: '0 6 * * 1'
-  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+  workflow_dispatch: {}
 
-# Required so the workflow's GITHUB_TOKEN is allowed to push commits back to the repo.
 permissions:
   contents: write
 
@@ -30,7 +28,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-            - name: Run F1 data pipeline
+      - name: Run F1 data pipeline
         run: python python/f1_pipeline.py
 
       - name: Run OpenF1 enrichment
