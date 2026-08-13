@@ -30,8 +30,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run F1 data pipeline
+            - name: Run F1 data pipeline
         run: python python/f1_pipeline.py
+
+      - name: Run OpenF1 enrichment
+        run: python python/openf1_enrichment.py
 
       - name: Commit and push updated CSVs
         run: |
