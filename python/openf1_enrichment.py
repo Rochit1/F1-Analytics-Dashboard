@@ -117,7 +117,22 @@ def get_races() -> pd.DataFrame:
 
     races = races.sort_values("date_start").reset_index(drop=True)
     races["Round"] = range(1, len(races) + 1)
-    races["EventName"] = races["meeting_name"]
+    #this sessions endpoint provides meeting_key, not meeting_name.
+    #fetch meeting names separately
+    meetings=api_get("meetings", {"year": YEAR})
+    if meetings:
+        meetings_df = pd.DataFrame(meetings)
+        if "meeting_key" in meetings_df.columns and "meeting_name" in meetings_df.columns:
+            meeting_names = meetings_df.set_index("meeting_key")["meeting_name"].to_dict()
+            races["EventName"] = races["meeting_key"].map(meeting_names)
+        else:
+            races["EventName"] = "Round " + races["Round"].astype(str)
+    else:
+        races["EventName"] = "Round " + races["Round"].astype(str)
+    races["EventName"] = races["EventName"].fillna(
+        "Round " + races["Round"].astype(str)
+)
+
 
     return races
 
