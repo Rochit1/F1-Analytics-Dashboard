@@ -43,12 +43,19 @@ session.headers.update({
 
 
 def api_get(endpoint: str, params: dict[str, Any]) -> list[dict[str, Any]]:
-    """GET an OpenF1 endpoint with retries and rate-limit handling."""
+    """GET an OpenF1 endpoint with retries and rate-limit handling.
+
+    Permanent 404/other 4xx errors are not retried.
+    """
     url = f"{BASE_URL}/{endpoint}"
 
     for attempt in range(3):
         try:
             r = session.get(url, params=params, timeout=60)
+
+            if r.status_code == 404:
+                print(f"NO DATA (404) {endpoint} {params}")
+                return []
 
             if r.status_code == 429:
                 retry_after = int(r.headers.get("Retry-After", "10"))
@@ -64,6 +71,20 @@ def api_get(endpoint: str, params: dict[str, Any]) -> list[dict[str, Any]]:
 
             time.sleep(REQUEST_DELAY)
             return data
+
+        except requests.HTTPError as exc:
+            status = exc.response.status_code if exc.response is not None else None
+            if status is not None and 400 <= status < 500 and status != 429:
+                print(f"FAILED {endpoint} {params}: HTTP {status}")
+                return []
+
+            if attempt == 2:
+                print(f"FAILED {endpoint} {params}: {exc}")
+                return []
+
+            wait = 5 * (attempt + 1)
+            print(f"Retrying {endpoint} in {wait}s: {exc}")
+            time.sleep(wait)
 
         except Exception as exc:
             if attempt == 2:
@@ -107,9 +128,15 @@ def get_races() -> pd.DataFrame:
 
     df = pd.DataFrame(rows)
 
+    # OpenF1 lists future race sessions too. Only keep races whose
+    # session has actually ended.
+    now_utc = pd.Timestamp.now(tz="UTC")
+    df["date_end"] = pd.to_datetime(df["date_end"], utc=True, errors="coerce")
+
     races = df[
         (df["session_name"].astype(str).str.lower() == "race")
         & df["date_end"].notna()
+        & (df["date_end"] <= now_utc)
     ].copy()
 
     if "is_cancelled" in races:
@@ -117,9 +144,10 @@ def get_races() -> pd.DataFrame:
 
     races = races.sort_values("date_start").reset_index(drop=True)
     races["Round"] = range(1, len(races) + 1)
-    #this sessions endpoint provides meeting_key, not meeting_name.
-    #fetch meeting names separately
-    meetings=api_get("meetings", {"year": YEAR})
+
+    # meeting_name comes from /meetings, not reliably from /sessions.
+    meetings = api_get("meetings", {"year": YEAR})
+
     if meetings:
         meetings_df = pd.DataFrame(meetings)
         if "meeting_key" in meetings_df.columns and "meeting_name" in meetings_df.columns:
@@ -129,10 +157,10 @@ def get_races() -> pd.DataFrame:
             races["EventName"] = "Round " + races["Round"].astype(str)
     else:
         races["EventName"] = "Round " + races["Round"].astype(str)
+
     races["EventName"] = races["EventName"].fillna(
         "Round " + races["Round"].astype(str)
-)
-
+    )
 
     return races
 
