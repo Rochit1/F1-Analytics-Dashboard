@@ -63,6 +63,7 @@ try:
     today_utc = pd.Timestamp.now(tz='UTC')
     completed_races = completed_races[completed_races['Session1DateUtc'] < today_utc]
 
+    schedule = schedule[schedule["RoundNumber"] > 0].copy()
     schedule.to_csv(DATA_FOLDER / "season_schedule.csv", index=False)
     logging.info(f"Saved schedule with {len(completed_races)} completed races.")
 except Exception as e:
