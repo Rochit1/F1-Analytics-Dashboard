@@ -49,7 +49,7 @@ jobs:
       - name: Load data into Supabase
         env:
           DATABASE_URL: ${{ secrets.SUPABASE_DB_URL }}
-        run: python sql/load_to_supabase.py
+        run: python SQL/load_to_supabase.py
 
       - name: Run ML predictions
         env:
