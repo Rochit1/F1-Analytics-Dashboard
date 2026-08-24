@@ -238,3 +238,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,Q1,Q2,Q3,Round,EventName,Q1
 18,STR,Lance Stroll,Aston Martin,20.0,0 days 00:01:20.659000,,,11,Hungarian Grand Prix,80.659,,
 77,BOT,Valtteri Bottas,Cadillac F1 Team,21.0,0 days 00:01:20.886000,,,11,Hungarian Grand Prix,80.886,,
 11,PER,Sergio Pérez,Cadillac F1 Team,22.0,0 days 00:01:21.322000,,,11,Hungarian Grand Prix,81.322,,
+1,NOR,Lando Norris,McLaren,1.0,0 days 00:01:12.695000,0 days 00:01:11.628000,0 days 00:01:11.163000,12,Dutch Grand Prix,72.695,71.628,71.163
+63,RUS,George Russell,Mercedes,2.0,0 days 00:01:12.924000,0 days 00:01:11.959000,0 days 00:01:11.265000,12,Dutch Grand Prix,72.924,71.959,71.265
+12,ANT,Andrea Kimi Antonelli,Mercedes,3.0,0 days 00:01:13.022000,0 days 00:01:11.915000,0 days 00:01:11.296000,12,Dutch Grand Prix,73.022,71.915,71.296
+81,PIA,Oscar Piastri,McLaren,4.0,0 days 00:01:12.610000,0 days 00:01:11.641000,0 days 00:01:11.305000,12,Dutch Grand Prix,72.61,71.641,71.305
+44,HAM,Lewis Hamilton,Ferrari,5.0,0 days 00:01:12.673000,0 days 00:01:11.970000,0 days 00:01:11.494000,12,Dutch Grand Prix,72.673,71.97,71.494
+16,LEC,Charles Leclerc,Ferrari,6.0,0 days 00:01:13.064000,0 days 00:01:11.910000,0 days 00:01:11.558000,12,Dutch Grand Prix,73.064,71.91,71.558
+3,VER,Max Verstappen,Red Bull,7.0,0 days 00:01:13.290000,0 days 00:01:11.874000,0 days 00:01:11.618000,12,Dutch Grand Prix,73.29,71.874,71.618
+30,LAW,Liam Lawson,Red Bull,8.0,0 days 00:01:13.392000,0 days 00:01:12.301000,0 days 00:01:11.733000,12,Dutch Grand Prix,73.392,72.301,71.733
+5,BOR,Gabriel Bortoleto,Audi,9.0,0 days 00:01:13.142000,0 days 00:01:12.433000,0 days 00:01:12.079000,12,Dutch Grand Prix,73.142,72.433,72.079
+41,LIN,Arvid Lindblad,RB F1 Team,10.0,0 days 00:01:13.074000,0 days 00:01:12.525000,0 days 00:01:12.185000,12,Dutch Grand Prix,73.074,72.525,72.185
+10,GAS,Pierre Gasly,Alpine F1 Team,11.0,0 days 00:01:13.115000,0 days 00:01:12.616000,,12,Dutch Grand Prix,73.115,72.616,
+22,TSU,Yuki Tsunoda,RB F1 Team,12.0,0 days 00:01:13.085000,0 days 00:01:12.627000,,12,Dutch Grand Prix,73.085,72.627,
+27,HUL,Nico Hülkenberg,Audi,13.0,0 days 00:01:13.188000,0 days 00:01:12.797000,,12,Dutch Grand Prix,73.188,72.797,
+43,COL,Franco Colapinto,Alpine F1 Team,14.0,0 days 00:01:13.322000,0 days 00:01:12.800000,,12,Dutch Grand Prix,73.322,72.8,
+31,OCO,Esteban Ocon,Haas F1 Team,15.0,0 days 00:01:13.544000,0 days 00:01:13.137000,,12,Dutch Grand Prix,73.544,73.137,
+23,ALB,Alexander Albon,Williams,16.0,0 days 00:01:13.552000,0 days 00:01:13.182000,,12,Dutch Grand Prix,73.552,73.182,
+55,SAI,Carlos Sainz,Williams,17.0,0 days 00:01:13.574000,,,12,Dutch Grand Prix,73.574,,
+14,ALO,Fernando Alonso,Aston Martin,18.0,0 days 00:01:13.650000,,,12,Dutch Grand Prix,73.65,,
+18,STR,Lance Stroll,Aston Martin,19.0,0 days 00:01:13.818000,,,12,Dutch Grand Prix,73.818,,
+87,BEA,Oliver Bearman,Haas F1 Team,20.0,0 days 00:01:13.826000,,,12,Dutch Grand Prix,73.826,,
+77,BOT,Valtteri Bottas,Cadillac F1 Team,21.0,0 days 00:01:14.371000,,,12,Dutch Grand Prix,74.371,,
+11,PER,Sergio Pérez,Cadillac F1 Team,22.0,0 days 00:01:14.600000,,,12,Dutch Grand Prix,74.6,,

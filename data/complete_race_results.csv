@@ -241,3 +241,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,
 81,PIA,Oscar Piastri,McLaren,20.0,3.0,0.0,Retired,,11,Hungarian Grand Prix,
 11,PER,Sergio Pérez,Cadillac F1 Team,21.0,22.0,0.0,Retired,,11,Hungarian Grand Prix,
 77,BOT,Valtteri Bottas,Cadillac F1 Team,22.0,21.0,0.0,Retired,,11,Hungarian Grand Prix,
+1,NOR,Lando Norris,McLaren,1.0,1.0,25.0,Finished,0 days 02:04:44.859000,12,Dutch Grand Prix,7484.859
+12,ANT,Andrea Kimi Antonelli,Mercedes,2.0,3.0,18.0,Finished,0 days 00:00:11.536000,12,Dutch Grand Prix,11.536
+63,RUS,George Russell,Mercedes,3.0,2.0,15.0,Finished,0 days 00:00:15.906000,12,Dutch Grand Prix,15.906
+44,HAM,Lewis Hamilton,Ferrari,4.0,5.0,12.0,Finished,0 days 00:00:16.755000,12,Dutch Grand Prix,16.755
+16,LEC,Charles Leclerc,Ferrari,5.0,6.0,10.0,Finished,0 days 00:00:17.258000,12,Dutch Grand Prix,17.258
+81,PIA,Oscar Piastri,McLaren,6.0,4.0,8.0,Finished,0 days 00:00:32.332000,12,Dutch Grand Prix,32.332
+30,LAW,Liam Lawson,Red Bull,7.0,8.0,6.0,Finished,0 days 00:01:19.915000,12,Dutch Grand Prix,79.915
+27,HUL,Nico Hülkenberg,Audi,8.0,13.0,4.0,Lapped,0 days 00:00:36.049000,12,Dutch Grand Prix,36.049
+14,ALO,Fernando Alonso,Aston Martin,9.0,18.0,2.0,Lapped,0 days 00:00:48.393000,12,Dutch Grand Prix,48.393
+10,GAS,Pierre Gasly,Alpine F1 Team,10.0,11.0,1.0,Lapped,0 days 00:00:49.640000,12,Dutch Grand Prix,49.64
+22,TSU,Yuki Tsunoda,RB F1 Team,11.0,12.0,0.0,Lapped,0 days 00:00:54.322000,12,Dutch Grand Prix,54.322
+41,LIN,Arvid Lindblad,RB F1 Team,12.0,10.0,0.0,Lapped,0 days 00:01:05.680000,12,Dutch Grand Prix,65.68
+5,BOR,Gabriel Bortoleto,Audi,13.0,9.0,0.0,Lapped,0 days 00:01:06.235000,12,Dutch Grand Prix,66.235
+43,COL,Franco Colapinto,Alpine F1 Team,14.0,14.0,0.0,Lapped,0 days 00:00:20.534000,12,Dutch Grand Prix,20.534
+11,PER,Sergio Pérez,Cadillac F1 Team,15.0,22.0,0.0,Lapped,0 days 00:00:58.582000,12,Dutch Grand Prix,58.582
+55,SAI,Carlos Sainz,Williams,16.0,17.0,0.0,Lapped,0 days 00:01:10.271000,12,Dutch Grand Prix,70.271
+23,ALB,Alexander Albon,Williams,17.0,16.0,0.0,Retired,,12,Dutch Grand Prix,
+77,BOT,Valtteri Bottas,Cadillac F1 Team,18.0,21.0,0.0,Retired,,12,Dutch Grand Prix,
+31,OCO,Esteban Ocon,Haas F1 Team,19.0,15.0,0.0,Retired,,12,Dutch Grand Prix,
+18,STR,Lance Stroll,Aston Martin,20.0,19.0,0.0,Retired,,12,Dutch Grand Prix,
+87,BEA,Oliver Bearman,Haas F1 Team,21.0,20.0,0.0,Retired,,12,Dutch Grand Prix,
+3,VER,Max Verstappen,Red Bull,22.0,7.0,0.0,Retired,,12,Dutch Grand Prix,
