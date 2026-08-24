@@ -169,6 +169,10 @@ for idx, event in completed_races.iterrows():
             sprint_results = sprint_session.results[
                 ['DriverNumber', 'Abbreviation', 'TeamName', 'Points']
             ].copy()
+            #ensure drivernumber has the same type in both datasets
+            r_results['DriverNumber']=r_results['DriverNumber'].astype(str)
+            sprint_results['DriverNumber']=sprint_results['DriverNumber'].astype(str)
+
             sprint_results['Points'] = sprint_results['Points'].fillna(0)
             # Add Sprint points to the corresponding driver's race points
             r_results = r_results.merge(
@@ -181,9 +185,9 @@ for idx, event in completed_races.iterrows():
             r_results['Points'] = r_results['Points'] + r_results['Points_Sprint']
             r_results.drop(columns=['Points_Sprint'], inplace=True)
             logging.info(f"Added Sprint points for Round {round_num}")
-        except Exception:
+        except Exception as e:
             # Normal race weekend — no Sprint
-            logging.info(f"No Sprint for Round {round_num}")
+            logging.warning(f"No Sprint for Round {round_num}: {e}")
 
         all_race_results.append(r_results)
         all_driver_points.append(r_results[['Round', 'EventName', 'DriverNumber', 'Abbreviation', 'TeamName', 'Position', 'Points']])
