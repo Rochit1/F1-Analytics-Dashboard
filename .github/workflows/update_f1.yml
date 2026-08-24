@@ -45,3 +45,25 @@ jobs:
             git commit -m "Automated F1 data update $(date -u +'%Y-%m-%d')"
             git push
           fi
+
+      - name: Load data into Supabase
+        env:
+          DATABASE_URL: ${{ secrets.SUPABASE_DB_URL }}
+        run: python SQL/load_to_supabase.py
+
+      - name: Run ML predictions
+        env:
+          DATABASE_URL: ${{ secrets.SUPABASE_DB_URL }}
+        run: python ml/f1_predictions.py
+
+      - name: Commit and push updated ML outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ml/outputs/*.csv
+          if git diff --cached --quiet; then
+            echo "No ML output changes to commit."
+          else
+            git commit -m "Automated ML prediction update $(date -u +'%Y-%m-%d')"
+            git push
+          fi
