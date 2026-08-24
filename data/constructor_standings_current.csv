@@ -1,12 +1,12 @@
 position,positionText,points,wins,constructorId,constructorUrl,constructorName,constructorNationality
-1,1,392.0,8,mercedes,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,Mercedes,German
-2,2,316.0,2,ferrari,https://en.wikipedia.org/wiki/Scuderia_Ferrari,Ferrari,Italian
-3,3,230.0,1,mclaren,https://en.wikipedia.org/wiki/McLaren,McLaren,British
-4,4,180.0,0,red_bull,https://en.wikipedia.org/wiki/Red_Bull_Racing,Red Bull,Austrian
+1,1,425.0,8,mercedes,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,Mercedes,German
+2,2,338.0,2,ferrari,https://en.wikipedia.org/wiki/Scuderia_Ferrari,Ferrari,Italian
+3,3,263.0,2,mclaren,https://en.wikipedia.org/wiki/McLaren,McLaren,British
+4,4,186.0,0,red_bull,https://en.wikipedia.org/wiki/Red_Bull_Racing,Red Bull,Austrian
 5,5,66.0,0,rb,https://en.wikipedia.org/wiki/Racing_Bulls,RB F1 Team,Italian
-6,6,62.0,0,alpine,https://en.wikipedia.org/wiki/Alpine_F1_Team,Alpine F1 Team,French
+6,6,63.0,0,alpine,https://en.wikipedia.org/wiki/Alpine_F1_Team,Alpine F1 Team,French
 7,7,21.0,0,haas,https://en.wikipedia.org/wiki/Haas_F1_Team,Haas F1 Team,American
-8,8,12.0,0,audi,https://en.wikipedia.org/wiki/Audi_in_Formula_One,Audi,German
+8,8,16.0,0,audi,https://en.wikipedia.org/wiki/Audi_in_Formula_One,Audi,German
 9,9,11.0,0,williams,https://en.wikipedia.org/wiki/Williams_Racing,Williams,British
-10,10,1.0,0,aston_martin,https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,Aston Martin,British
+10,10,3.0,0,aston_martin,https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,Aston Martin,British
 11,11,0.0,0,cadillac,https://en.wikipedia.org/wiki/Cadillac_in_Formula_One,Cadillac F1 Team,American
