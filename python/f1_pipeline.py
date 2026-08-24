@@ -157,6 +157,34 @@ for idx, event in completed_races.iterrows():
         r_results['EventName'] = event_name
         r_results = convert_timedelta_to_seconds(r_results, 'Time')
 
+        # Add Sprint points if this is a Sprint weekend
+        try:
+            sprint_session = fastf1.get_session(YEAR, round_num, "S")
+            sprint_session.load(
+                laps=False,
+                telemetry=False,
+                weather=False,
+                messages=False
+            )
+            sprint_results = sprint_session.results[
+                ['DriverNumber', 'Abbreviation', 'TeamName', 'Points']
+            ].copy()
+            sprint_results['Points'] = sprint_results['Points'].fillna(0)
+            # Add Sprint points to the corresponding driver's race points
+            r_results = r_results.merge(
+                sprint_results[['DriverNumber', 'Points']],
+                on='DriverNumber',
+                how='left',
+                suffixes=('', '_Sprint')
+            )
+            r_results['Points_Sprint'] = r_results['Points_Sprint'].fillna(0)
+            r_results['Points'] = r_results['Points'] + r_results['Points_Sprint']
+            r_results.drop(columns=['Points_Sprint'], inplace=True)
+            logging.info(f"Added Sprint points for Round {round_num}")
+        except Exception:
+            # Normal race weekend — no Sprint
+            logging.info(f"No Sprint for Round {round_num}")
+
         all_race_results.append(r_results)
         all_driver_points.append(r_results[['Round', 'EventName', 'DriverNumber', 'Abbreviation', 'TeamName', 'Position', 'Points']])
 
