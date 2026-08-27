@@ -4,43 +4,43 @@ Round,EventName,DriverNumber,Abbreviation,TeamName,Position,Points
 1,Australian Grand Prix,16,LEC,Ferrari,3.0,15.0
 1,Australian Grand Prix,44,HAM,Ferrari,4.0,12.0
 1,Australian Grand Prix,1,NOR,McLaren,5.0,10.0
-1,Australian Grand Prix,3,VER,Red Bull Racing,6.0,8.0
+1,Australian Grand Prix,3,VER,Red Bull,6.0,8.0
 1,Australian Grand Prix,87,BEA,Haas F1 Team,7.0,6.0
-1,Australian Grand Prix,41,LIN,Racing Bulls,8.0,4.0
+1,Australian Grand Prix,41,LIN,RB F1 Team,8.0,4.0
 1,Australian Grand Prix,5,BOR,Audi,9.0,2.0
-1,Australian Grand Prix,10,GAS,Alpine,10.0,1.0
+1,Australian Grand Prix,10,GAS,Alpine F1 Team,10.0,1.0
 1,Australian Grand Prix,31,OCO,Haas F1 Team,11.0,0.0
 1,Australian Grand Prix,23,ALB,Williams,12.0,0.0
-1,Australian Grand Prix,30,LAW,Racing Bulls,13.0,0.0
-1,Australian Grand Prix,43,COL,Alpine,14.0,0.0
+1,Australian Grand Prix,30,LAW,RB F1 Team,13.0,0.0
+1,Australian Grand Prix,43,COL,Alpine F1 Team,14.0,0.0
 1,Australian Grand Prix,55,SAI,Williams,15.0,0.0
-1,Australian Grand Prix,11,PER,Cadillac,16.0,0.0
+1,Australian Grand Prix,11,PER,Cadillac F1 Team,16.0,0.0
 1,Australian Grand Prix,18,STR,Aston Martin,17.0,0.0
 1,Australian Grand Prix,14,ALO,Aston Martin,18.0,0.0
-1,Australian Grand Prix,77,BOT,Cadillac,19.0,0.0
-1,Australian Grand Prix,6,HAD,Red Bull Racing,20.0,0.0
+1,Australian Grand Prix,77,BOT,Cadillac F1 Team,19.0,0.0
+1,Australian Grand Prix,6,HAD,Red Bull,20.0,0.0
 1,Australian Grand Prix,81,PIA,McLaren,21.0,0.0
 1,Australian Grand Prix,27,HUL,Audi,22.0,0.0
-2,Chinese Grand Prix,12,ANT,Mercedes,1.0,29.0
-2,Chinese Grand Prix,63,RUS,Mercedes,2.0,26.0
-2,Chinese Grand Prix,44,HAM,Ferrari,3.0,21.0
-2,Chinese Grand Prix,16,LEC,Ferrari,4.0,19.0
-2,Chinese Grand Prix,87,BEA,Haas F1 Team,5.0,11.0
-2,Chinese Grand Prix,10,GAS,Alpine,6.0,8.0
-2,Chinese Grand Prix,30,LAW,Racing Bulls,7.0,8.0
-2,Chinese Grand Prix,6,HAD,Red Bull Racing,8.0,4.0
+2,Chinese Grand Prix,12,ANT,Mercedes,1.0,25.0
+2,Chinese Grand Prix,63,RUS,Mercedes,2.0,18.0
+2,Chinese Grand Prix,44,HAM,Ferrari,3.0,15.0
+2,Chinese Grand Prix,16,LEC,Ferrari,4.0,12.0
+2,Chinese Grand Prix,87,BEA,Haas F1 Team,5.0,10.0
+2,Chinese Grand Prix,10,GAS,Alpine F1 Team,6.0,8.0
+2,Chinese Grand Prix,30,LAW,RB F1 Team,7.0,6.0
+2,Chinese Grand Prix,6,HAD,Red Bull,8.0,4.0
 2,Chinese Grand Prix,55,SAI,Williams,9.0,2.0
-2,Chinese Grand Prix,43,COL,Alpine,10.0,1.0
+2,Chinese Grand Prix,43,COL,Alpine F1 Team,10.0,1.0
 2,Chinese Grand Prix,27,HUL,Audi,11.0,0.0
-2,Chinese Grand Prix,41,LIN,Racing Bulls,12.0,0.0
-2,Chinese Grand Prix,77,BOT,Cadillac,13.0,0.0
+2,Chinese Grand Prix,41,LIN,RB F1 Team,12.0,0.0
+2,Chinese Grand Prix,77,BOT,Cadillac F1 Team,13.0,0.0
 2,Chinese Grand Prix,31,OCO,Haas F1 Team,14.0,0.0
-2,Chinese Grand Prix,11,PER,Cadillac,15.0,0.0
-2,Chinese Grand Prix,3,VER,Red Bull Racing,16.0,0.0
+2,Chinese Grand Prix,11,PER,Cadillac F1 Team,15.0,0.0
+2,Chinese Grand Prix,3,VER,Red Bull,16.0,0.0
 2,Chinese Grand Prix,14,ALO,Aston Martin,17.0,0.0
 2,Chinese Grand Prix,18,STR,Aston Martin,18.0,0.0
-2,Chinese Grand Prix,81,PIA,McLaren,19.0,3.0
-2,Chinese Grand Prix,1,NOR,McLaren,20.0,5.0
+2,Chinese Grand Prix,81,PIA,McLaren,19.0,0.0
+2,Chinese Grand Prix,1,NOR,McLaren,20.0,0.0
 2,Chinese Grand Prix,5,BOR,Audi,21.0,0.0
 2,Chinese Grand Prix,23,ALB,Williams,22.0,0.0
 3,Japanese Grand Prix,12,ANT,Mercedes,1.0,25.0
@@ -49,217 +49,217 @@ Round,EventName,DriverNumber,Abbreviation,TeamName,Position,Points
 3,Japanese Grand Prix,63,RUS,Mercedes,4.0,12.0
 3,Japanese Grand Prix,1,NOR,McLaren,5.0,10.0
 3,Japanese Grand Prix,44,HAM,Ferrari,6.0,8.0
-3,Japanese Grand Prix,10,GAS,Alpine,7.0,6.0
-3,Japanese Grand Prix,3,VER,Red Bull Racing,8.0,4.0
-3,Japanese Grand Prix,30,LAW,Racing Bulls,9.0,2.0
+3,Japanese Grand Prix,10,GAS,Alpine F1 Team,7.0,6.0
+3,Japanese Grand Prix,3,VER,Red Bull,8.0,4.0
+3,Japanese Grand Prix,30,LAW,RB F1 Team,9.0,2.0
 3,Japanese Grand Prix,31,OCO,Haas F1 Team,10.0,1.0
 3,Japanese Grand Prix,27,HUL,Audi,11.0,0.0
-3,Japanese Grand Prix,6,HAD,Red Bull Racing,12.0,0.0
+3,Japanese Grand Prix,6,HAD,Red Bull,12.0,0.0
 3,Japanese Grand Prix,5,BOR,Audi,13.0,0.0
-3,Japanese Grand Prix,41,LIN,Racing Bulls,14.0,0.0
+3,Japanese Grand Prix,41,LIN,RB F1 Team,14.0,0.0
 3,Japanese Grand Prix,55,SAI,Williams,15.0,0.0
-3,Japanese Grand Prix,43,COL,Alpine,16.0,0.0
-3,Japanese Grand Prix,11,PER,Cadillac,17.0,0.0
+3,Japanese Grand Prix,43,COL,Alpine F1 Team,16.0,0.0
+3,Japanese Grand Prix,11,PER,Cadillac F1 Team,17.0,0.0
 3,Japanese Grand Prix,14,ALO,Aston Martin,18.0,0.0
-3,Japanese Grand Prix,77,BOT,Cadillac,19.0,0.0
+3,Japanese Grand Prix,77,BOT,Cadillac F1 Team,19.0,0.0
 3,Japanese Grand Prix,23,ALB,Williams,20.0,0.0
 3,Japanese Grand Prix,18,STR,Aston Martin,21.0,0.0
 3,Japanese Grand Prix,87,BEA,Haas F1 Team,22.0,0.0
-4,Miami Grand Prix,12,ANT,Mercedes,1.0,28.0
-4,Miami Grand Prix,1,NOR,McLaren,2.0,26.0
-4,Miami Grand Prix,81,PIA,McLaren,3.0,22.0
-4,Miami Grand Prix,63,RUS,Mercedes,4.0,17.0
-4,Miami Grand Prix,3,VER,Red Bull Racing,5.0,14.0
-4,Miami Grand Prix,44,HAM,Ferrari,6.0,10.0
-4,Miami Grand Prix,43,COL,Alpine,7.0,6.0
-4,Miami Grand Prix,16,LEC,Ferrari,8.0,10.0
+4,Miami Grand Prix,12,ANT,Mercedes,1.0,25.0
+4,Miami Grand Prix,1,NOR,McLaren,2.0,18.0
+4,Miami Grand Prix,81,PIA,McLaren,3.0,15.0
+4,Miami Grand Prix,63,RUS,Mercedes,4.0,12.0
+4,Miami Grand Prix,3,VER,Red Bull,5.0,10.0
+4,Miami Grand Prix,44,HAM,Ferrari,6.0,8.0
+4,Miami Grand Prix,43,COL,Alpine F1 Team,7.0,6.0
+4,Miami Grand Prix,16,LEC,Ferrari,8.0,4.0
 4,Miami Grand Prix,55,SAI,Williams,9.0,2.0
 4,Miami Grand Prix,23,ALB,Williams,10.0,1.0
 4,Miami Grand Prix,87,BEA,Haas F1 Team,11.0,0.0
 4,Miami Grand Prix,5,BOR,Audi,12.0,0.0
 4,Miami Grand Prix,31,OCO,Haas F1 Team,13.0,0.0
-4,Miami Grand Prix,41,LIN,Racing Bulls,14.0,0.0
+4,Miami Grand Prix,41,LIN,RB F1 Team,14.0,0.0
 4,Miami Grand Prix,14,ALO,Aston Martin,15.0,0.0
-4,Miami Grand Prix,11,PER,Cadillac,16.0,0.0
+4,Miami Grand Prix,11,PER,Cadillac F1 Team,16.0,0.0
 4,Miami Grand Prix,18,STR,Aston Martin,17.0,0.0
-4,Miami Grand Prix,77,BOT,Cadillac,18.0,0.0
+4,Miami Grand Prix,77,BOT,Cadillac F1 Team,18.0,0.0
 4,Miami Grand Prix,27,HUL,Audi,19.0,0.0
-4,Miami Grand Prix,30,LAW,Racing Bulls,20.0,0.0
-4,Miami Grand Prix,10,GAS,Alpine,21.0,1.0
-4,Miami Grand Prix,6,HAD,Red Bull Racing,22.0,0.0
-5,Canadian Grand Prix,12,ANT,Mercedes,1.0,31.0
-5,Canadian Grand Prix,44,HAM,Ferrari,2.0,21.0
-5,Canadian Grand Prix,3,VER,Red Bull Racing,3.0,17.0
-5,Canadian Grand Prix,16,LEC,Ferrari,4.0,16.0
-5,Canadian Grand Prix,6,HAD,Red Bull Racing,5.0,10.0
-5,Canadian Grand Prix,43,COL,Alpine,6.0,8.0
-5,Canadian Grand Prix,30,LAW,Racing Bulls,7.0,6.0
-5,Canadian Grand Prix,10,GAS,Alpine,8.0,4.0
+4,Miami Grand Prix,30,LAW,RB F1 Team,20.0,0.0
+4,Miami Grand Prix,10,GAS,Alpine F1 Team,21.0,0.0
+4,Miami Grand Prix,6,HAD,Red Bull,22.0,0.0
+5,Canadian Grand Prix,12,ANT,Mercedes,1.0,25.0
+5,Canadian Grand Prix,44,HAM,Ferrari,2.0,18.0
+5,Canadian Grand Prix,3,VER,Red Bull,3.0,15.0
+5,Canadian Grand Prix,16,LEC,Ferrari,4.0,12.0
+5,Canadian Grand Prix,6,HAD,Red Bull,5.0,10.0
+5,Canadian Grand Prix,43,COL,Alpine F1 Team,6.0,8.0
+5,Canadian Grand Prix,30,LAW,RB F1 Team,7.0,6.0
+5,Canadian Grand Prix,10,GAS,Alpine F1 Team,8.0,4.0
 5,Canadian Grand Prix,55,SAI,Williams,9.0,2.0
 5,Canadian Grand Prix,87,BEA,Haas F1 Team,10.0,1.0
-5,Canadian Grand Prix,81,PIA,McLaren,11.0,5.0
+5,Canadian Grand Prix,81,PIA,McLaren,11.0,0.0
 5,Canadian Grand Prix,27,HUL,Audi,12.0,0.0
 5,Canadian Grand Prix,5,BOR,Audi,13.0,0.0
 5,Canadian Grand Prix,31,OCO,Haas F1 Team,14.0,0.0
 5,Canadian Grand Prix,18,STR,Aston Martin,15.0,0.0
-5,Canadian Grand Prix,77,BOT,Cadillac,16.0,0.0
-5,Canadian Grand Prix,11,PER,Cadillac,17.0,0.0
-5,Canadian Grand Prix,1,NOR,McLaren,18.0,7.0
-5,Canadian Grand Prix,63,RUS,Mercedes,19.0,8.0
+5,Canadian Grand Prix,77,BOT,Cadillac F1 Team,16.0,0.0
+5,Canadian Grand Prix,11,PER,Cadillac F1 Team,17.0,0.0
+5,Canadian Grand Prix,1,NOR,McLaren,18.0,0.0
+5,Canadian Grand Prix,63,RUS,Mercedes,19.0,0.0
 5,Canadian Grand Prix,14,ALO,Aston Martin,20.0,0.0
 5,Canadian Grand Prix,23,ALB,Williams,21.0,0.0
-5,Canadian Grand Prix,41,LIN,Racing Bulls,22.0,1.0
+5,Canadian Grand Prix,41,LIN,RB F1 Team,22.0,0.0
 6,Monaco Grand Prix,12,ANT,Mercedes,1.0,25.0
 6,Monaco Grand Prix,44,HAM,Ferrari,2.0,18.0
-6,Monaco Grand Prix,10,GAS,Alpine,3.0,15.0
-6,Monaco Grand Prix,6,HAD,Red Bull Racing,4.0,12.0
+6,Monaco Grand Prix,10,GAS,Alpine F1 Team,3.0,15.0
+6,Monaco Grand Prix,6,HAD,Red Bull,4.0,12.0
 6,Monaco Grand Prix,81,PIA,McLaren,5.0,10.0
-6,Monaco Grand Prix,30,LAW,Racing Bulls,6.0,8.0
-6,Monaco Grand Prix,41,LIN,Racing Bulls,7.0,6.0
+6,Monaco Grand Prix,30,LAW,RB F1 Team,6.0,8.0
+6,Monaco Grand Prix,41,LIN,RB F1 Team,7.0,6.0
 6,Monaco Grand Prix,23,ALB,Williams,8.0,4.0
 6,Monaco Grand Prix,31,OCO,Haas F1 Team,9.0,2.0
 6,Monaco Grand Prix,14,ALO,Aston Martin,10.0,1.0
 6,Monaco Grand Prix,5,BOR,Audi,11.0,0.0
 6,Monaco Grand Prix,63,RUS,Mercedes,12.0,0.0
 6,Monaco Grand Prix,27,HUL,Audi,13.0,0.0
-6,Monaco Grand Prix,43,COL,Alpine,14.0,0.0
-6,Monaco Grand Prix,11,PER,Cadillac,15.0,0.0
+6,Monaco Grand Prix,43,COL,Alpine F1 Team,14.0,0.0
+6,Monaco Grand Prix,11,PER,Cadillac F1 Team,15.0,0.0
 6,Monaco Grand Prix,55,SAI,Williams,16.0,0.0
 6,Monaco Grand Prix,16,LEC,Ferrari,17.0,0.0
 6,Monaco Grand Prix,18,STR,Aston Martin,18.0,0.0
 6,Monaco Grand Prix,1,NOR,McLaren,19.0,0.0
 6,Monaco Grand Prix,87,BEA,Haas F1 Team,20.0,0.0
-6,Monaco Grand Prix,77,BOT,Cadillac,21.0,0.0
-6,Monaco Grand Prix,3,VER,Red Bull Racing,22.0,0.0
+6,Monaco Grand Prix,77,BOT,Cadillac F1 Team,21.0,0.0
+6,Monaco Grand Prix,3,VER,Red Bull,22.0,0.0
 7,Barcelona Grand Prix,44,HAM,Ferrari,1.0,25.0
 7,Barcelona Grand Prix,63,RUS,Mercedes,2.0,18.0
 7,Barcelona Grand Prix,1,NOR,McLaren,3.0,15.0
-7,Barcelona Grand Prix,3,VER,Red Bull Racing,4.0,12.0
+7,Barcelona Grand Prix,3,VER,Red Bull,4.0,12.0
 7,Barcelona Grand Prix,81,PIA,McLaren,5.0,10.0
-7,Barcelona Grand Prix,6,HAD,Red Bull Racing,6.0,8.0
-7,Barcelona Grand Prix,10,GAS,Alpine,7.0,6.0
-7,Barcelona Grand Prix,30,LAW,Racing Bulls,8.0,4.0
-7,Barcelona Grand Prix,41,LIN,Racing Bulls,9.0,2.0
-7,Barcelona Grand Prix,43,COL,Alpine,10.0,1.0
+7,Barcelona Grand Prix,6,HAD,Red Bull,6.0,8.0
+7,Barcelona Grand Prix,10,GAS,Alpine F1 Team,7.0,6.0
+7,Barcelona Grand Prix,30,LAW,RB F1 Team,8.0,4.0
+7,Barcelona Grand Prix,41,LIN,RB F1 Team,9.0,2.0
+7,Barcelona Grand Prix,43,COL,Alpine F1 Team,10.0,1.0
 7,Barcelona Grand Prix,5,BOR,Audi,11.0,0.0
 7,Barcelona Grand Prix,55,SAI,Williams,12.0,0.0
 7,Barcelona Grand Prix,31,OCO,Haas F1 Team,13.0,0.0
-7,Barcelona Grand Prix,11,PER,Cadillac,14.0,0.0
+7,Barcelona Grand Prix,11,PER,Cadillac F1 Team,14.0,0.0
 7,Barcelona Grand Prix,16,LEC,Ferrari,15.0,0.0
 7,Barcelona Grand Prix,12,ANT,Mercedes,16.0,0.0
 7,Barcelona Grand Prix,87,BEA,Haas F1 Team,17.0,0.0
 7,Barcelona Grand Prix,23,ALB,Williams,18.0,0.0
 7,Barcelona Grand Prix,14,ALO,Aston Martin,19.0,0.0
 7,Barcelona Grand Prix,27,HUL,Audi,20.0,0.0
-7,Barcelona Grand Prix,77,BOT,Cadillac,21.0,0.0
+7,Barcelona Grand Prix,77,BOT,Cadillac F1 Team,21.0,0.0
 7,Barcelona Grand Prix,18,STR,Aston Martin,22.0,0.0
 8,Austrian Grand Prix,63,RUS,Mercedes,1.0,25.0
-8,Austrian Grand Prix,3,VER,Red Bull Racing,2.0,18.0
+8,Austrian Grand Prix,3,VER,Red Bull,2.0,18.0
 8,Austrian Grand Prix,12,ANT,Mercedes,3.0,15.0
 8,Austrian Grand Prix,81,PIA,McLaren,4.0,12.0
 8,Austrian Grand Prix,44,HAM,Ferrari,5.0,10.0
-8,Austrian Grand Prix,6,HAD,Red Bull Racing,6.0,8.0
+8,Austrian Grand Prix,6,HAD,Red Bull,6.0,8.0
 8,Austrian Grand Prix,1,NOR,McLaren,7.0,6.0
 8,Austrian Grand Prix,16,LEC,Ferrari,8.0,4.0
-8,Austrian Grand Prix,30,LAW,Racing Bulls,9.0,2.0
-8,Austrian Grand Prix,41,LIN,Racing Bulls,10.0,1.0
+8,Austrian Grand Prix,30,LAW,RB F1 Team,9.0,2.0
+8,Austrian Grand Prix,41,LIN,RB F1 Team,10.0,1.0
 8,Austrian Grand Prix,5,BOR,Audi,11.0,0.0
 8,Austrian Grand Prix,27,HUL,Audi,12.0,0.0
-8,Austrian Grand Prix,10,GAS,Alpine,13.0,0.0
+8,Austrian Grand Prix,10,GAS,Alpine F1 Team,13.0,0.0
 8,Austrian Grand Prix,87,BEA,Haas F1 Team,14.0,0.0
-8,Austrian Grand Prix,43,COL,Alpine,15.0,0.0
+8,Austrian Grand Prix,43,COL,Alpine F1 Team,15.0,0.0
 8,Austrian Grand Prix,31,OCO,Haas F1 Team,16.0,0.0
 8,Austrian Grand Prix,23,ALB,Williams,17.0,0.0
 8,Austrian Grand Prix,14,ALO,Aston Martin,18.0,0.0
 8,Austrian Grand Prix,18,STR,Aston Martin,19.0,0.0
 8,Austrian Grand Prix,55,SAI,Williams,20.0,0.0
-8,Austrian Grand Prix,11,PER,Cadillac,21.0,0.0
-8,Austrian Grand Prix,77,BOT,Cadillac,22.0,0.0
-9,British Grand Prix,16,LEC,Ferrari,1.0,29.0
-9,British Grand Prix,63,RUS,Mercedes,2.0,23.0
-9,British Grand Prix,44,HAM,Ferrari,3.0,22.0
-9,British Grand Prix,1,NOR,McLaren,4.0,18.0
-9,British Grand Prix,6,HAD,Red Bull Racing,5.0,10.0
-9,British Grand Prix,30,LAW,Racing Bulls,6.0,9.0
-9,British Grand Prix,41,LIN,Racing Bulls,7.0,6.0
+8,Austrian Grand Prix,11,PER,Cadillac F1 Team,21.0,0.0
+8,Austrian Grand Prix,77,BOT,Cadillac F1 Team,22.0,0.0
+9,British Grand Prix,16,LEC,Ferrari,1.0,25.0
+9,British Grand Prix,63,RUS,Mercedes,2.0,18.0
+9,British Grand Prix,44,HAM,Ferrari,3.0,15.0
+9,British Grand Prix,1,NOR,McLaren,4.0,12.0
+9,British Grand Prix,6,HAD,Red Bull,5.0,10.0
+9,British Grand Prix,30,LAW,RB F1 Team,6.0,8.0
+9,British Grand Prix,41,LIN,RB F1 Team,7.0,6.0
 9,British Grand Prix,5,BOR,Audi,8.0,4.0
-9,British Grand Prix,43,COL,Alpine,9.0,2.0
-9,British Grand Prix,10,GAS,Alpine,10.0,1.0
-9,British Grand Prix,81,PIA,McLaren,11.0,2.0
+9,British Grand Prix,43,COL,Alpine F1 Team,9.0,2.0
+9,British Grand Prix,10,GAS,Alpine F1 Team,10.0,1.0
+9,British Grand Prix,81,PIA,McLaren,11.0,0.0
 9,British Grand Prix,87,BEA,Haas F1 Team,12.0,0.0
 9,British Grand Prix,31,OCO,Haas F1 Team,13.0,0.0
-9,British Grand Prix,11,PER,Cadillac,14.0,0.0
-9,British Grand Prix,12,ANT,Mercedes,15.0,8.0
-9,British Grand Prix,77,BOT,Cadillac,16.0,0.0
+9,British Grand Prix,11,PER,Cadillac F1 Team,14.0,0.0
+9,British Grand Prix,12,ANT,Mercedes,15.0,0.0
+9,British Grand Prix,77,BOT,Cadillac F1 Team,16.0,0.0
 9,British Grand Prix,55,SAI,Williams,17.0,0.0
 9,British Grand Prix,14,ALO,Aston Martin,18.0,0.0
 9,British Grand Prix,18,STR,Aston Martin,19.0,0.0
-9,British Grand Prix,3,VER,Red Bull Racing,20.0,3.0
+9,British Grand Prix,3,VER,Red Bull,20.0,0.0
 9,British Grand Prix,23,ALB,Williams,21.0,0.0
 9,British Grand Prix,27,HUL,Audi,22.0,0.0
 10,Belgian Grand Prix,12,ANT,Mercedes,1.0,25.0
 10,Belgian Grand Prix,16,LEC,Ferrari,2.0,18.0
-10,Belgian Grand Prix,3,VER,Red Bull Racing,3.0,15.0
+10,Belgian Grand Prix,3,VER,Red Bull,3.0,15.0
 10,Belgian Grand Prix,44,HAM,Ferrari,4.0,12.0
 10,Belgian Grand Prix,81,PIA,McLaren,5.0,10.0
-10,Belgian Grand Prix,6,HAD,Red Bull Racing,6.0,8.0
+10,Belgian Grand Prix,6,HAD,Red Bull,6.0,8.0
 10,Belgian Grand Prix,1,NOR,McLaren,7.0,6.0
 10,Belgian Grand Prix,5,BOR,Audi,8.0,4.0
-10,Belgian Grand Prix,41,LIN,Racing Bulls,9.0,2.0
-10,Belgian Grand Prix,43,COL,Alpine,10.0,1.0
-10,Belgian Grand Prix,10,GAS,Alpine,11.0,0.0
-10,Belgian Grand Prix,30,LAW,Racing Bulls,12.0,0.0
+10,Belgian Grand Prix,41,LIN,RB F1 Team,9.0,2.0
+10,Belgian Grand Prix,43,COL,Alpine F1 Team,10.0,1.0
+10,Belgian Grand Prix,10,GAS,Alpine F1 Team,11.0,0.0
+10,Belgian Grand Prix,30,LAW,RB F1 Team,12.0,0.0
 10,Belgian Grand Prix,27,HUL,Audi,13.0,0.0
 10,Belgian Grand Prix,87,BEA,Haas F1 Team,14.0,0.0
 10,Belgian Grand Prix,23,ALB,Williams,15.0,0.0
 10,Belgian Grand Prix,55,SAI,Williams,16.0,0.0
 10,Belgian Grand Prix,31,OCO,Haas F1 Team,17.0,0.0
-10,Belgian Grand Prix,77,BOT,Cadillac,18.0,0.0
+10,Belgian Grand Prix,77,BOT,Cadillac F1 Team,18.0,0.0
 10,Belgian Grand Prix,14,ALO,Aston Martin,19.0,0.0
 10,Belgian Grand Prix,18,STR,Aston Martin,20.0,0.0
-10,Belgian Grand Prix,11,PER,Cadillac,21.0,0.0
+10,Belgian Grand Prix,11,PER,Cadillac F1 Team,21.0,0.0
 10,Belgian Grand Prix,63,RUS,Mercedes,22.0,0.0
 11,Hungarian Grand Prix,1,NOR,McLaren,1.0,25.0
-11,Hungarian Grand Prix,3,VER,Red Bull Racing,2.0,18.0
+11,Hungarian Grand Prix,3,VER,Red Bull,2.0,18.0
 11,Hungarian Grand Prix,12,ANT,Mercedes,3.0,15.0
 11,Hungarian Grand Prix,16,LEC,Ferrari,4.0,12.0
 11,Hungarian Grand Prix,44,HAM,Ferrari,5.0,10.0
-11,Hungarian Grand Prix,6,HAD,Red Bull Racing,6.0,8.0
+11,Hungarian Grand Prix,6,HAD,Red Bull,6.0,8.0
 11,Hungarian Grand Prix,63,RUS,Mercedes,7.0,6.0
-11,Hungarian Grand Prix,30,LAW,Racing Bulls,8.0,4.0
+11,Hungarian Grand Prix,30,LAW,RB F1 Team,8.0,4.0
 11,Hungarian Grand Prix,27,HUL,Audi,9.0,2.0
-11,Hungarian Grand Prix,41,LIN,Racing Bulls,10.0,1.0
+11,Hungarian Grand Prix,41,LIN,RB F1 Team,10.0,1.0
 11,Hungarian Grand Prix,5,BOR,Audi,11.0,0.0
-11,Hungarian Grand Prix,10,GAS,Alpine,12.0,0.0
+11,Hungarian Grand Prix,10,GAS,Alpine F1 Team,12.0,0.0
 11,Hungarian Grand Prix,18,STR,Aston Martin,13.0,0.0
 11,Hungarian Grand Prix,14,ALO,Aston Martin,14.0,0.0
-11,Hungarian Grand Prix,43,COL,Alpine,15.0,0.0
+11,Hungarian Grand Prix,43,COL,Alpine F1 Team,15.0,0.0
 11,Hungarian Grand Prix,31,OCO,Haas F1 Team,16.0,0.0
 11,Hungarian Grand Prix,23,ALB,Williams,17.0,0.0
 11,Hungarian Grand Prix,55,SAI,Williams,18.0,0.0
 11,Hungarian Grand Prix,87,BEA,Haas F1 Team,19.0,0.0
 11,Hungarian Grand Prix,81,PIA,McLaren,20.0,0.0
-11,Hungarian Grand Prix,11,PER,Cadillac,21.0,0.0
-11,Hungarian Grand Prix,77,BOT,Cadillac,22.0,0.0
-12,Dutch Grand Prix,1,NOR,McLaren,1.0,31.0
-12,Dutch Grand Prix,12,ANT,Mercedes,2.0,23.0
-12,Dutch Grand Prix,63,RUS,Mercedes,3.0,23.0
-12,Dutch Grand Prix,44,HAM,Ferrari,4.0,14.0
-12,Dutch Grand Prix,16,LEC,Ferrari,5.0,17.0
-12,Dutch Grand Prix,81,PIA,McLaren,6.0,12.0
-12,Dutch Grand Prix,30,LAW,Red Bull Racing,7.0,6.0
+11,Hungarian Grand Prix,11,PER,Cadillac F1 Team,21.0,0.0
+11,Hungarian Grand Prix,77,BOT,Cadillac F1 Team,22.0,0.0
+12,Dutch Grand Prix,1,NOR,McLaren,1.0,25.0
+12,Dutch Grand Prix,12,ANT,Mercedes,2.0,18.0
+12,Dutch Grand Prix,63,RUS,Mercedes,3.0,15.0
+12,Dutch Grand Prix,44,HAM,Ferrari,4.0,12.0
+12,Dutch Grand Prix,16,LEC,Ferrari,5.0,10.0
+12,Dutch Grand Prix,81,PIA,McLaren,6.0,8.0
+12,Dutch Grand Prix,30,LAW,Red Bull,7.0,6.0
 12,Dutch Grand Prix,27,HUL,Audi,8.0,4.0
 12,Dutch Grand Prix,14,ALO,Aston Martin,9.0,2.0
-12,Dutch Grand Prix,10,GAS,Alpine,10.0,2.0
-12,Dutch Grand Prix,22,TSU,Racing Bulls,11.0,0.0
-12,Dutch Grand Prix,41,LIN,Racing Bulls,12.0,0.0
+12,Dutch Grand Prix,10,GAS,Alpine F1 Team,10.0,1.0
+12,Dutch Grand Prix,22,TSU,RB F1 Team,11.0,0.0
+12,Dutch Grand Prix,41,LIN,RB F1 Team,12.0,0.0
 12,Dutch Grand Prix,5,BOR,Audi,13.0,0.0
-12,Dutch Grand Prix,43,COL,Alpine,14.0,0.0
-12,Dutch Grand Prix,11,PER,Cadillac,15.0,0.0
+12,Dutch Grand Prix,43,COL,Alpine F1 Team,14.0,0.0
+12,Dutch Grand Prix,11,PER,Cadillac F1 Team,15.0,0.0
 12,Dutch Grand Prix,55,SAI,Williams,16.0,0.0
 12,Dutch Grand Prix,23,ALB,Williams,17.0,0.0
-12,Dutch Grand Prix,77,BOT,Cadillac,18.0,0.0
+12,Dutch Grand Prix,77,BOT,Cadillac F1 Team,18.0,0.0
 12,Dutch Grand Prix,31,OCO,Haas F1 Team,19.0,0.0
 12,Dutch Grand Prix,18,STR,Aston Martin,20.0,0.0
 12,Dutch Grand Prix,87,BEA,Haas F1 Team,21.0,0.0
-12,Dutch Grand Prix,3,VER,Red Bull Racing,22.0,3.0
+12,Dutch Grand Prix,3,VER,Red Bull,22.0,0.0
