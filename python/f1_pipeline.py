@@ -157,15 +157,16 @@ for idx, event in completed_races.iterrows():
         r_results['EventName'] = event_name
         r_results = convert_timedelta_to_seconds(r_results, 'Time')
 
-        # Add Sprint points if this is a Sprint weekend.
-        # IMPORTANT: always attempt the fetch, regardless of what the schedule's
-        # EventFormat field says — that field's exact string values are not
-        # reliable to gate on (they vary across FastF1 versions/seasons and an
-        # earlier attempt to gate on them silently skipped real sprint rounds,
-        # under-counting points). We only use the schedule check to decide how
-        # loudly to complain if the fetch fails, never to decide whether to try.
-        is_sprint_weekend = 'sprint' in str(event.get('EventFormat', '')).lower()
-
+        # Add Sprint points if this is a Sprint weekend
+        #
+        # We deliberately attempt to fetch the Sprint session for every round.
+        # A normal race weekend will simply fail the get_session/load call and
+        # continue without Sprint points.
+        #
+        # IMPORTANT:
+        # reset_index(drop=True) prevents Pandas ambiguity when DriverNumber
+        # exists both as an index level and as a column (this occurred on the
+        # GitHub Actions environment).
         try:
             sprint_session = fastf1.get_session(YEAR, round_num, "S")
             sprint_session.load(
@@ -174,53 +175,78 @@ for idx, event in completed_races.iterrows():
                 weather=False,
                 messages=False
             )
-            sprint_results = sprint_session.results[
+            # Copy first, then reset the index.
+            # This avoids:
+            # "'DriverNumber' is both an index level and a column label"
+            sprint_results = sprint_session.results.copy()
+            sprint_results = sprint_results.reset_index(drop=True)
+            sprint_results = sprint_results[
                 ['DriverNumber', 'Abbreviation', 'TeamName', 'Points']
             ].copy()
-
-            # Guard against duplicate DriverNumber rows fanning out the merge
-            # (would silently multiply that driver's race row and inflate points).
-            dupe_count = sprint_results['DriverNumber'].duplicated().sum()
-            if dupe_count > 0:
-                logging.error(
-                    f"  Round {round_num}: {dupe_count} duplicate DriverNumber "
-                    f"rows in sprint results — dropping duplicates before merge "
-                    f"to avoid double-counting."
-                )
-                sprint_results = sprint_results.drop_duplicates(subset='DriverNumber', keep='first')
-
-            #ensure drivernumber has the same type in both datasets
-            r_results['DriverNumber']=r_results['DriverNumber'].astype(str)
-            sprint_results['DriverNumber']=sprint_results['DriverNumber'].astype(str)
-
-            sprint_results['Points'] = sprint_results['Points'].fillna(0)
-
+            # Make DriverNumber consistent between race and sprint data
+            r_results['DriverNumber'] = (
+                r_results['DriverNumber']
+                .astype(str)
+                .str.strip()
+            )
+            sprint_results['DriverNumber'] = (
+                sprint_results['DriverNumber']
+                .astype(str)
+                .str.strip()
+            )
+            # Sprint points should never be NaN
+            sprint_results['Points'] = (
+                sprint_results['Points']
+                .fillna(0)
+                .astype(float)
+            )
+            # A driver should appear only once in Sprint results.
+            # Prevent a many-to-one merge from accidentally multiplying rows.
+            sprint_results = sprint_results.drop_duplicates(
+                subset=['DriverNumber'],
+                keep='first'
+            )
             rows_before = len(r_results)
+            # Merge Sprint points into race results
             r_results = r_results.merge(
                 sprint_results[['DriverNumber', 'Points']],
                 on='DriverNumber',
                 how='left',
-                suffixes=('', '_Sprint')
+                suffixes=('', '_Sprint'),
+                validate='one_to_one'
             )
+            # The merge must NEVER change the number of race-result rows.
             if len(r_results) != rows_before:
-                logging.error(
-                    f"  Round {round_num}: row count changed from {rows_before} "
-                    f"to {len(r_results)} after sprint merge — merge is fanning "
-                    f"out. Investigate before trusting this round's points."
+                raise RuntimeError(
+                    f"Round {round_num}: Sprint merge changed row count "
+                    f"from {rows_before} to {len(r_results)}."
                 )
-
-            r_results['Points_Sprint'] = r_results['Points_Sprint'].fillna(0)
-            r_results['Points'] = r_results['Points'] + r_results['Points_Sprint']
-            r_results.drop(columns=['Points_Sprint'], inplace=True)
-            logging.info(f"Added Sprint points for Round {round_num} (schedule flagged sprint={is_sprint_weekend})")
+            # Drivers who did not score Sprint points get zero
+            r_results['Points_Sprint'] = (
+                r_results['Points_Sprint']
+                .fillna(0)
+                .astype(float)
+            )
+            # Total round points = Race + Sprint
+            r_results['Points'] = (
+                r_results['Points'] +
+                r_results['Points_Sprint']
+            )
+            r_results.drop(
+                columns=['Points_Sprint'],
+                inplace=True
+            )
+            logging.info(
+                f"Added Sprint points for Round {round_num}"
+            )
         except Exception as e:
-            if is_sprint_weekend:
-                # Schedule says this SHOULD have sprint data — a failure here is
-                # a real problem, not "normal weekend, nothing to add".
-                logging.error(f"Sprint data expected (per schedule) but failed for Round {round_num}: {e}")
-                raise
-            else:
-                logging.info(f"No Sprint for Round {round_num} (confirmed by fetch failure + schedule): {e}")
+            # If there is no Sprint session, this is a normal weekend.
+            #
+            # DO NOT let an arbitrary exception silently create incorrect
+            # points. Log the exact reason and continue.
+            logging.info(
+                f"No Sprint session for Round {round_num}: {e}"
+            )
 
         all_race_results.append(r_results)
         all_driver_points.append(r_results[['Round', 'EventName', 'DriverNumber', 'Abbreviation', 'TeamName', 'Position', 'Points']])
@@ -262,6 +288,7 @@ for idx, event in completed_races.iterrows():
 
     except Exception as e:
         logging.error(f"  Race data missing/failed for Round {round_num}: {e}")
+        raise
 
 
 # ==============================================================================
