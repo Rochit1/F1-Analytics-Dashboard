@@ -157,37 +157,50 @@ for idx, event in completed_races.iterrows():
         r_results['EventName'] = event_name
         r_results = convert_timedelta_to_seconds(r_results, 'Time')
 
-        # Add Sprint points if this is a Sprint weekend
-        try:
-            sprint_session = fastf1.get_session(YEAR, round_num, "S")
-            sprint_session.load(
-                laps=False,
-                telemetry=False,
-                weather=False,
-                messages=False
-            )
-            sprint_results = sprint_session.results[
-                ['DriverNumber', 'Abbreviation', 'TeamName', 'Points']
-            ].copy()
-            #ensure drivernumber has the same type in both datasets
-            r_results['DriverNumber']=r_results['DriverNumber'].astype(str)
-            sprint_results['DriverNumber']=sprint_results['DriverNumber'].astype(str)
+        # Add Sprint points if this is a Sprint weekend.
+        # Check the schedule's EventFormat instead of blindly try/except-ing the
+        # session fetch: that made "no sprint this weekend" and "sprint fetch
+        # failed" look identical, so a transient CI failure silently reverted
+        # already-correct sprint points on the next scheduled run.
+        is_sprint_weekend = 'sprint' in str(event.get('EventFormat', '')).lower()
 
-            sprint_results['Points'] = sprint_results['Points'].fillna(0)
-            # Add Sprint points to the corresponding driver's race points
-            r_results = r_results.merge(
-                sprint_results[['DriverNumber', 'Points']],
-                on='DriverNumber',
-                how='left',
-                suffixes=('', '_Sprint')
-            )
-            r_results['Points_Sprint'] = r_results['Points_Sprint'].fillna(0)
-            r_results['Points'] = r_results['Points'] + r_results['Points_Sprint']
-            r_results.drop(columns=['Points_Sprint'], inplace=True)
-            logging.info(f"Added Sprint points for Round {round_num}")
-        except Exception as e:
-            # Normal race weekend — no Sprint
-            logging.warning(f"No Sprint for Round {round_num}: {e}")
+        if is_sprint_weekend:
+            try:
+                sprint_session = fastf1.get_session(YEAR, round_num, "S")
+                sprint_session.load(
+                    laps=False,
+                    telemetry=False,
+                    weather=False,
+                    messages=False
+                )
+                sprint_results = sprint_session.results[
+                    ['DriverNumber', 'Abbreviation', 'TeamName', 'Points']
+                ].copy()
+                #ensure drivernumber has the same type in both datasets
+                r_results['DriverNumber']=r_results['DriverNumber'].astype(str)
+                sprint_results['DriverNumber']=sprint_results['DriverNumber'].astype(str)
+
+                sprint_results['Points'] = sprint_results['Points'].fillna(0)
+                # Add Sprint points to the corresponding driver's race points
+                r_results = r_results.merge(
+                    sprint_results[['DriverNumber', 'Points']],
+                    on='DriverNumber',
+                    how='left',
+                    suffixes=('', '_Sprint')
+                )
+                r_results['Points_Sprint'] = r_results['Points_Sprint'].fillna(0)
+                r_results['Points'] = r_results['Points'] + r_results['Points_Sprint']
+                r_results.drop(columns=['Points_Sprint'], inplace=True)
+                logging.info(f"Added Sprint points for Round {round_num}")
+            except Exception as e:
+                # This IS a sprint weekend but the fetch/merge failed — that's
+                # a real problem, not "normal race weekend, nothing to do".
+                # Raise instead of swallowing, so the job fails loudly rather
+                # than silently committing a CSV with sprint points missing.
+                logging.error(f"Sprint data expected but failed for Round {round_num}: {e}")
+                raise
+        else:
+            logging.info(f"Round {round_num} is not a Sprint weekend, skipping.")
 
         all_race_results.append(r_results)
         all_driver_points.append(r_results[['Round', 'EventName', 'DriverNumber', 'Abbreviation', 'TeamName', 'Position', 'Points']])
