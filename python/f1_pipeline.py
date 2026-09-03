@@ -186,7 +186,10 @@ for idx, event in completed_races.iterrows():
             # This avoids:
             # "'DriverNumber' is both an index level and a column label"
             sprint_results = sprint_session.results.copy()
-            sprint_results = sprint_results.reset_index(drop=True)
+            sprint_results.index.names=[
+                None if name in sprint_results.columns else name
+                for name in sprint_results.index.names
+            ]
             sprint_results = sprint_results[
                 ['DriverNumber', 'Abbreviation', 'TeamName', 'Points']
             ].copy()
