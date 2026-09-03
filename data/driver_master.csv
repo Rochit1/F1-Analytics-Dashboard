@@ -1,0 +1,31 @@
+driverId,driverNumber,driverCode,driverUrl,givenName,familyName,dateOfBirth,driverNationality
+albon,23.0,ALB,http://en.wikipedia.org/wiki/Alexander_Albon,Alexander,Albon,1996-03-23,Thai
+alonso,14.0,ALO,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,1981-07-29,Spanish
+antonelli,12.0,ANT,https://en.wikipedia.org/wiki/Andrea_Kimi_Antonelli,Andrea Kimi,Antonelli,2006-08-25,Italian
+paul_aron,,,,Paul,Aron,,
+bearman,87.0,BEA,http://en.wikipedia.org/wiki/Oliver_Bearman,Oliver,Bearman,2005-05-08,British
+dino_beganovic,,,,Dino,Beganovic,,
+bortoleto,5.0,BOR,https://en.wikipedia.org/wiki/Gabriel_Bortoleto,Gabriel,Bortoleto,2004-10-14,Brazilian
+bottas,77.0,BOT,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,1989-08-28,Finnish
+luke_browning,,,,Luke,Browning,,
+colapinto,43.0,COL,http://en.wikipedia.org/wiki/Franco_Colapinto,Franco,Colapinto,2003-05-27,Argentine
+jak_crawford,,,,Jak,Crawford,,
+leonardo_fornaroli,,,,Leonardo,Fornaroli,,
+gasly,10.0,GAS,http://en.wikipedia.org/wiki/Pierre_Gasly,Pierre,Gasly,1996-02-07,French
+hadjar,6.0,HAD,https://en.wikipedia.org/wiki/Isack_Hadjar,Isack,Hadjar,2004-09-28,French
+hamilton,44.0,HAM,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,1985-01-07,British
+colton_herta,,,,Colton,Herta,,
+ryo_hirakawa,,,,Ryo,Hirakawa,,
+hulkenberg,27.0,HUL,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,1987-08-19,German
+ayumu_iwasa,,,,Ayumu,Iwasa,,
+lawson,30.0,LAW,http://en.wikipedia.org/wiki/Liam_Lawson,Liam,Lawson,2002-02-11,New Zealander
+leclerc,16.0,LEC,http://en.wikipedia.org/wiki/Charles_Leclerc,Charles,Leclerc,1997-10-16,Monegasque
+arvid_lindblad,41.0,LIN,https://en.wikipedia.org/wiki/Arvid_Lindblad,Arvid,Lindblad,2007-08-08,British
+norris,1.0,NOR,http://en.wikipedia.org/wiki/Lando_Norris,Lando,Norris,1999-11-13,British
+ocon,31.0,OCO,http://en.wikipedia.org/wiki/Esteban_Ocon,Esteban,Ocon,1996-09-17,French
+piastri,81.0,PIA,http://en.wikipedia.org/wiki/Oscar_Piastri,Oscar,Piastri,2001-04-06,Australian
+perez,11.0,PER,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,1990-01-26,Mexican
+russell,63.0,RUS,http://en.wikipedia.org/wiki/George_Russell_(racing_driver),George,Russell,1998-02-15,British
+sainz,55.0,SAI,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,Carlos,Sainz,1994-09-01,Spanish
+stroll,18.0,STR,http://en.wikipedia.org/wiki/Lance_Stroll,Lance,Stroll,1998-10-29,Canadian
+tsunoda,22.0,TSU,http://en.wikipedia.org/wiki/Yuki_Tsunoda,Yuki,Tsunoda,2000-05-11,Japanese

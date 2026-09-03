@@ -73,14 +73,26 @@ except Exception as e:
 # 2. Driver Master & Constructor Master Tables (Dimensional Modeling)
 try:
     drivers_resp = ergast.get_driver_info(season=YEAR)
-    if drivers_resp.content:
+    if hasattr(drivers_resp, 'content') and drivers_resp.content:
         driver_master = drivers_resp.content[0]
+    elif isinstance(drivers_resp, pd.DataFrame):
+        driver_master = drivers_resp
+    else:
+        driver_master = None
+
+    if driver_master is not None and not driver_master.empty:
         driver_master.to_csv(DATA_FOLDER / "driver_master.csv", index=False)
         logging.info("Saved driver_master.csv")
 
     constructors_resp = ergast.get_constructor_info(season=YEAR)
-    if constructors_resp.content:
+    if hasattr(constructors_resp, 'content') and constructors_resp.content:
         constructor_master = constructors_resp.content[0]
+    elif isinstance(constructors_resp, pd.DataFrame):
+        constructor_master = constructors_resp
+    else:
+        constructor_master = None
+
+    if constructor_master is not None and not constructor_master.empty:
         constructor_master.to_csv(DATA_FOLDER / "constructor_master.csv", index=False)
         logging.info("Saved constructor_master.csv")
 except Exception as e:
@@ -160,109 +172,98 @@ for idx, event in completed_races.iterrows():
 
         # 1. Complete Race Results & Points per Round
         r_results = race_session.results[['DriverNumber', 'Abbreviation', 'FullName', 'TeamName', 'Position', 'GridPosition', 'Points', 'Status', 'Time']].copy()
+        # CRITICAL: Reset index on r_results to remove any index level named 'DriverNumber'.
+        # When Ergast data is loaded (common in CI/GitHub Actions), FastF1 sets DriverNumber as index (drop=False).
+        # Leaving DriverNumber in the index causes pandas.merge to fail with:
+        # "ValueError: 'DriverNumber' is both an index level and a column label, which is ambiguous."
+        r_results = r_results.reset_index(drop=True)
+        r_results.index.name = None
+        r_results['DriverNumber'] = r_results['DriverNumber'].astype(str).str.strip()
         r_results['Round'] = round_num
         r_results['EventName'] = event_name
         r_results = convert_timedelta_to_seconds(r_results, 'Time')
 
-        # Add Sprint points if this is a Sprint weekend
-        #
-        # We deliberately attempt to fetch the Sprint session for every round.
-        # A normal race weekend will simply fail the get_session/load call and
-        # continue without Sprint points.
-        #
-        # IMPORTANT:
-        # reset_index(drop=True) prevents Pandas ambiguity when DriverNumber
-        # exists both as an index level and as a column (this occurred on the
-        # GitHub Actions environment).
-        try:
-            sprint_session = fastf1.get_session(YEAR, round_num, "S")
-            sprint_session.load(
-                laps=False,
-                telemetry=False,
-                weather=False,
-                messages=False
-            )
-            # Copy first, then reset the index.
-            # This avoids:
-            # "'DriverNumber' is both an index level and a column label"
-            sprint_results = sprint_session.results.copy()
-            logging.info(f"SPRINT INDEX: {sprint_results.index}")
-            logging.info(f"SPRINT INDEX NAMES: {sprint_results.index.names}")
-            logging.info(f"SPRINT COLUMNS: {list(sprint_results.columns)}")
-            logging.info(f"SPRINT DRIVER NUMBER COLUMN EXISTS: {'DriverNumber' in sprint_results.columns}")
-            if 'DriverNumber' in sprint_results.index.names:
-                sprint_results.index = sprint_results.index.rename(
-                    None,
-                    level=sprint_results.index.names.index('DriverNumber')
+        # Check whether this round is a Sprint weekend
+        is_sprint_weekend = (
+            'Sprint' in [event.get(f'Session{i}') for i in range(1, 6)]
+            or 'sprint' in str(event.get('EventFormat', '')).lower()
+        )
+
+        if is_sprint_weekend:
+            logging.info(f"Round {round_num} is a Sprint weekend. Extracting Sprint points...")
+            sprint_results = None
+
+            # Primary attempt: FastF1 session load
+            try:
+                sprint_session = fastf1.get_session(YEAR, round_num, "S")
+                sprint_session.load(
+                    laps=False,
+                    telemetry=False,
+                    weather=False,
+                    messages=False
                 )
-            sprint_results = sprint_results[
-                ['DriverNumber', 'Abbreviation', 'TeamName', 'Points']
-            ].copy()
-            # Make DriverNumber consistent between race and sprint data
-            r_results['DriverNumber'] = (
-                r_results['DriverNumber']
-                .astype(str)
-                .str.strip()
-            )
-            sprint_results['DriverNumber'] = (
-                sprint_results['DriverNumber']
-                .astype(str)
-                .str.strip()
-            )
-            # Sprint points should never be NaN
-            sprint_results['Points'] = (
-                sprint_results['Points']
-                .fillna(0)
-                .astype(float)
-            )
-            # A driver should appear only once in Sprint results.
-            # Prevent a many-to-one merge from accidentally multiplying rows.
-            sprint_results = sprint_results.drop_duplicates(
-                subset=['DriverNumber'],
-                keep='first'
-            )
-            rows_before = len(r_results)
-            # Merge Sprint points into race results
-            r_results = r_results.merge(
-                sprint_results[['DriverNumber', 'Points']],
-                on='DriverNumber',
-                how='left',
-                suffixes=('', '_Sprint'),
-                validate='one_to_one'
-            )
-            # The merge must NEVER change the number of race-result rows.
-            if len(r_results) != rows_before:
-                raise RuntimeError(
-                    f"Round {round_num}: Sprint merge changed row count "
-                    f"from {rows_before} to {len(r_results)}."
+                if hasattr(sprint_session, 'results') and sprint_session.results is not None and not sprint_session.results.empty:
+                    sprint_results = sprint_session.results.copy()
+                    sprint_results = sprint_results.reset_index(drop=True)
+                    sprint_results.index.name = None
+                    if 'DriverNumber' in sprint_results.columns and 'Points' in sprint_results.columns:
+                        sprint_results = sprint_results[['DriverNumber', 'Points']].copy()
+                        logging.info(f"Loaded {len(sprint_results)} sprint result rows via FastF1 for Round {round_num}")
+                    else:
+                        sprint_results = None
+            except Exception as e:
+                logging.warning(f"FastF1 sprint session load failed for Round {round_num}: {e}. Trying Ergast fallback...")
+
+            # Fallback attempt: Ergast sprint results API
+            if sprint_results is None or sprint_results.empty:
+                try:
+                    sprint_resp = ergast.get_sprint_results(season=YEAR, round=round_num)
+                    resp_df = None
+                    if hasattr(sprint_resp, 'content') and sprint_resp.content and len(sprint_resp.content) > 0:
+                        resp_df = sprint_resp.content[0]
+                    elif isinstance(sprint_resp, pd.DataFrame):
+                        resp_df = sprint_resp
+
+                    if resp_df is not None and not resp_df.empty:
+                        resp_df = resp_df.reset_index(drop=True)
+                        resp_df.index.name = None
+                        num_col = 'number' if 'number' in resp_df.columns else ('DriverNumber' if 'DriverNumber' in resp_df.columns else None)
+                        pts_col = 'points' if 'points' in resp_df.columns else ('Points' if 'Points' in resp_df.columns else None)
+                        if num_col and pts_col:
+                            sprint_results = resp_df[[num_col, pts_col]].rename(
+                                columns={num_col: 'DriverNumber', pts_col: 'Points'}
+                            ).copy()
+                            logging.info(f"Loaded {len(sprint_results)} sprint result rows via Ergast fallback for Round {round_num}")
+                except Exception as e:
+                    logging.warning(f"Ergast sprint fallback failed for Round {round_num}: {e}")
+
+            if sprint_results is not None and not sprint_results.empty:
+                sprint_results = sprint_results.reset_index(drop=True)
+                sprint_results.index.name = None
+                sprint_results['DriverNumber'] = sprint_results['DriverNumber'].astype(str).str.strip()
+                sprint_results['Points'] = sprint_results['Points'].fillna(0).astype(float)
+                sprint_results = sprint_results.drop_duplicates(subset=['DriverNumber'], keep='first')
+
+                rows_before = len(r_results)
+                r_results = r_results.merge(
+                    sprint_results[['DriverNumber', 'Points']],
+                    on='DriverNumber',
+                    how='left',
+                    suffixes=('', '_Sprint'),
+                    validate='one_to_one'
                 )
-            # Drivers who did not score Sprint points get zero
-            r_results['Points_Sprint'] = (
-                r_results['Points_Sprint']
-                .fillna(0)
-                .astype(float)
-            )
-            # Total round points = Race + Sprint
-            r_results['Points'] = (
-                r_results['Points'] +
-                r_results['Points_Sprint']
-            )
-            r_results.drop(
-                columns=['Points_Sprint'],
-                inplace=True
-            )
-            logging.info(
-                f"Added Sprint points for Round {round_num}"
-            )
-        except Exception as e:
-            # If there is no Sprint session, this is a normal weekend.
-            #
-            # DO NOT let an arbitrary exception silently create incorrect
-            # points. Log the exact reason and continue.
-            logging.exception(
-                f"Sprint processing failed for round {round_num}"
-            ) 
-            raise
+                if len(r_results) != rows_before:
+                    raise RuntimeError(
+                        f"Round {round_num}: Sprint merge changed row count from {rows_before} to {len(r_results)}."
+                    )
+                r_results['Points_Sprint'] = r_results['Points_Sprint'].fillna(0).astype(float)
+                r_results['Points'] = r_results['Points'] + r_results['Points_Sprint']
+                r_results.drop(columns=['Points_Sprint'], inplace=True)
+                logging.info(f"Successfully added Sprint points for Round {round_num}")
+            else:
+                logging.error(f"Failed to fetch Sprint points for Round {round_num} from both FastF1 and Ergast.")
+        else:
+            logging.info(f"Round {round_num} is not a Sprint weekend, skipping sprint points.")
 
         all_race_results.append(r_results)
         all_driver_points.append(r_results[['Round', 'EventName', 'DriverNumber', 'Abbreviation', 'TeamName', 'Position', 'Points']])
