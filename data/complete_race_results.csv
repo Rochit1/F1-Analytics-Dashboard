@@ -21,6 +21,28 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,
 6,HAD,Isack Hadjar,Red Bull,20.0,3.0,0.0,Retired,,1,Australian Grand Prix,
 81,PIA,Oscar Piastri,McLaren,21.0,5.0,0.0,Did not start,,1,Australian Grand Prix,
 27,HUL,Nico Hülkenberg,Audi,22.0,11.0,0.0,Did not start,,1,Australian Grand Prix,
+12,ANT,Andrea Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,0 days 01:33:15.607000,2,Chinese Grand Prix,5595.607
+63,RUS,George Russell,Mercedes,2.0,2.0,18.0,Finished,0 days 00:00:05.515000,2,Chinese Grand Prix,5.515
+44,HAM,Lewis Hamilton,Ferrari,3.0,3.0,15.0,Finished,0 days 00:00:25.267000,2,Chinese Grand Prix,25.267
+16,LEC,Charles Leclerc,Ferrari,4.0,4.0,12.0,Finished,0 days 00:00:28.894000,2,Chinese Grand Prix,28.894
+87,BEA,Oliver Bearman,Haas F1 Team,5.0,10.0,10.0,Finished,0 days 00:00:57.268000,2,Chinese Grand Prix,57.268
+10,GAS,Pierre Gasly,Alpine F1 Team,6.0,7.0,8.0,Finished,0 days 00:00:59.647000,2,Chinese Grand Prix,59.647
+30,LAW,Liam Lawson,RB F1 Team,7.0,14.0,6.0,Finished,0 days 00:01:20.588000,2,Chinese Grand Prix,80.588
+6,HAD,Isack Hadjar,Red Bull,8.0,9.0,4.0,Finished,0 days 00:01:27.247000,2,Chinese Grand Prix,87.247
+55,SAI,Carlos Sainz,Williams,9.0,17.0,2.0,Lapped,0 days 00:00:11.673000,2,Chinese Grand Prix,11.673
+43,COL,Franco Colapinto,Alpine F1 Team,10.0,12.0,1.0,Lapped,0 days 00:00:12.403000,2,Chinese Grand Prix,12.403
+27,HUL,Nico Hülkenberg,Audi,11.0,11.0,0.0,Lapped,0 days 00:00:21.109000,2,Chinese Grand Prix,21.109
+41,LIN,Arvid Lindblad,RB F1 Team,12.0,15.0,0.0,Lapped,0 days 00:00:22.828000,2,Chinese Grand Prix,22.828
+77,BOT,Valtteri Bottas,Cadillac F1 Team,13.0,19.0,0.0,Lapped,0 days 00:00:56.158000,2,Chinese Grand Prix,56.158
+31,OCO,Esteban Ocon,Haas F1 Team,14.0,13.0,0.0,Lapped,0 days 00:01:06.256000,2,Chinese Grand Prix,66.256
+11,PER,Sergio Pérez,Cadillac F1 Team,15.0,21.0,0.0,Lapped,0 days 00:01:14.641000,2,Chinese Grand Prix,74.641
+3,VER,Max Verstappen,Red Bull,16.0,8.0,0.0,Retired,,2,Chinese Grand Prix,
+14,ALO,Fernando Alonso,Aston Martin,17.0,18.0,0.0,Retired,,2,Chinese Grand Prix,
+18,STR,Lance Stroll,Aston Martin,18.0,20.0,0.0,Retired,,2,Chinese Grand Prix,
+81,PIA,Oscar Piastri,McLaren,19.0,5.0,0.0,Did not start,,2,Chinese Grand Prix,
+1,NOR,Lando Norris,McLaren,20.0,6.0,0.0,Did not start,,2,Chinese Grand Prix,
+5,BOR,Gabriel Bortoleto,Audi,21.0,16.0,0.0,Did not start,,2,Chinese Grand Prix,
+23,ALB,Alexander Albon,Williams,22.0,22.0,0.0,Did not start,,2,Chinese Grand Prix,
 12,ANT,Andrea Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,0 days 01:28:03.403000,3,Japanese Grand Prix,5283.403
 81,PIA,Oscar Piastri,McLaren,2.0,3.0,18.0,Finished,0 days 00:00:13.722000,3,Japanese Grand Prix,13.722
 16,LEC,Charles Leclerc,Ferrari,3.0,4.0,15.0,Finished,0 days 00:00:15.270000,3,Japanese Grand Prix,15.27
@@ -43,6 +65,50 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,
 23,ALB,Alexander Albon,Williams,20.0,17.0,0.0,Lapped,0 days 00:00:05.067000,3,Japanese Grand Prix,5.067
 18,STR,Lance Stroll,Aston Martin,21.0,22.0,0.0,Retired,,3,Japanese Grand Prix,
 87,BEA,Oliver Bearman,Haas F1 Team,22.0,18.0,0.0,Retired,,3,Japanese Grand Prix,
+12,ANT,Andrea Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,0 days 01:33:19.273000,4,Miami Grand Prix,5599.273
+1,NOR,Lando Norris,McLaren,2.0,4.0,18.0,Finished,0 days 00:00:03.264000,4,Miami Grand Prix,3.264
+81,PIA,Oscar Piastri,McLaren,3.0,7.0,15.0,Finished,0 days 00:00:27.092000,4,Miami Grand Prix,27.092
+63,RUS,George Russell,Mercedes,4.0,5.0,12.0,Finished,0 days 00:00:43.051000,4,Miami Grand Prix,43.051
+3,VER,Max Verstappen,Red Bull,5.0,2.0,10.0,Finished,0 days 00:00:48.949000,4,Miami Grand Prix,48.949
+44,HAM,Lewis Hamilton,Ferrari,6.0,6.0,8.0,Finished,0 days 00:00:53.753000,4,Miami Grand Prix,53.753
+43,COL,Franco Colapinto,Alpine F1 Team,7.0,8.0,6.0,Finished,0 days 00:01:01.871000,4,Miami Grand Prix,61.871
+16,LEC,Charles Leclerc,Ferrari,8.0,3.0,4.0,Finished,0 days 00:01:04.245000,4,Miami Grand Prix,64.245
+55,SAI,Carlos Sainz,Williams,9.0,13.0,2.0,Finished,0 days 00:01:22.072000,4,Miami Grand Prix,82.072
+23,ALB,Alexander Albon,Williams,10.0,15.0,1.0,Finished,0 days 00:01:30.972000,4,Miami Grand Prix,90.972
+87,BEA,Oliver Bearman,Haas F1 Team,11.0,12.0,0.0,Lapped,0 days 00:00:06.400000,4,Miami Grand Prix,6.4
+5,BOR,Gabriel Bortoleto,Audi,12.0,21.0,0.0,Lapped,0 days 00:00:09.353000,4,Miami Grand Prix,9.353
+31,OCO,Esteban Ocon,Haas F1 Team,13.0,14.0,0.0,Lapped,0 days 00:00:13.873000,4,Miami Grand Prix,13.873
+41,LIN,Arvid Lindblad,RB F1 Team,14.0,16.0,0.0,Lapped,0 days 00:00:44.781000,4,Miami Grand Prix,44.781
+14,ALO,Fernando Alonso,Aston Martin,15.0,17.0,0.0,Lapped,0 days 00:01:14.964000,4,Miami Grand Prix,74.964
+11,PER,Sergio Pérez,Cadillac F1 Team,16.0,20.0,0.0,Lapped,0 days 00:01:17.513000,4,Miami Grand Prix,77.513
+18,STR,Lance Stroll,Aston Martin,17.0,18.0,0.0,Lapped,0 days 00:01:22.631000,4,Miami Grand Prix,82.631
+77,BOT,Valtteri Bottas,Cadillac F1 Team,18.0,19.0,0.0,Lapped,0 days 00:01:08.255000,4,Miami Grand Prix,68.255
+27,HUL,Nico Hülkenberg,Audi,19.0,10.0,0.0,Retired,,4,Miami Grand Prix,
+30,LAW,Liam Lawson,RB F1 Team,20.0,11.0,0.0,Retired,,4,Miami Grand Prix,
+10,GAS,Pierre Gasly,Alpine F1 Team,21.0,9.0,0.0,Retired,,4,Miami Grand Prix,
+6,HAD,Isack Hadjar,Red Bull,22.0,22.0,0.0,Retired,,4,Miami Grand Prix,
+12,ANT,Andrea Kimi Antonelli,Mercedes,1.0,2.0,25.0,Finished,0 days 01:28:15.758000,5,Canadian Grand Prix,5295.758
+44,HAM,Lewis Hamilton,Ferrari,2.0,5.0,18.0,Finished,0 days 00:00:10.768000,5,Canadian Grand Prix,10.768
+3,VER,Max Verstappen,Red Bull,3.0,6.0,15.0,Finished,0 days 00:00:11.276000,5,Canadian Grand Prix,11.276
+16,LEC,Charles Leclerc,Ferrari,4.0,8.0,12.0,Finished,0 days 00:00:44.151000,5,Canadian Grand Prix,44.151
+6,HAD,Isack Hadjar,Red Bull,5.0,7.0,10.0,Lapped,0 days 00:00:05.033000,5,Canadian Grand Prix,5.033
+43,COL,Franco Colapinto,Alpine F1 Team,6.0,10.0,8.0,Lapped,0 days 00:00:19.510000,5,Canadian Grand Prix,19.51
+30,LAW,Liam Lawson,RB F1 Team,7.0,12.0,6.0,Lapped,0 days 00:00:34.235000,5,Canadian Grand Prix,34.235
+10,GAS,Pierre Gasly,Alpine F1 Team,8.0,14.0,4.0,Lapped,0 days 00:00:34.572000,5,Canadian Grand Prix,34.572
+55,SAI,Carlos Sainz,Williams,9.0,15.0,2.0,Lapped,0 days 00:00:58.014000,5,Canadian Grand Prix,58.014
+87,BEA,Oliver Bearman,Haas F1 Team,10.0,16.0,1.0,Lapped,0 days 00:00:59.049000,5,Canadian Grand Prix,59.049
+81,PIA,Oscar Piastri,McLaren,11.0,4.0,0.0,Lapped,0 days 00:00:12.699000,5,Canadian Grand Prix,12.699
+27,HUL,Nico Hülkenberg,Audi,12.0,11.0,0.0,Lapped,0 days 00:00:14.182000,5,Canadian Grand Prix,14.182
+5,BOR,Gabriel Bortoleto,Audi,13.0,13.0,0.0,Lapped,0 days 00:00:21.156000,5,Canadian Grand Prix,21.156
+31,OCO,Esteban Ocon,Haas F1 Team,14.0,17.0,0.0,Lapped,0 days 00:01:08.635000,5,Canadian Grand Prix,68.635
+18,STR,Lance Stroll,Aston Martin,15.0,22.0,0.0,Lapped,0 days 00:00:18.397000,5,Canadian Grand Prix,18.397
+77,BOT,Valtteri Bottas,Cadillac F1 Team,16.0,21.0,0.0,Lapped,0 days 00:00:53.390000,5,Canadian Grand Prix,53.39
+11,PER,Sergio Pérez,Cadillac F1 Team,17.0,20.0,0.0,Retired,,5,Canadian Grand Prix,
+1,NOR,Lando Norris,McLaren,18.0,3.0,0.0,Retired,,5,Canadian Grand Prix,
+63,RUS,George Russell,Mercedes,19.0,1.0,0.0,Retired,,5,Canadian Grand Prix,
+14,ALO,Fernando Alonso,Aston Martin,20.0,19.0,0.0,Retired,,5,Canadian Grand Prix,
+23,ALB,Alexander Albon,Williams,21.0,18.0,0.0,Retired,,5,Canadian Grand Prix,
+41,LIN,Arvid Lindblad,RB F1 Team,22.0,9.0,0.0,Did not start,,5,Canadian Grand Prix,
 12,ANT,Andrea Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,0 days 02:23:31.243000,6,Monaco Grand Prix,8611.243
 44,HAM,Lewis Hamilton,Ferrari,2.0,3.0,18.0,Finished,0 days 00:00:06.271000,6,Monaco Grand Prix,6.271
 10,GAS,Pierre Gasly,Alpine F1 Team,3.0,9.0,15.0,Finished,0 days 00:00:20.369000,6,Monaco Grand Prix,20.369
@@ -109,6 +175,28 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,
 55,SAI,Carlos Sainz,Williams,20.0,17.0,0.0,Retired,,8,Austrian Grand Prix,
 11,PER,Sergio Pérez,Cadillac F1 Team,21.0,19.0,0.0,Retired,,8,Austrian Grand Prix,
 77,BOT,Valtteri Bottas,Cadillac F1 Team,22.0,20.0,0.0,Retired,,8,Austrian Grand Prix,
+16,LEC,Charles Leclerc,Ferrari,1.0,2.0,25.0,Finished,0 days 01:27:11.335000,9,British Grand Prix,5231.335
+63,RUS,George Russell,Mercedes,2.0,4.0,18.0,Finished,0 days 00:00:00.427000,9,British Grand Prix,0.427
+44,HAM,Lewis Hamilton,Ferrari,3.0,3.0,15.0,Finished,0 days 00:00:00.772000,9,British Grand Prix,0.772
+1,NOR,Lando Norris,McLaren,4.0,6.0,12.0,Finished,0 days 00:00:01.149000,9,British Grand Prix,1.149
+6,HAD,Isack Hadjar,Red Bull,5.0,5.0,10.0,Finished,0 days 00:00:01.598000,9,British Grand Prix,1.598
+30,LAW,Liam Lawson,RB F1 Team,6.0,10.0,8.0,Finished,0 days 00:00:02.023000,9,British Grand Prix,2.023
+41,LIN,Arvid Lindblad,RB F1 Team,7.0,9.0,6.0,Finished,0 days 00:00:02.214000,9,British Grand Prix,2.214
+5,BOR,Gabriel Bortoleto,Audi,8.0,11.0,4.0,Finished,0 days 00:00:02.413000,9,British Grand Prix,2.413
+43,COL,Franco Colapinto,Alpine F1 Team,9.0,19.0,2.0,Finished,0 days 00:00:03.229000,9,British Grand Prix,3.229
+10,GAS,Pierre Gasly,Alpine F1 Team,10.0,15.0,1.0,Finished,0 days 00:00:03.445000,9,British Grand Prix,3.445
+81,PIA,Oscar Piastri,McLaren,11.0,8.0,0.0,Finished,0 days 00:00:04.014000,9,British Grand Prix,4.014
+87,BEA,Oliver Bearman,Haas F1 Team,12.0,13.0,0.0,Finished,0 days 00:00:05.245000,9,British Grand Prix,5.245
+31,OCO,Esteban Ocon,Haas F1 Team,13.0,17.0,0.0,Finished,0 days 00:00:05.512000,9,British Grand Prix,5.512
+11,PER,Sergio Pérez,Cadillac F1 Team,14.0,20.0,0.0,Finished,0 days 00:00:07.403000,9,British Grand Prix,7.403
+12,ANT,Andrea Kimi Antonelli,Mercedes,15.0,1.0,0.0,Finished,0 days 00:00:08.005000,9,British Grand Prix,8.005
+77,BOT,Valtteri Bottas,Cadillac F1 Team,16.0,18.0,0.0,Finished,0 days 00:00:08.162000,9,British Grand Prix,8.162
+55,SAI,Carlos Sainz,Williams,17.0,14.0,0.0,Lapped,0 days 00:00:04.391000,9,British Grand Prix,4.391
+14,ALO,Fernando Alonso,Aston Martin,18.0,21.0,0.0,Lapped,0 days 00:00:04.980000,9,British Grand Prix,4.98
+18,STR,Lance Stroll,Aston Martin,19.0,22.0,0.0,Lapped,0 days 00:00:06.750000,9,British Grand Prix,6.75
+3,VER,Max Verstappen,Red Bull,20.0,7.0,0.0,Retired,,9,British Grand Prix,
+23,ALB,Alexander Albon,Williams,21.0,16.0,0.0,Retired,,9,British Grand Prix,
+27,HUL,Nico Hülkenberg,Audi,22.0,12.0,0.0,Retired,,9,British Grand Prix,
 12,ANT,Andrea Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,0 days 01:24:42.479000,10,Belgian Grand Prix,5082.479
 16,LEC,Charles Leclerc,Ferrari,2.0,4.0,18.0,Finished,0 days 00:00:01.952000,10,Belgian Grand Prix,1.952
 3,VER,Max Verstappen,Red Bull,3.0,2.0,15.0,Finished,0 days 00:00:11.586000,10,Belgian Grand Prix,11.586
@@ -153,3 +241,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,
 81,PIA,Oscar Piastri,McLaren,20.0,3.0,0.0,Retired,,11,Hungarian Grand Prix,
 11,PER,Sergio Pérez,Cadillac F1 Team,21.0,22.0,0.0,Retired,,11,Hungarian Grand Prix,
 77,BOT,Valtteri Bottas,Cadillac F1 Team,22.0,21.0,0.0,Retired,,11,Hungarian Grand Prix,
+1,NOR,Lando Norris,McLaren,1.0,1.0,25.0,Finished,0 days 02:04:44.859000,12,Dutch Grand Prix,7484.859
+12,ANT,Andrea Kimi Antonelli,Mercedes,2.0,3.0,18.0,Finished,0 days 00:00:11.536000,12,Dutch Grand Prix,11.536
+63,RUS,George Russell,Mercedes,3.0,2.0,15.0,Finished,0 days 00:00:15.906000,12,Dutch Grand Prix,15.906
+44,HAM,Lewis Hamilton,Ferrari,4.0,5.0,12.0,Finished,0 days 00:00:16.755000,12,Dutch Grand Prix,16.755
+16,LEC,Charles Leclerc,Ferrari,5.0,6.0,10.0,Finished,0 days 00:00:17.258000,12,Dutch Grand Prix,17.258
+81,PIA,Oscar Piastri,McLaren,6.0,4.0,8.0,Finished,0 days 00:00:32.332000,12,Dutch Grand Prix,32.332
+30,LAW,Liam Lawson,Red Bull,7.0,8.0,6.0,Finished,0 days 00:01:19.915000,12,Dutch Grand Prix,79.915
+27,HUL,Nico Hülkenberg,Audi,8.0,13.0,4.0,Lapped,0 days 00:00:36.049000,12,Dutch Grand Prix,36.049
+14,ALO,Fernando Alonso,Aston Martin,9.0,18.0,2.0,Lapped,0 days 00:00:48.393000,12,Dutch Grand Prix,48.393
+10,GAS,Pierre Gasly,Alpine F1 Team,10.0,11.0,1.0,Lapped,0 days 00:00:49.640000,12,Dutch Grand Prix,49.64
+22,TSU,Yuki Tsunoda,RB F1 Team,11.0,12.0,0.0,Lapped,0 days 00:00:54.322000,12,Dutch Grand Prix,54.322
+41,LIN,Arvid Lindblad,RB F1 Team,12.0,10.0,0.0,Lapped,0 days 00:01:05.680000,12,Dutch Grand Prix,65.68
+5,BOR,Gabriel Bortoleto,Audi,13.0,9.0,0.0,Lapped,0 days 00:01:06.235000,12,Dutch Grand Prix,66.235
+43,COL,Franco Colapinto,Alpine F1 Team,14.0,14.0,0.0,Lapped,0 days 00:00:20.534000,12,Dutch Grand Prix,20.534
+11,PER,Sergio Pérez,Cadillac F1 Team,15.0,22.0,0.0,Lapped,0 days 00:00:58.582000,12,Dutch Grand Prix,58.582
+55,SAI,Carlos Sainz,Williams,16.0,17.0,0.0,Lapped,0 days 00:01:10.271000,12,Dutch Grand Prix,70.271
+23,ALB,Alexander Albon,Williams,17.0,16.0,0.0,Retired,,12,Dutch Grand Prix,
+77,BOT,Valtteri Bottas,Cadillac F1 Team,18.0,21.0,0.0,Retired,,12,Dutch Grand Prix,
+31,OCO,Esteban Ocon,Haas F1 Team,19.0,15.0,0.0,Retired,,12,Dutch Grand Prix,
+18,STR,Lance Stroll,Aston Martin,20.0,19.0,0.0,Retired,,12,Dutch Grand Prix,
+87,BEA,Oliver Bearman,Haas F1 Team,21.0,20.0,0.0,Retired,,12,Dutch Grand Prix,
+3,VER,Max Verstappen,Red Bull,22.0,7.0,0.0,Retired,,12,Dutch Grand Prix,
