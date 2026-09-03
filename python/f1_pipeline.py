@@ -149,7 +149,14 @@ for idx, event in completed_races.iterrows():
     # --------------------------------------------------------------------------
     try:
         race_session = fastf1.get_session(YEAR, round_num, 'R')
-        race_session.load(laps=True, telemetry=False, weather=True, messages=False)
+
+        # Load laps/results WITHOUT weather first. Weather is requested
+        # separately below — bundling it into this call meant a single weather
+        # API hiccup (common for recently-published sessions) could abort the
+        # whole load() before laps ever got marked as loaded, silently costing
+        # us laps/tyre/pit-stop/fastest-lap data for the entire round even
+        # though only weather actually failed.
+        race_session.load(laps=True, telemetry=False, weather=False, messages=False)
 
         # 1. Complete Race Results & Points per Round
         r_results = race_session.results[['DriverNumber', 'Abbreviation', 'FullName', 'TeamName', 'Position', 'GridPosition', 'Points', 'Status', 'Time']].copy()
@@ -279,6 +286,15 @@ for idx, event in completed_races.iterrows():
         all_fastest_laps.append(fastest[['Round', 'EventName', 'Driver', 'LapNumber', 'Compound', 'LapTime_Seconds']])
 
         # 5. Weather Data
+        # Loaded as its own isolated attempt, separate from the laps/results
+        # load() call above — so a weather API failure (e.g. data not yet
+        # published for a very recent session) only costs us weather data for
+        # this round, not the round's laps/tyre/pit-stop/fastest-lap data too.
+        try:
+            race_session.load(laps=False, telemetry=False, weather=True, messages=False)
+        except Exception as e:
+            logging.warning(f"  Weather data unavailable for Round {round_num}: {e}")
+
         if hasattr(race_session, 'weather_data') and race_session.weather_data is not None:
             w_df = race_session.weather_data.copy()
             w_df['Round'] = round_num
@@ -288,7 +304,6 @@ for idx, event in completed_races.iterrows():
 
     except Exception as e:
         logging.error(f"  Race data missing/failed for Round {round_num}: {e}")
-        raise
 
 
 # ==============================================================================
