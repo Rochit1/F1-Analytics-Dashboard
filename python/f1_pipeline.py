@@ -186,10 +186,11 @@ for idx, event in completed_races.iterrows():
             # This avoids:
             # "'DriverNumber' is both an index level and a column label"
             sprint_results = sprint_session.results.copy()
-            sprint_results.index.names=[
-                None if name in sprint_results.columns else name
-                for name in sprint_results.index.names
-            ]
+            if 'DriverNumber' in sprint_results.index.names:
+                sprint_results.index = sprint_results.index.rename(
+                    None,
+                    level=sprint_results.index.names.index('DriverNumber')
+                )
             sprint_results = sprint_results[
                 ['DriverNumber', 'Abbreviation', 'TeamName', 'Points']
             ].copy()
@@ -254,9 +255,10 @@ for idx, event in completed_races.iterrows():
             #
             # DO NOT let an arbitrary exception silently create incorrect
             # points. Log the exact reason and continue.
-            logging.info(
+            logging.error(
                 f"No Sprint session for Round {round_num}: {e}"
-            )
+            ) 
+            raise
 
         all_race_results.append(r_results)
         all_driver_points.append(r_results[['Round', 'EventName', 'DriverNumber', 'Abbreviation', 'TeamName', 'Position', 'Points']])
