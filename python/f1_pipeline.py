@@ -186,6 +186,10 @@ for idx, event in completed_races.iterrows():
             # This avoids:
             # "'DriverNumber' is both an index level and a column label"
             sprint_results = sprint_session.results.copy()
+            logging.info(f"SPRINT INDEX: {sprint_results.index}")
+            logging.info(f"SPRINT INDEX NAMES: {sprint_results.index.names}")
+            logging.info(f"SPRINT COLUMNS: {list(sprint_results.columns)}")
+            logging.info(f"SPRINT DRIVER NUMBER COLUMN EXISTS: {'DriverNumber' in sprint_results.columns}")
             if 'DriverNumber' in sprint_results.index.names:
                 sprint_results.index = sprint_results.index.rename(
                     None,
@@ -255,8 +259,8 @@ for idx, event in completed_races.iterrows():
             #
             # DO NOT let an arbitrary exception silently create incorrect
             # points. Log the exact reason and continue.
-            logging.error(
-                f"No Sprint session for Round {round_num}: {e}"
+            logging.exception(
+                f"Sprint processing failed for round {round_num}"
             ) 
             raise
 
