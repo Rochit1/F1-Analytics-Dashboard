@@ -394,6 +394,38 @@ ml_data["QualifyingPosition"] = (
     .fillna(ml_data["GridPosition"])
 )
 
+# Impute the remaining historical/form features too — not just
+# QualifyingPosition. Drivers new to the dataset (or early in their own
+# history, even after the Round >= 4 cutoff above) can still have NaN in
+# PreviousFinish/AvgFinishBefore/RecentForm/etc. because there's no prior
+# race to compute those stats from yet.
+#
+# RandomForestRegressor (scikit-learn >= 1.4) silently tolerates NaN via its
+# native missing-value support, which is why the earlier RandomForest
+# sections in this script ran fine on this same data. GradientBoostingRegressor
+# has never supported NaN and fails loudly instead — it isn't a new problem,
+# just the first model honest about it. Impute here once, so every model
+# downstream sees the same clean data instead of results differing by
+# model based on which one happens to tolerate gaps.
+historical_features = [
+    "PreviousFinish",
+    "AvgFinishBefore",
+    "RecentForm",
+    "DNFRateBefore",
+    "PointsBefore",
+    "TeamPointsBefore",
+    "TeamAvgFinishBefore"
+]
+
+print("\nImputing remaining historical features with field-wide median:")
+print(ml_data[historical_features].isna().sum())
+
+for col in historical_features:
+    ml_data[col] = ml_data[col].fillna(ml_data[col].median())
+
+print("\nMissing values after imputation:")
+print(ml_data[historical_features].isna().sum())
+
 print(
     ml_data[
         [
