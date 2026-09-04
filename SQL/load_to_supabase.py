@@ -20,7 +20,7 @@ import sys
 from pathlib import Path
 
 import pandas as pd
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, inspect, text as sql_text
 
 logging.basicConfig(
     level=logging.INFO,
@@ -49,15 +49,49 @@ if not csv_files:
 for csv_path in csv_files:
     table_name = csv_path.stem  # filename without .csv extension
 
+failed_tables = []
+
+for csv_path in csv_files:
+    table_name = csv_path.stem  # filename without .csv extension
+
     try:
         df = pd.read_csv(csv_path)
         if df.empty:
             logging.warning(f"{csv_path.name} is empty — skipping.")
             continue
 
-        df.to_sql(table_name, engine, if_exists="replace", index=False)
-        logging.info(f"Loaded {csv_path.name} -> table '{table_name}' ({len(df)} rows)")
+        # Keep existing tables intact when other database objects (such as
+        # views) depend on them. Refresh their contents instead of dropping
+        # and recreating the table.
+        inspector = inspect(engine)
+
+        if inspector.has_table(table_name):
+            with engine.begin() as conn:
+                conn.execute(sql_text(f'DELETE FROM "{table_name}"'))
+                df.to_sql(
+                    table_name,
+                    conn,
+                    if_exists="append",
+                    index=False,
+                )
+        else:
+            # First-time table creation.
+            df.to_sql(table_name, engine, if_exists="replace", index=False)
+
+        logging.info(
+            f"Loaded {csv_path.name} -> table '{table_name}' ({len(df)} rows)"
+        )
+
     except Exception as e:
-        logging.error(f"Failed to load {csv_path.name} into table '{table_name}': {e}")
+        failed_tables.append(table_name)
+        logging.error(
+            f"Failed to load {csv_path.name} into table '{table_name}': {e}"
+        )
+
+if failed_tables:
+    logging.error(
+        "Supabase load failed for: " + ", ".join(failed_tables)
+    )
+    sys.exit(1)
 
 logging.info("Supabase load complete.")
