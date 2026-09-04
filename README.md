@@ -10,31 +10,26 @@ The project automatically collects race-weekend data, processes and stores it in
 
 ### Overview
 
-<!-- Add screenshot: screenshots/overview.png -->
 
 ![F1 Dashboard — Overview](Screenshots/Overview.png)
 
 ### Driver Analysis
 
-<!-- Add screenshot: screenshots/driver-analysis.png -->
 
 ![F1 Dashboard — Driver Analysis](Screenshots/Driver%20Analysis.png)
 
 ### Constructor Analysis
 
-<!-- Add screenshot: screenshots/constructor-analysis.png -->
 
 ![F1 Dashboard — Constructor Analysis](Screenshots/Constructor%20Analysis.png)
 
 ### Circuit Analysis
 
-<!-- Add screenshot: screenshots/circuit-analysis.png -->
 
 ![F1 Dashboard — Circuit Analysis](Screenshots/Circuit%20Analysis.png)
 
 ### Predictive Analysis
 
-<!-- Add screenshot: screenshots/predictive-analysis.png -->
 
 ![F1 Dashboard — Predictive Analysis](Screenshots/Predictive%20Analysis.png)
 
