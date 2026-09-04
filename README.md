@@ -30,7 +30,7 @@ The project automatically collects race-weekend data, processes and stores it in
 
 <!-- Add screenshot: screenshots/circuit-analysis.png -->
 
-![F1 Dashboard — Circuit Analysis]([Screenshots/Circuit Analysis.png](https://github.com/Rochit1/F1-Analytics-Dashboard/blob/85989c8aabcc3cd3632a4a14f841f6eda9e072b3/Screenshots/Circuit%20Analysis.png))
+![F1 Dashboard — Circuit Analysis](https://github.com/Rochit1/F1-Analytics-Dashboard/blob/85989c8aabcc3cd3632a4a14f841f6eda9e072b3/Screenshots/Circuit%20Analysis.png))
 
 ### Predictive Analysis
 
