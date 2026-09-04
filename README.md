@@ -12,19 +12,19 @@ The project automatically collects race-weekend data, processes and stores it in
 
 <!-- Add screenshot: screenshots/overview.png -->
 
-![F1 Dashboard — Overview](screenshots/overview.png)
+![F1 Dashboard — Overview]([screenshots/overview.png](https://github.com/Rochit1/F1-Analytics-Dashboard/blob/2debb16e723279db01b0f0f2ff96d16331ab3722/Screenshots/Overview.png))
 
 ### Driver Analysis
 
 <!-- Add screenshot: screenshots/driver-analysis.png -->
 
-![F1 Dashboard — Driver Analysis](screenshots/driver-analysis.png)
+![F1 Dashboard — Driver Analysis]([screenshots/driver-analysis.png](https://github.com/Rochit1/F1-Analytics-Dashboard/blob/2debb16e723279db01b0f0f2ff96d16331ab3722/Screenshots/Driver%20Analysis.png))
 
 ### Constructor Analysis
 
 <!-- Add screenshot: screenshots/constructor-analysis.png -->
 
-![F1 Dashboard — Constructor Analysis](screenshots/constructor-analysis.png)
+![F1 Dashboard — Constructor Analysis]([screenshots/constructor-analysis.png](https://github.com/Rochit1/F1-Analytics-Dashboard/blob/2debb16e723279db01b0f0f2ff96d16331ab3722/Screenshots/Constructor%20Analysis.png))
 
 ### Circuit Analysis
 
@@ -36,7 +36,7 @@ The project automatically collects race-weekend data, processes and stores it in
 
 <!-- Add screenshot: screenshots/predictive-analysis.png -->
 
-![F1 Dashboard — Predictive Analysis](screenshots/predictive-analysis.png)
+![F1 Dashboard — Predictive Analysis]([screenshots/predictive-analysis.png](https://github.com/Rochit1/F1-Analytics-Dashboard/blob/2debb16e723279db01b0f0f2ff96d16331ab3722/Screenshots/Predictive%20Analysis.png))
 
 ---
 
