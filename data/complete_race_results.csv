@@ -111,11 +111,11 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,
 41,LIN,Arvid Lindblad,RB F1 Team,22.0,9.0,1.0,Did not start,,5,Canadian Grand Prix,
 12,ANT,Andrea Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,0 days 02:23:31.243000,6,Monaco Grand Prix,8611.243
 44,HAM,Lewis Hamilton,Ferrari,2.0,3.0,18.0,Finished,0 days 00:00:06.271000,6,Monaco Grand Prix,6.271
-10,GAS,Pierre Gasly,Alpine F1 Team,3.0,9.0,15.0,Finished,0 days 00:00:20.369000,6,Monaco Grand Prix,20.369
-6,HAD,Isack Hadjar,Red Bull,4.0,5.0,12.0,Finished,0 days 00:00:23.394000,6,Monaco Grand Prix,23.394
-81,PIA,Oscar Piastri,McLaren,5.0,7.0,10.0,Finished,0 days 00:00:24.261000,6,Monaco Grand Prix,24.261
-30,LAW,Liam Lawson,RB F1 Team,6.0,10.0,8.0,Finished,0 days 00:00:26.553000,6,Monaco Grand Prix,26.553
-41,LIN,Arvid Lindblad,RB F1 Team,7.0,15.0,6.0,Finished,0 days 00:00:29.010000,6,Monaco Grand Prix,29.01
+6,HAD,Isack Hadjar,Red Bull,3.0,5.0,15.0,Finished,0 days 00:00:23.394000,6,Monaco Grand Prix,23.394
+81,PIA,Oscar Piastri,McLaren,4.0,7.0,12.0,Finished,0 days 00:00:24.261000,6,Monaco Grand Prix,24.261
+30,LAW,Liam Lawson,RB F1 Team,5.0,10.0,10.0,Finished,0 days 00:00:26.553000,6,Monaco Grand Prix,26.553
+41,LIN,Arvid Lindblad,RB F1 Team,6.0,15.0,8.0,Finished,0 days 00:00:29.010000,6,Monaco Grand Prix,29.01
+10,GAS,Pierre Gasly,Alpine F1 Team,7.0,9.0,6.0,Finished,0 days 00:00:30.369000,6,Monaco Grand Prix,30.369
 23,ALB,Alexander Albon,Williams,8.0,11.0,4.0,Finished,0 days 00:00:33.413000,6,Monaco Grand Prix,33.413
 31,OCO,Esteban Ocon,Haas F1 Team,9.0,17.0,2.0,Finished,0 days 00:00:37.140000,6,Monaco Grand Prix,37.14
 14,ALO,Fernando Alonso,Aston Martin,10.0,21.0,1.0,Finished,0 days 00:00:41.899000,6,Monaco Grand Prix,41.899
@@ -263,3 +263,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,
 18,STR,Lance Stroll,Aston Martin,20.0,19.0,0.0,Retired,,12,Dutch Grand Prix,
 87,BEA,Oliver Bearman,Haas F1 Team,21.0,20.0,0.0,Retired,,12,Dutch Grand Prix,
 3,VER,Max Verstappen,Red Bull,22.0,7.0,3.0,Retired,,12,Dutch Grand Prix,
+12,ANT,Andrea Kimi Antonelli,Mercedes,1.0,19.0,25.0,Finished,0 days 01:51:15.281000,13,Italian Grand Prix,6675.281
+63,RUS,George Russell,Mercedes,2.0,2.0,18.0,Finished,0 days 00:00:03.857000,13,Italian Grand Prix,3.857
+3,VER,Max Verstappen,Red Bull,3.0,5.0,15.0,Finished,0 days 00:00:14.718000,13,Italian Grand Prix,14.718
+1,NOR,Lando Norris,McLaren,4.0,8.0,12.0,Finished,0 days 00:00:19.056000,13,Italian Grand Prix,19.056
+81,PIA,Oscar Piastri,McLaren,5.0,6.0,10.0,Finished,0 days 00:00:19.253000,13,Italian Grand Prix,19.253
+44,HAM,Lewis Hamilton,Ferrari,6.0,4.0,8.0,Finished,0 days 00:00:24.655000,13,Italian Grand Prix,24.655
+10,GAS,Pierre Gasly,Alpine F1 Team,7.0,1.0,6.0,Finished,0 days 00:00:27.351000,13,Italian Grand Prix,27.351
+41,LIN,Arvid Lindblad,RB F1 Team,8.0,9.0,4.0,Finished,0 days 00:00:45.136000,13,Italian Grand Prix,45.136
+43,COL,Franco Colapinto,Alpine F1 Team,9.0,7.0,2.0,Finished,0 days 00:00:47.353000,13,Italian Grand Prix,47.353
+22,TSU,Yuki Tsunoda,RB F1 Team,10.0,15.0,1.0,Finished,0 days 00:00:58.187000,13,Italian Grand Prix,58.187
+5,BOR,Gabriel Bortoleto,Audi,11.0,10.0,0.0,Finished,0 days 00:01:05.187000,13,Italian Grand Prix,65.187
+27,HUL,Nico Hülkenberg,Audi,12.0,12.0,0.0,Finished,0 days 00:01:06.187000,13,Italian Grand Prix,66.187
+55,SAI,Carlos Sainz,Williams,13.0,13.0,0.0,Finished,0 days 00:01:14.117000,13,Italian Grand Prix,74.117
+30,LAW,Liam Lawson,Red Bull,14.0,22.0,0.0,Finished,0 days 00:01:15.609000,13,Italian Grand Prix,75.609
+87,BEA,Oliver Bearman,Haas F1 Team,15.0,11.0,0.0,Finished,0 days 00:01:18.958000,13,Italian Grand Prix,78.958
+31,OCO,Esteban Ocon,Haas F1 Team,16.0,14.0,0.0,Lapped,0 days 00:00:06.591000,13,Italian Grand Prix,6.591
+23,ALB,Alexander Albon,Williams,17.0,20.0,0.0,Lapped,0 days 00:00:20.268000,13,Italian Grand Prix,20.268
+11,PER,Sergio Pérez,Cadillac F1 Team,18.0,17.0,0.0,Lapped,0 days 00:01:13.372000,13,Italian Grand Prix,73.372
+77,BOT,Valtteri Bottas,Cadillac F1 Team,19.0,16.0,0.0,Lapped,0 days 00:00:12.880000,13,Italian Grand Prix,12.88
+18,STR,Lance Stroll,Aston Martin,20.0,18.0,0.0,Retired,,13,Italian Grand Prix,
+14,ALO,Fernando Alonso,Aston Martin,21.0,21.0,0.0,Retired,,13,Italian Grand Prix,
+16,LEC,Charles Leclerc,Ferrari,22.0,3.0,0.0,Retired,,13,Italian Grand Prix,

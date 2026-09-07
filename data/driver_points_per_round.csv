@@ -111,11 +111,11 @@ Round,EventName,DriverNumber,Abbreviation,TeamName,Position,Points
 5,Canadian Grand Prix,41,LIN,RB F1 Team,22.0,1.0
 6,Monaco Grand Prix,12,ANT,Mercedes,1.0,25.0
 6,Monaco Grand Prix,44,HAM,Ferrari,2.0,18.0
-6,Monaco Grand Prix,10,GAS,Alpine F1 Team,3.0,15.0
-6,Monaco Grand Prix,6,HAD,Red Bull,4.0,12.0
-6,Monaco Grand Prix,81,PIA,McLaren,5.0,10.0
-6,Monaco Grand Prix,30,LAW,RB F1 Team,6.0,8.0
-6,Monaco Grand Prix,41,LIN,RB F1 Team,7.0,6.0
+6,Monaco Grand Prix,6,HAD,Red Bull,3.0,15.0
+6,Monaco Grand Prix,81,PIA,McLaren,4.0,12.0
+6,Monaco Grand Prix,30,LAW,RB F1 Team,5.0,10.0
+6,Monaco Grand Prix,41,LIN,RB F1 Team,6.0,8.0
+6,Monaco Grand Prix,10,GAS,Alpine F1 Team,7.0,6.0
 6,Monaco Grand Prix,23,ALB,Williams,8.0,4.0
 6,Monaco Grand Prix,31,OCO,Haas F1 Team,9.0,2.0
 6,Monaco Grand Prix,14,ALO,Aston Martin,10.0,1.0
@@ -263,3 +263,25 @@ Round,EventName,DriverNumber,Abbreviation,TeamName,Position,Points
 12,Dutch Grand Prix,18,STR,Aston Martin,20.0,0.0
 12,Dutch Grand Prix,87,BEA,Haas F1 Team,21.0,0.0
 12,Dutch Grand Prix,3,VER,Red Bull,22.0,3.0
+13,Italian Grand Prix,12,ANT,Mercedes,1.0,25.0
+13,Italian Grand Prix,63,RUS,Mercedes,2.0,18.0
+13,Italian Grand Prix,3,VER,Red Bull,3.0,15.0
+13,Italian Grand Prix,1,NOR,McLaren,4.0,12.0
+13,Italian Grand Prix,81,PIA,McLaren,5.0,10.0
+13,Italian Grand Prix,44,HAM,Ferrari,6.0,8.0
+13,Italian Grand Prix,10,GAS,Alpine F1 Team,7.0,6.0
+13,Italian Grand Prix,41,LIN,RB F1 Team,8.0,4.0
+13,Italian Grand Prix,43,COL,Alpine F1 Team,9.0,2.0
+13,Italian Grand Prix,22,TSU,RB F1 Team,10.0,1.0
+13,Italian Grand Prix,5,BOR,Audi,11.0,0.0
+13,Italian Grand Prix,27,HUL,Audi,12.0,0.0
+13,Italian Grand Prix,55,SAI,Williams,13.0,0.0
+13,Italian Grand Prix,30,LAW,Red Bull,14.0,0.0
+13,Italian Grand Prix,87,BEA,Haas F1 Team,15.0,0.0
+13,Italian Grand Prix,31,OCO,Haas F1 Team,16.0,0.0
+13,Italian Grand Prix,23,ALB,Williams,17.0,0.0
+13,Italian Grand Prix,11,PER,Cadillac F1 Team,18.0,0.0
+13,Italian Grand Prix,77,BOT,Cadillac F1 Team,19.0,0.0
+13,Italian Grand Prix,18,STR,Aston Martin,20.0,0.0
+13,Italian Grand Prix,14,ALO,Aston Martin,21.0,0.0
+13,Italian Grand Prix,16,LEC,Ferrari,22.0,0.0

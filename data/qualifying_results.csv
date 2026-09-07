@@ -260,3 +260,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,Q1,Q2,Q3,Round,EventName,Q1
 87,BEA,Oliver Bearman,Haas F1 Team,20.0,0 days 00:01:13.826000,,,12,Dutch Grand Prix,73.826,,
 77,BOT,Valtteri Bottas,Cadillac F1 Team,21.0,0 days 00:01:14.371000,,,12,Dutch Grand Prix,74.371,,
 11,PER,Sergio Pérez,Cadillac F1 Team,22.0,0 days 00:01:14.600000,,,12,Dutch Grand Prix,74.6,,
+10,GAS,Pierre Gasly,Alpine F1 Team,1.0,0 days 00:01:22.612000,0 days 00:01:22.077000,0 days 00:01:21.786000,13,Italian Grand Prix,82.612,82.077,81.786
+63,RUS,George Russell,Mercedes,2.0,0 days 00:01:22.779000,0 days 00:01:22.161000,0 days 00:01:21.846000,13,Italian Grand Prix,82.779,82.161,81.846
+81,PIA,Oscar Piastri,McLaren,3.0,0 days 00:01:22.924000,0 days 00:01:22.017000,0 days 00:01:21.966000,13,Italian Grand Prix,82.924,82.017,81.966
+16,LEC,Charles Leclerc,Ferrari,4.0,0 days 00:01:22.902000,0 days 00:01:22.509000,0 days 00:01:22.004000,13,Italian Grand Prix,82.902,82.509,82.004
+44,HAM,Lewis Hamilton,Ferrari,5.0,0 days 00:01:22.847000,0 days 00:01:22.516000,0 days 00:01:22.011000,13,Italian Grand Prix,82.847,82.516,82.011
+3,VER,Max Verstappen,Red Bull,6.0,0 days 00:01:22.631000,0 days 00:01:22.188000,0 days 00:01:22.070000,13,Italian Grand Prix,82.631,82.188,82.07
+12,ANT,Andrea Kimi Antonelli,Mercedes,7.0,0 days 00:01:22.758000,0 days 00:01:21.882000,0 days 00:01:22.093000,13,Italian Grand Prix,82.758,81.882,82.093
+43,COL,Franco Colapinto,Alpine F1 Team,8.0,0 days 00:01:22.662000,0 days 00:01:22.400000,0 days 00:01:22.220000,13,Italian Grand Prix,82.662,82.4,82.22
+1,NOR,Lando Norris,McLaren,9.0,0 days 00:01:22.659000,0 days 00:01:22.067000,0 days 00:01:22.256000,13,Italian Grand Prix,82.659,82.067,82.256
+41,LIN,Arvid Lindblad,RB F1 Team,10.0,0 days 00:01:22.727000,0 days 00:01:22.345000,0 days 00:01:22.286000,13,Italian Grand Prix,82.727,82.345,82.286
+5,BOR,Gabriel Bortoleto,Audi,11.0,0 days 00:01:22.946000,0 days 00:01:22.517000,,13,Italian Grand Prix,82.946,82.517,
+87,BEA,Oliver Bearman,Haas F1 Team,12.0,0 days 00:01:22.906000,0 days 00:01:22.756000,,13,Italian Grand Prix,82.906,82.756,
+27,HUL,Nico Hülkenberg,Audi,13.0,0 days 00:01:23.440000,0 days 00:01:22.779000,,13,Italian Grand Prix,83.44,82.779,
+30,LAW,Liam Lawson,Red Bull,14.0,0 days 00:01:22.989000,0 days 00:01:22.821000,,13,Italian Grand Prix,82.989,82.821,
+55,SAI,Carlos Sainz,Williams,15.0,0 days 00:01:23.616000,0 days 00:01:23.453000,,13,Italian Grand Prix,83.616,83.453,
+31,OCO,Esteban Ocon,Haas F1 Team,16.0,0 days 00:01:23.466000,0 days 00:01:23.454000,,13,Italian Grand Prix,83.466,83.454,
+22,TSU,Yuki Tsunoda,RB F1 Team,17.0,0 days 00:01:23.755000,,,13,Italian Grand Prix,83.755,,
+23,ALB,Alexander Albon,Williams,18.0,0 days 00:01:24.356000,,,13,Italian Grand Prix,84.356,,
+77,BOT,Valtteri Bottas,Cadillac F1 Team,19.0,0 days 00:01:24.364000,,,13,Italian Grand Prix,84.364,,
+11,PER,Sergio Pérez,Cadillac F1 Team,20.0,0 days 00:01:24.595000,,,13,Italian Grand Prix,84.595,,
+14,ALO,Fernando Alonso,Aston Martin,21.0,0 days 00:01:25.150000,,,13,Italian Grand Prix,85.15,,
+18,STR,Lance Stroll,Aston Martin,22.0,0 days 00:01:25.222000,,,13,Italian Grand Prix,85.222,,
