@@ -1,23 +1,23 @@
 Round,Abbreviation,FullName,TeamName,QualifyingIsEstimated,PredictedPosition,PredictedRank
-13,HAM,Lewis Hamilton,Ferrari,True,5.041302447552446,1
-13,LEC,Charles Leclerc,Ferrari,True,5.158753006253004,2
-13,RUS,George Russell,Mercedes,True,5.4209753302253265,3
-13,NOR,Lando Norris,McLaren,True,6.000790385540381,4
-13,ANT,Andrea Kimi Antonelli,Mercedes,True,6.0464061679061665,5
-13,VER,Max Verstappen,Red Bull,True,6.161497286730978,6
-13,PIA,Oscar Piastri,McLaren,True,7.044308321308322,7
-13,LAW,Liam Lawson,Red Bull,True,8.755363376795604,8
-13,GAS,Pierre Gasly,Alpine F1 Team,True,9.958072639771672,9
-13,COL,Franco Colapinto,Alpine F1 Team,True,10.556441966230004,10
-13,LIN,Arvid Lindblad,RB F1 Team,True,10.743498067025103,11
-13,TSU,Yuki Tsunoda,RB F1 Team,True,11.50468520814958,12
-13,HUL,Nico Hülkenberg,Audi,True,11.601602786339361,13
-13,BEA,Oliver Bearman,Haas F1 Team,True,12.768147335235572,14
-13,BOR,Gabriel Bortoleto,Audi,True,13.256025806302969,15
-13,OCO,Esteban Ocon,Haas F1 Team,True,14.191365829704063,16
-13,SAI,Carlos Sainz,Williams,True,15.621932059770296,17
-13,ALB,Alexander Albon,Williams,True,16.181232805321045,18
-13,PER,Sergio Pérez,Cadillac F1 Team,True,17.232775687275687,19
-13,BOT,Valtteri Bottas,Cadillac F1 Team,True,17.440482156732163,20
-13,ALO,Fernando Alonso,Aston Martin,True,18.85057671957671,21
-13,STR,Lance Stroll,Aston Martin,True,19.396166546416545,22
+14,HAM,Lewis Hamilton,Ferrari,True,4.2694864800948364,1
+14,ANT,Andrea Kimi Antonelli,Mercedes,True,4.404183843933844,2
+14,LEC,Charles Leclerc,Ferrari,True,4.779708461329982,3
+14,PIA,Oscar Piastri,McLaren,True,6.237902122606972,4
+14,NOR,Lando Norris,McLaren,True,6.334862828405397,5
+14,VER,Max Verstappen,Red Bull,True,7.9354948354496795,6
+14,RUS,George Russell,Mercedes,True,7.9888412050912025,7
+14,GAS,Pierre Gasly,Alpine F1 Team,True,8.659737393994735,8
+14,COL,Franco Colapinto,Alpine F1 Team,True,10.269614110411089,9
+14,LAW,Liam Lawson,Red Bull,True,10.508735396464221,10
+14,LIN,Arvid Lindblad,RB F1 Team,True,11.208433293882594,11
+14,HUL,Nico Hülkenberg,Audi,True,11.881520176249957,12
+14,BOR,Gabriel Bortoleto,Audi,True,12.423484684894497,13
+14,TSU,Yuki Tsunoda,RB F1 Team,True,12.667848169622912,14
+14,BEA,Oliver Bearman,Haas F1 Team,True,13.921724672236339,15
+14,OCO,Esteban Ocon,Haas F1 Team,True,14.190650760853606,16
+14,SAI,Carlos Sainz,Williams,True,15.350729167740832,17
+14,ALB,Alexander Albon,Williams,True,16.52331292699675,18
+14,PER,Sergio Pérez,Cadillac F1 Team,True,16.919049285255813,19
+14,BOT,Valtteri Bottas,Cadillac F1 Team,True,17.337730140230136,20
+14,ALO,Fernando Alonso,Aston Martin,True,19.1618083920437,21
+14,STR,Lance Stroll,Aston Martin,True,19.859237729862727,22
