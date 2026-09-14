@@ -285,3 +285,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,
 18,STR,Lance Stroll,Aston Martin,20.0,18.0,0.0,Retired,,13,Italian Grand Prix,
 14,ALO,Fernando Alonso,Aston Martin,21.0,21.0,0.0,Retired,,13,Italian Grand Prix,
 16,LEC,Charles Leclerc,Ferrari,22.0,3.0,0.0,Retired,,13,Italian Grand Prix,
+12,ANT,Andrea Kimi Antonelli,Mercedes,1.0,2.0,25.0,Finished,0 days 01:34:23.754000,14,Spanish Grand Prix,5663.754
+3,VER,Max Verstappen,Red Bull,2.0,3.0,18.0,Finished,0 days 00:00:04.351000,14,Spanish Grand Prix,4.351
+1,NOR,Lando Norris,McLaren,3.0,1.0,15.0,Finished,0 days 00:00:05.089000,14,Spanish Grand Prix,5.089
+16,LEC,Charles Leclerc,Ferrari,4.0,5.0,12.0,Finished,0 days 00:00:29.116000,14,Spanish Grand Prix,29.116
+63,RUS,George Russell,Mercedes,5.0,6.0,10.0,Finished,0 days 00:00:29.829000,14,Spanish Grand Prix,29.829
+30,LAW,Liam Lawson,Red Bull,6.0,8.0,8.0,Finished,0 days 00:01:26.746000,14,Spanish Grand Prix,86.746
+43,COL,Franco Colapinto,Alpine F1 Team,7.0,9.0,6.0,Finished,0 days 00:01:34.281000,14,Spanish Grand Prix,94.281
+81,PIA,Oscar Piastri,McLaren,8.0,7.0,4.0,Finished,0 days 00:01:35.839000,14,Spanish Grand Prix,95.839
+41,LIN,Arvid Lindblad,RB F1 Team,9.0,10.0,2.0,Lapped,0 days 00:00:10.408000,14,Spanish Grand Prix,10.408
+27,HUL,Nico Hülkenberg,Audi,10.0,11.0,1.0,Lapped,0 days 00:00:11.298000,14,Spanish Grand Prix,11.298
+31,OCO,Esteban Ocon,Haas F1 Team,11.0,13.0,0.0,Lapped,0 days 00:00:15.143000,14,Spanish Grand Prix,15.143
+10,GAS,Pierre Gasly,Alpine F1 Team,12.0,14.0,0.0,Lapped,0 days 00:00:26.152000,14,Spanish Grand Prix,26.152
+5,BOR,Gabriel Bortoleto,Audi,13.0,12.0,0.0,Lapped,0 days 00:00:28.389000,14,Spanish Grand Prix,28.389
+22,TSU,Yuki Tsunoda,RB F1 Team,14.0,15.0,0.0,Lapped,0 days 00:01:00.163000,14,Spanish Grand Prix,60.163
+23,ALB,Alexander Albon,Williams,15.0,16.0,0.0,Lapped,0 days 00:01:26.212000,14,Spanish Grand Prix,86.212
+87,BEA,Oliver Bearman,Haas F1 Team,16.0,22.0,0.0,Lapped,0 days 00:01:29.963000,14,Spanish Grand Prix,89.963
+14,ALO,Fernando Alonso,Aston Martin,17.0,17.0,0.0,Lapped,0 days 00:00:33.776000,14,Spanish Grand Prix,33.776
+77,BOT,Valtteri Bottas,Cadillac F1 Team,18.0,19.0,0.0,Lapped,0 days 00:00:49.246000,14,Spanish Grand Prix,49.246
+55,SAI,Carlos Sainz,Williams,19.0,20.0,0.0,Retired,,14,Spanish Grand Prix,
+11,PER,Sergio Pérez,Cadillac F1 Team,20.0,18.0,0.0,Retired,,14,Spanish Grand Prix,
+18,STR,Lance Stroll,Aston Martin,21.0,21.0,0.0,Retired,,14,Spanish Grand Prix,
+44,HAM,Lewis Hamilton,Ferrari,22.0,4.0,0.0,Retired,,14,Spanish Grand Prix,

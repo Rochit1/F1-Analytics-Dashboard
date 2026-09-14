@@ -282,3 +282,23 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,Q1,Q2,Q3,Round,EventName,Q1
 11,PER,Sergio Pérez,Cadillac F1 Team,20.0,0 days 00:01:24.595000,,,13,Italian Grand Prix,84.595,,
 14,ALO,Fernando Alonso,Aston Martin,21.0,0 days 00:01:25.150000,,,13,Italian Grand Prix,85.15,,
 18,STR,Lance Stroll,Aston Martin,22.0,0 days 00:01:25.222000,,,13,Italian Grand Prix,85.222,,
+1,NOR,Lando Norris,McLaren,1.0,0 days 00:01:33.469000,0 days 00:01:32.873000,0 days 00:01:31.824000,14,Spanish Grand Prix,93.469,92.873,91.824
+12,ANT,Andrea Kimi Antonelli,Mercedes,2.0,0 days 00:01:33.267000,0 days 00:01:32.591000,0 days 00:01:31.835000,14,Spanish Grand Prix,93.267,92.591,91.835
+3,VER,Max Verstappen,Red Bull,3.0,0 days 00:01:33.381000,0 days 00:01:32.431000,0 days 00:01:31.964000,14,Spanish Grand Prix,93.381,92.431,91.964
+44,HAM,Lewis Hamilton,Ferrari,4.0,0 days 00:01:33.531000,0 days 00:01:32.710000,0 days 00:01:32.013000,14,Spanish Grand Prix,93.531,92.71,92.013
+16,LEC,Charles Leclerc,Ferrari,5.0,0 days 00:01:33.532000,0 days 00:01:32.755000,0 days 00:01:32.019000,14,Spanish Grand Prix,93.532,92.755,92.019
+63,RUS,George Russell,Mercedes,6.0,0 days 00:01:33.211000,0 days 00:01:32.850000,0 days 00:01:32.149000,14,Spanish Grand Prix,93.211,92.85,92.149
+81,PIA,Oscar Piastri,McLaren,7.0,0 days 00:01:33.829000,0 days 00:01:33.204000,0 days 00:01:32.294000,14,Spanish Grand Prix,93.829,93.204,92.294
+30,LAW,Liam Lawson,Red Bull,8.0,0 days 00:01:33.310000,0 days 00:01:32.780000,0 days 00:01:32.316000,14,Spanish Grand Prix,93.31,92.78,92.316
+43,COL,Franco Colapinto,Alpine F1 Team,9.0,0 days 00:01:33.963000,0 days 00:01:33.038000,0 days 00:01:32.903000,14,Spanish Grand Prix,93.963,93.038,92.903
+41,LIN,Arvid Lindblad,RB F1 Team,10.0,0 days 00:01:34.340000,0 days 00:01:33.204000,0 days 00:01:33.041000,14,Spanish Grand Prix,94.34,93.204,93.041
+27,HUL,Nico Hülkenberg,Audi,11.0,0 days 00:01:34.417000,0 days 00:01:33.223000,,14,Spanish Grand Prix,94.417,93.223,
+5,BOR,Gabriel Bortoleto,Audi,12.0,0 days 00:01:33.986000,0 days 00:01:33.388000,,14,Spanish Grand Prix,93.986,93.388,
+31,OCO,Esteban Ocon,Haas F1 Team,13.0,0 days 00:01:34.667000,0 days 00:01:33.667000,,14,Spanish Grand Prix,94.667,93.667,
+10,GAS,Pierre Gasly,Alpine F1 Team,14.0,0 days 00:01:34.246000,0 days 00:01:33.753000,,14,Spanish Grand Prix,94.246,93.753,
+22,TSU,Yuki Tsunoda,RB F1 Team,15.0,0 days 00:01:34.311000,0 days 00:01:34.084000,,14,Spanish Grand Prix,94.311,94.084,
+23,ALB,Alexander Albon,Williams,16.0,0 days 00:01:35.307000,0 days 00:01:35.532000,,14,Spanish Grand Prix,95.307,95.532,
+55,SAI,Carlos Sainz,Williams,17.0,0 days 00:01:35.312000,,,14,Spanish Grand Prix,95.312,,
+14,ALO,Fernando Alonso,Aston Martin,18.0,0 days 00:01:35.388000,,,14,Spanish Grand Prix,95.388,,
+11,PER,Sergio Pérez,Cadillac F1 Team,19.0,0 days 00:01:35.913000,,,14,Spanish Grand Prix,95.913,,
+77,BOT,Valtteri Bottas,Cadillac F1 Team,20.0,0 days 00:01:38.011000,,,14,Spanish Grand Prix,98.011,,
