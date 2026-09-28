@@ -307,3 +307,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,
 11,PER,Sergio Pérez,Cadillac F1 Team,20.0,18.0,0.0,Retired,,14,Spanish Grand Prix,
 18,STR,Lance Stroll,Aston Martin,21.0,21.0,0.0,Retired,,14,Spanish Grand Prix,
 44,HAM,Lewis Hamilton,Ferrari,22.0,4.0,0.0,Retired,,14,Spanish Grand Prix,
+63,RUS,George Russell,Mercedes,1.0,1.0,25.0,Finished,0 days 01:38:02.143000,15,Azerbaijan Grand Prix,5882.143
+3,VER,Max Verstappen,Red Bull,2.0,8.0,18.0,Finished,0 days 00:00:00.196000,15,Azerbaijan Grand Prix,0.196
+6,HAD,Isack Hadjar,Red Bull,3.0,4.0,15.0,Finished,0 days 00:00:10.704000,15,Azerbaijan Grand Prix,10.704
+16,LEC,Charles Leclerc,Ferrari,4.0,2.0,12.0,Finished,0 days 00:00:14.136000,15,Azerbaijan Grand Prix,14.136
+12,ANT,Andrea Kimi Antonelli,Mercedes,5.0,16.0,10.0,Finished,0 days 00:00:14.512000,15,Azerbaijan Grand Prix,14.512
+44,HAM,Lewis Hamilton,Ferrari,6.0,6.0,8.0,Finished,0 days 00:00:22.382000,15,Azerbaijan Grand Prix,22.382
+41,LIN,Arvid Lindblad,RB F1 Team,7.0,15.0,6.0,Finished,0 days 00:00:31.159000,15,Azerbaijan Grand Prix,31.159
+31,OCO,Esteban Ocon,Haas F1 Team,8.0,13.0,4.0,Finished,0 days 00:00:31.189000,15,Azerbaijan Grand Prix,31.189
+87,BEA,Oliver Bearman,Haas F1 Team,9.0,10.0,2.0,Finished,0 days 00:00:31.929000,15,Azerbaijan Grand Prix,31.929
+55,SAI,Carlos Sainz,Williams,10.0,14.0,1.0,Finished,0 days 00:00:32.416000,15,Azerbaijan Grand Prix,32.416
+27,HUL,Nico Hülkenberg,Audi,11.0,18.0,0.0,Finished,0 days 00:00:33.231000,15,Azerbaijan Grand Prix,33.231
+30,LAW,Liam Lawson,RB F1 Team,12.0,11.0,0.0,Finished,0 days 00:00:34.013000,15,Azerbaijan Grand Prix,34.013
+81,PIA,Oscar Piastri,McLaren,13.0,3.0,0.0,Finished,0 days 00:00:36.401000,15,Azerbaijan Grand Prix,36.401
+11,PER,Sergio Pérez,Cadillac F1 Team,14.0,20.0,0.0,Finished,0 days 00:00:41.400000,15,Azerbaijan Grand Prix,41.4
+5,BOR,Gabriel Bortoleto,Audi,15.0,17.0,0.0,Finished,0 days 00:00:44.230000,15,Azerbaijan Grand Prix,44.23
+77,BOT,Valtteri Bottas,Cadillac F1 Team,16.0,19.0,0.0,Retired,,15,Azerbaijan Grand Prix,
+43,COL,Franco Colapinto,Alpine F1 Team,17.0,9.0,0.0,Retired,,15,Azerbaijan Grand Prix,
+10,GAS,Pierre Gasly,Alpine F1 Team,18.0,7.0,0.0,Retired,,15,Azerbaijan Grand Prix,
+1,NOR,Lando Norris,McLaren,19.0,5.0,0.0,Retired,,15,Azerbaijan Grand Prix,
+23,ALB,Alexander Albon,Williams,20.0,12.0,0.0,Retired,,15,Azerbaijan Grand Prix,
+14,ALO,Fernando Alonso,Aston Martin,21.0,21.0,0.0,Retired,,15,Azerbaijan Grand Prix,
+18,STR,Lance Stroll,Aston Martin,22.0,22.0,0.0,Retired,,15,Azerbaijan Grand Prix,
