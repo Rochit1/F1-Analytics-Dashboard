@@ -329,3 +329,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,
 23,ALB,Alexander Albon,Williams,20.0,12.0,0.0,Retired,,15,Azerbaijan Grand Prix,
 14,ALO,Fernando Alonso,Aston Martin,21.0,21.0,0.0,Retired,,15,Azerbaijan Grand Prix,
 18,STR,Lance Stroll,Aston Martin,22.0,22.0,0.0,Retired,,15,Azerbaijan Grand Prix,
+3,VER,Max Verstappen,Red Bull,1.0,1.0,25.0,Finished,0 days 01:47:14.808000,16,Bahrain Grand Prix,6434.808
+12,ANT,Andrea Kimi Antonelli,Mercedes,2.0,3.0,18.0,Finished,0 days 00:00:02.307000,16,Bahrain Grand Prix,2.307
+44,HAM,Lewis Hamilton,Ferrari,3.0,2.0,15.0,Finished,0 days 00:00:04.919000,16,Bahrain Grand Prix,4.919
+16,LEC,Charles Leclerc,Ferrari,4.0,4.0,12.0,Finished,0 days 00:00:07.258000,16,Bahrain Grand Prix,7.258
+6,HAD,Isack Hadjar,Red Bull,5.0,8.0,10.0,Finished,0 days 00:00:08.571000,16,Bahrain Grand Prix,8.571
+81,PIA,Oscar Piastri,McLaren,6.0,6.0,8.0,Finished,0 days 00:00:09.454000,16,Bahrain Grand Prix,9.454
+30,LAW,Liam Lawson,RB F1 Team,7.0,11.0,6.0,Finished,0 days 00:00:12.753000,16,Bahrain Grand Prix,12.753
+14,ALO,Fernando Alonso,Aston Martin,8.0,12.0,4.0,Finished,0 days 00:00:13.372000,16,Bahrain Grand Prix,13.372
+1,NOR,Lando Norris,McLaren,9.0,5.0,2.0,Finished,0 days 00:00:13.993000,16,Bahrain Grand Prix,13.993
+41,LIN,Arvid Lindblad,RB F1 Team,10.0,22.0,1.0,Finished,0 days 00:00:15.928000,16,Bahrain Grand Prix,15.928
+27,HUL,Nico Hülkenberg,Audi,11.0,15.0,0.0,Finished,0 days 00:00:17.404000,16,Bahrain Grand Prix,17.404
+18,STR,Lance Stroll,Aston Martin,12.0,14.0,0.0,Finished,0 days 00:00:18.052000,16,Bahrain Grand Prix,18.052
+43,COL,Franco Colapinto,Alpine F1 Team,13.0,21.0,0.0,Finished,0 days 00:00:18.997000,16,Bahrain Grand Prix,18.997
+87,BEA,Oliver Bearman,Haas F1 Team,14.0,16.0,0.0,Finished,0 days 00:00:22.305000,16,Bahrain Grand Prix,22.305
+31,OCO,Esteban Ocon,Haas F1 Team,15.0,17.0,0.0,Finished,0 days 00:00:22.532000,16,Bahrain Grand Prix,22.532
+10,GAS,Pierre Gasly,Alpine F1 Team,16.0,9.0,0.0,Finished,0 days 00:00:23.315000,16,Bahrain Grand Prix,23.315
+55,SAI,Carlos Sainz,Williams,17.0,13.0,0.0,Finished,0 days 00:00:25.431000,16,Bahrain Grand Prix,25.431
+5,BOR,Gabriel Bortoleto,Audi,18.0,10.0,0.0,Finished,0 days 00:00:28.233000,16,Bahrain Grand Prix,28.233
+11,PER,Sergio Pérez,Cadillac F1 Team,19.0,20.0,0.0,Finished,0 days 00:00:29.310000,16,Bahrain Grand Prix,29.31
+63,RUS,George Russell,Mercedes,20.0,7.0,0.0,Retired,,16,Bahrain Grand Prix,
+23,ALB,Alexander Albon,Williams,21.0,18.0,0.0,Retired,,16,Bahrain Grand Prix,
+77,BOT,Valtteri Bottas,Cadillac F1 Team,22.0,19.0,0.0,Retired,,16,Bahrain Grand Prix,

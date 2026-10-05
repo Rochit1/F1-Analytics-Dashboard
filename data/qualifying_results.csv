@@ -324,3 +324,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,Q1,Q2,Q3,Round,EventName,Q1
 11,PER,Sergio Pérez,Cadillac F1 Team,20.0,0 days 00:01:46.658000,,,15,Azerbaijan Grand Prix,106.658,,
 18,STR,Lance Stroll,Aston Martin,21.0,0 days 00:01:47.337000,,,15,Azerbaijan Grand Prix,107.337,,
 77,BOT,Valtteri Bottas,Cadillac F1 Team,22.0,0 days 00:01:48.290000,,,15,Azerbaijan Grand Prix,108.29,,
+3,VER,Max Verstappen,Red Bull,1.0,0 days 00:01:36.477000,0 days 00:01:35.696000,0 days 00:01:35.130000,16,Bahrain Grand Prix,96.477,95.696,95.13
+44,HAM,Lewis Hamilton,Ferrari,2.0,0 days 00:01:36.595000,0 days 00:01:36.032000,0 days 00:01:35.428000,16,Bahrain Grand Prix,96.595,96.032,95.428
+6,HAD,Isack Hadjar,Red Bull,3.0,0 days 00:01:36.898000,0 days 00:01:36.192000,0 days 00:01:35.558000,16,Bahrain Grand Prix,96.898,96.192,95.558
+12,ANT,Andrea Kimi Antonelli,Mercedes,4.0,0 days 00:01:37.041000,0 days 00:01:35.959000,0 days 00:01:35.631000,16,Bahrain Grand Prix,97.041,95.959,95.631
+16,LEC,Charles Leclerc,Ferrari,5.0,0 days 00:01:36.730000,0 days 00:01:35.970000,0 days 00:01:35.666000,16,Bahrain Grand Prix,96.73,95.97,95.666
+1,NOR,Lando Norris,McLaren,6.0,0 days 00:01:37.092000,0 days 00:01:36.173000,0 days 00:01:35.757000,16,Bahrain Grand Prix,97.092,96.173,95.757
+81,PIA,Oscar Piastri,McLaren,7.0,0 days 00:01:36.852000,0 days 00:01:36.020000,0 days 00:01:35.762000,16,Bahrain Grand Prix,96.852,96.02,95.762
+63,RUS,George Russell,Mercedes,8.0,0 days 00:01:37.264000,0 days 00:01:36.245000,0 days 00:01:35.871000,16,Bahrain Grand Prix,97.264,96.245,95.871
+10,GAS,Pierre Gasly,Alpine F1 Team,9.0,0 days 00:01:37.174000,0 days 00:01:36.410000,0 days 00:01:37.210000,16,Bahrain Grand Prix,97.174,96.41,97.21
+5,BOR,Gabriel Bortoleto,Audi,10.0,0 days 00:01:37.106000,0 days 00:01:36.814000,0 days 00:01:37.673000,16,Bahrain Grand Prix,97.106,96.814,97.673
+30,LAW,Liam Lawson,RB F1 Team,11.0,0 days 00:01:37.332000,0 days 00:01:37.023000,,16,Bahrain Grand Prix,97.332,97.023,
+14,ALO,Fernando Alonso,Aston Martin,12.0,0 days 00:01:37.721000,0 days 00:01:37.220000,,16,Bahrain Grand Prix,97.721,97.22,
+55,SAI,Carlos Sainz,Williams,13.0,0 days 00:01:37.651000,0 days 00:01:37.527000,,16,Bahrain Grand Prix,97.651,97.527,
+18,STR,Lance Stroll,Aston Martin,14.0,0 days 00:01:37.729000,0 days 00:01:37.566000,,16,Bahrain Grand Prix,97.729,97.566,
+43,COL,Franco Colapinto,Alpine F1 Team,15.0,0 days 00:01:37.179000,,,16,Bahrain Grand Prix,97.179,,
+41,LIN,Arvid Lindblad,RB F1 Team,16.0,0 days 00:01:37.883000,,,16,Bahrain Grand Prix,97.883,,
+27,HUL,Nico Hülkenberg,Audi,17.0,0 days 00:01:37.970000,,,16,Bahrain Grand Prix,97.97,,
+87,BEA,Oliver Bearman,Haas F1 Team,18.0,0 days 00:01:37.980000,,,16,Bahrain Grand Prix,97.98,,
+31,OCO,Esteban Ocon,Haas F1 Team,19.0,0 days 00:01:38.233000,,,16,Bahrain Grand Prix,98.233,,
+23,ALB,Alexander Albon,Williams,20.0,0 days 00:01:38.600000,,,16,Bahrain Grand Prix,98.6,,
+77,BOT,Valtteri Bottas,Cadillac F1 Team,21.0,0 days 00:01:38.611000,,,16,Bahrain Grand Prix,98.611,,
+11,PER,Sergio Pérez,Cadillac F1 Team,22.0,0 days 00:01:38.933000,,,16,Bahrain Grand Prix,98.933,,
