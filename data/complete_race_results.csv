@@ -351,3 +351,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,
 63,RUS,George Russell,Mercedes,20.0,7.0,0.0,Retired,,16,Bahrain Grand Prix,
 23,ALB,Alexander Albon,Williams,21.0,18.0,0.0,Retired,,16,Bahrain Grand Prix,
 77,BOT,Valtteri Bottas,Cadillac F1 Team,22.0,19.0,0.0,Retired,,16,Bahrain Grand Prix,
+3,VER,Max Verstappen,Red Bull,1.0,1.0,33.0,Finished,0 days 01:42:00.785000,17,Singapore Grand Prix,6120.785
+16,LEC,Charles Leclerc,Ferrari,2.0,2.0,24.0,Finished,0 days 00:00:07.335000,17,Singapore Grand Prix,7.335
+12,ANT,Andrea Kimi Antonelli,Mercedes,3.0,4.0,20.0,Finished,0 days 00:00:24.573000,17,Singapore Grand Prix,24.573
+1,NOR,Lando Norris,McLaren,4.0,5.0,13.0,Finished,0 days 00:00:40.506000,17,Singapore Grand Prix,40.506
+81,PIA,Oscar Piastri,McLaren,5.0,6.0,10.0,Finished,0 days 00:00:49.644000,17,Singapore Grand Prix,49.644
+44,HAM,Lewis Hamilton,Ferrari,6.0,3.0,15.0,Finished,0 days 00:00:53.188000,17,Singapore Grand Prix,53.188
+30,LAW,Liam Lawson,RB F1 Team,7.0,8.0,10.0,Finished,0 days 00:01:21.666000,17,Singapore Grand Prix,81.666
+27,HUL,Nico Hülkenberg,Audi,8.0,10.0,6.0,Finished,0 days 00:01:23.386000,17,Singapore Grand Prix,83.386
+63,RUS,George Russell,Mercedes,9.0,19.0,2.0,Finished,0 days 00:01:24.677000,17,Singapore Grand Prix,84.677
+6,HAD,Isack Hadjar,Red Bull,10.0,22.0,1.0,Finished,0 days 00:01:30.862000,17,Singapore Grand Prix,90.862
+10,GAS,Pierre Gasly,Alpine F1 Team,11.0,7.0,0.0,Lapped,0 days 00:00:02.171000,17,Singapore Grand Prix,2.171
+87,BEA,Oliver Bearman,Haas F1 Team,12.0,11.0,3.0,Lapped,0 days 00:00:05.006000,17,Singapore Grand Prix,5.006
+31,OCO,Esteban Ocon,Haas F1 Team,13.0,12.0,0.0,Lapped,0 days 00:00:25.647000,17,Singapore Grand Prix,25.647
+55,SAI,Carlos Sainz,Williams,14.0,13.0,0.0,Lapped,0 days 00:00:58.139000,17,Singapore Grand Prix,58.139
+41,LIN,Arvid Lindblad,RB F1 Team,15.0,9.0,0.0,Lapped,0 days 00:01:00.950000,17,Singapore Grand Prix,60.95
+14,ALO,Fernando Alonso,Aston Martin,16.0,20.0,0.0,Lapped,0 days 00:01:14.454000,17,Singapore Grand Prix,74.454
+11,PER,Sergio Pérez,Cadillac F1 Team,17.0,17.0,0.0,Lapped,0 days 00:00:20.520000,17,Singapore Grand Prix,20.52
+23,ALB,Alexander Albon,Williams,18.0,16.0,0.0,Retired,,17,Singapore Grand Prix,
+77,BOT,Valtteri Bottas,Cadillac F1 Team,19.0,18.0,0.0,Lapped,0 days 00:00:17.347000,17,Singapore Grand Prix,17.347
+18,STR,Lance Stroll,Aston Martin,20.0,21.0,0.0,Retired,,17,Singapore Grand Prix,
+43,COL,Franco Colapinto,Alpine F1 Team,21.0,15.0,0.0,Retired,,17,Singapore Grand Prix,
+5,BOR,Gabriel Bortoleto,Audi,22.0,14.0,0.0,Retired,,17,Singapore Grand Prix,

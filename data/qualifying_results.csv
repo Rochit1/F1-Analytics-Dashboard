@@ -346,3 +346,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,Q1,Q2,Q3,Round,EventName,Q1
 23,ALB,Alexander Albon,Williams,20.0,0 days 00:01:38.600000,,,16,Bahrain Grand Prix,98.6,,
 77,BOT,Valtteri Bottas,Cadillac F1 Team,21.0,0 days 00:01:38.611000,,,16,Bahrain Grand Prix,98.611,,
 11,PER,Sergio Pérez,Cadillac F1 Team,22.0,0 days 00:01:38.933000,,,16,Bahrain Grand Prix,98.933,,
+3,VER,Max Verstappen,Red Bull,1.0,0 days 00:01:33.241000,0 days 00:01:31.639000,0 days 00:01:31.373000,17,Singapore Grand Prix,93.241,91.639,91.373
+16,LEC,Charles Leclerc,Ferrari,2.0,0 days 00:01:32.774000,0 days 00:01:31.953000,0 days 00:01:31.427000,17,Singapore Grand Prix,92.774,91.953,91.427
+44,HAM,Lewis Hamilton,Ferrari,3.0,0 days 00:01:32.429000,0 days 00:01:31.529000,0 days 00:01:31.496000,17,Singapore Grand Prix,92.429,91.529,91.496
+12,ANT,Andrea Kimi Antonelli,Mercedes,4.0,0 days 00:01:33.601000,0 days 00:01:32.079000,0 days 00:01:31.562000,17,Singapore Grand Prix,93.601,92.079,91.562
+1,NOR,Lando Norris,McLaren,5.0,0 days 00:01:32.775000,0 days 00:01:31.895000,0 days 00:01:31.712000,17,Singapore Grand Prix,92.775,91.895,91.712
+63,RUS,George Russell,Mercedes,6.0,0 days 00:01:33.617000,0 days 00:01:32.212000,0 days 00:01:31.747000,17,Singapore Grand Prix,93.617,92.212,91.747
+81,PIA,Oscar Piastri,McLaren,7.0,0 days 00:01:33.076000,0 days 00:01:32.245000,0 days 00:01:31.860000,17,Singapore Grand Prix,93.076,92.245,91.86
+10,GAS,Pierre Gasly,Alpine F1 Team,8.0,0 days 00:01:33.182000,0 days 00:01:32.602000,0 days 00:01:32.225000,17,Singapore Grand Prix,93.182,92.602,92.225
+30,LAW,Liam Lawson,RB F1 Team,9.0,0 days 00:01:32.885000,0 days 00:01:32.319000,0 days 00:01:32.369000,17,Singapore Grand Prix,92.885,92.319,92.369
+41,LIN,Arvid Lindblad,RB F1 Team,10.0,0 days 00:01:33.288000,0 days 00:01:32.498000,0 days 00:01:32.781000,17,Singapore Grand Prix,93.288,92.498,92.781
+27,HUL,Nico Hülkenberg,Audi,11.0,0 days 00:01:33.147000,0 days 00:01:32.784000,,17,Singapore Grand Prix,93.147,92.784,
+87,BEA,Oliver Bearman,Haas F1 Team,12.0,0 days 00:01:33.356000,0 days 00:01:32.908000,,17,Singapore Grand Prix,93.356,92.908,
+31,OCO,Esteban Ocon,Haas F1 Team,13.0,0 days 00:01:33.803000,0 days 00:01:33.323000,,17,Singapore Grand Prix,93.803,93.323,
+55,SAI,Carlos Sainz,Williams,14.0,0 days 00:01:33.774000,0 days 00:01:33.526000,,17,Singapore Grand Prix,93.774,93.526,
+5,BOR,Gabriel Bortoleto,Audi,15.0,0 days 00:01:34.169000,0 days 00:01:33.658000,,17,Singapore Grand Prix,94.169,93.658,
+43,COL,Franco Colapinto,Alpine F1 Team,16.0,0 days 00:01:33.261000,0 days 00:01:33.787000,,17,Singapore Grand Prix,93.261,93.787,
+14,ALO,Fernando Alonso,Aston Martin,17.0,0 days 00:01:34.223000,,,17,Singapore Grand Prix,94.223,,
+23,ALB,Alexander Albon,Williams,18.0,0 days 00:01:34.289000,,,17,Singapore Grand Prix,94.289,,
+18,STR,Lance Stroll,Aston Martin,19.0,0 days 00:01:34.946000,,,17,Singapore Grand Prix,94.946,,
+11,PER,Sergio Pérez,Cadillac F1 Team,20.0,0 days 00:01:35.123000,,,17,Singapore Grand Prix,95.123,,
+77,BOT,Valtteri Bottas,Cadillac F1 Team,21.0,0 days 00:01:35.984000,,,17,Singapore Grand Prix,95.984,,
+6,HAD,Isack Hadjar,Red Bull,22.0,,,,17,Singapore Grand Prix,,,
