@@ -373,3 +373,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,
 18,STR,Lance Stroll,Aston Martin,20.0,21.0,0.0,Retired,,17,Singapore Grand Prix,
 43,COL,Franco Colapinto,Alpine F1 Team,21.0,15.0,0.0,Retired,,17,Singapore Grand Prix,
 5,BOR,Gabriel Bortoleto,Audi,22.0,14.0,0.0,Retired,,17,Singapore Grand Prix,
+12,ANT,Andrea Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,0 days 01:35:16.650000,18,United States Grand Prix,5716.65
+16,LEC,Charles Leclerc,Ferrari,2.0,4.0,18.0,Finished,0 days 00:00:13.078000,18,United States Grand Prix,13.078
+3,VER,Max Verstappen,Red Bull,3.0,2.0,15.0,Finished,0 days 00:00:17.485000,18,United States Grand Prix,17.485
+44,HAM,Lewis Hamilton,Ferrari,4.0,5.0,12.0,Finished,0 days 00:00:18.515000,18,United States Grand Prix,18.515
+1,NOR,Lando Norris,McLaren,5.0,8.0,10.0,Finished,0 days 00:00:30.521000,18,United States Grand Prix,30.521
+6,HAD,Isack Hadjar,Red Bull,6.0,3.0,8.0,Finished,0 days 00:00:34.373000,18,United States Grand Prix,34.373
+81,PIA,Oscar Piastri,McLaren,7.0,7.0,6.0,Finished,0 days 00:00:52.674000,18,United States Grand Prix,52.674
+63,RUS,George Russell,Mercedes,8.0,6.0,4.0,Finished,0 days 00:00:54.303000,18,United States Grand Prix,54.303
+30,LAW,Liam Lawson,RB F1 Team,9.0,9.0,2.0,Finished,0 days 00:01:19.183000,18,United States Grand Prix,79.183
+10,GAS,Pierre Gasly,Alpine F1 Team,10.0,10.0,1.0,Finished,0 days 00:01:27.516000,18,United States Grand Prix,87.516
+27,HUL,Nico Hülkenberg,Audi,11.0,11.0,0.0,Finished,0 days 00:01:34.945000,18,United States Grand Prix,94.945
+41,LIN,Arvid Lindblad,RB F1 Team,12.0,14.0,0.0,Lapped,0 days 00:00:06.344000,18,United States Grand Prix,6.344
+5,BOR,Gabriel Bortoleto,Audi,13.0,21.0,0.0,Lapped,0 days 00:00:14.197000,18,United States Grand Prix,14.197
+31,OCO,Esteban Ocon,Haas F1 Team,14.0,15.0,0.0,Lapped,0 days 00:00:21.042000,18,United States Grand Prix,21.042
+18,STR,Lance Stroll,Aston Martin,15.0,22.0,0.0,Lapped,0 days 00:00:49.418000,18,United States Grand Prix,49.418
+14,ALO,Fernando Alonso,Aston Martin,16.0,12.0,0.0,Lapped,0 days 00:01:00.668000,18,United States Grand Prix,60.668
+23,ALB,Alexander Albon,Williams,17.0,17.0,0.0,Lapped,0 days 00:01:02.176000,18,United States Grand Prix,62.176
+55,SAI,Carlos Sainz,Williams,18.0,16.0,0.0,Lapped,0 days 00:01:02.835000,18,United States Grand Prix,62.835
+11,PER,Sergio Pérez,Cadillac F1 Team,19.0,18.0,0.0,Lapped,0 days 00:01:22.809000,18,United States Grand Prix,82.809
+77,BOT,Valtteri Bottas,Cadillac F1 Team,20.0,19.0,0.0,Retired,,18,United States Grand Prix,
+43,COL,Franco Colapinto,Alpine F1 Team,21.0,20.0,0.0,Retired,,18,United States Grand Prix,
+87,BEA,Oliver Bearman,Haas F1 Team,22.0,13.0,0.0,Retired,,18,United States Grand Prix,

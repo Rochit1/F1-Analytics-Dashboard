@@ -691,3 +691,35 @@ Round,EventName,Driver,LapNumber,Stint,Compound,PitInTime,PitOutTime
 17,Singapore Grand Prix,PER,38.0,2.0,MEDIUM,0 days 01:09:26.323000,0 days 01:09:51.123000
 17,Singapore Grand Prix,RUS,39.0,1.0,MEDIUM,0 days 01:09:42.466999999,0 days 01:10:06.066999999
 17,Singapore Grand Prix,PIA,41.0,2.0,MEDIUM,0 days 01:12:41.701000,0 days 01:13:05.701000
+18,United States Grand Prix,VER,13.0,1.0,SOFT,0 days 00:26:15.407000,0 days 00:26:39.307000
+18,United States Grand Prix,BEA,13.0,1.0,SOFT,0 days 00:26:53.335000,0 days 00:27:17.535000
+18,United States Grand Prix,HAM,14.0,1.0,SOFT,0 days 00:28:02.922000,0 days 00:28:27.022000
+18,United States Grand Prix,LEC,15.0,1.0,SOFT,0 days 00:29:40.350000,0 days 00:30:04.350000
+18,United States Grand Prix,PIA,15.0,1.0,MEDIUM,0 days 00:29:56.430000,0 days 00:30:19.830000
+18,United States Grand Prix,STR,15.0,2.0,SOFT,0 days 00:30:32.706000,0 days 00:30:57.006000
+18,United States Grand Prix,NOR,16.0,1.0,MEDIUM,0 days 00:31:36.127000,0 days 00:32:01.827000
+18,United States Grand Prix,ALB,16.0,1.0,SOFT,0 days 00:32:12.799000,0 days 00:32:37.199000
+18,United States Grand Prix,SAI,17.0,1.0,SOFT,0 days 00:34:08.742000,0 days 00:34:42.342000
+18,United States Grand Prix,LIN,18.0,1.0,SOFT,0 days 00:35:26.655000,0 days 00:35:50.355000
+18,United States Grand Prix,OCO,21.0,1.0,SOFT,0 days 00:40:35.180000,0 days 00:41:00.080000
+18,United States Grand Prix,RUS,22.0,1.0,MEDIUM,0 days 00:41:52.493000,0 days 00:42:22.193000
+18,United States Grand Prix,BEA,22.0,2.0,HARD,0 days 00:42:57.239000,0 days 00:43:31.939000
+18,United States Grand Prix,PER,23.0,1.0,SOFT,0 days 00:44:30.730000,0 days 00:44:55.830000
+18,United States Grand Prix,ANT,24.0,1.0,MEDIUM,0 days 00:44:46.495000,0 days 00:45:09.995000
+18,United States Grand Prix,GAS,24.0,1.0,SOFT,0 days 00:45:38.338000,0 days 00:46:05.238000
+18,United States Grand Prix,HAD,25.0,1.0,SOFT,0 days 00:46:43.320000,0 days 00:47:07.320000
+18,United States Grand Prix,LAW,25.0,1.0,SOFT,0 days 00:47:13.261000,0 days 00:47:37.461000
+18,United States Grand Prix,BOR,26.0,1.0,SOFT,0 days 00:49:17.248000,0 days 00:49:41.248000
+18,United States Grand Prix,ALO,28.0,1.0,SOFT,0 days 00:52:37.542000,0 days 00:53:01.742000
+18,United States Grand Prix,HUL,29.0,1.0,SOFT,0 days 00:54:15.106000,0 days 00:54:39.006000
+18,United States Grand Prix,BOT,29.0,1.0,HARD,0 days 00:55:03.412000,0 days 00:55:27.612000
+18,United States Grand Prix,COL,30.0,1.0,HARD,0 days 00:56:33.137000,0 days 00:56:58.437000
+18,United States Grand Prix,VER,31.0,2.0,SOFT,0 days 00:56:47.056000,0 days 00:57:12.356000
+18,United States Grand Prix,ALB,31.0,2.0,SOFT,0 days 00:58:11.908000,0 days 00:58:35.508000
+18,United States Grand Prix,HAM,38.0,2.0,MEDIUM,0 days 01:08:37.850000,0 days 01:09:01.750000
+18,United States Grand Prix,LEC,39.0,2.0,MEDIUM,0 days 01:10:10.975999999,0 days 01:10:35.175999999
+18,United States Grand Prix,SAI,38.0,2.0,HARD,0 days 01:10:25.212999999,0 days 01:10:49.512999999
+18,United States Grand Prix,LIN,40.0,2.0,MEDIUM,0 days 01:13:09.285000,0 days 01:13:33.785000
+18,United States Grand Prix,STR,41.0,2.0,SOFT,0 days 01:15:19.674000,0 days 01:15:43.474000
+18,United States Grand Prix,ALO,42.0,2.0,MEDIUM,0 days 01:17:03.826000,0 days 01:17:44.226000
+18,United States Grand Prix,BOR,50.0,2.0,HARD,0 days 01:30:08.568000,0 days 01:30:32.468000
