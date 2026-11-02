@@ -390,3 +390,25 @@ DriverNumber,Abbreviation,FullName,TeamName,Position,Q1,Q2,Q3,Round,EventName,Q1
 23,ALB,Alexander Albon,Williams,20.0,0 days 00:01:36.967000,,,18,United States Grand Prix,96.967,,
 11,PER,Sergio Pérez,Cadillac F1 Team,21.0,0 days 00:01:37.433000,,,18,United States Grand Prix,97.433,,
 77,BOT,Valtteri Bottas,Cadillac F1 Team,22.0,0 days 00:01:37.523000,,,18,United States Grand Prix,97.523,,
+44,HAM,Lewis Hamilton,Ferrari,1.0,0 days 00:01:17.341000,0 days 00:01:16.953000,0 days 00:01:16.514000,19,Mexico City Grand Prix,77.341,76.953,76.514
+63,RUS,George Russell,Mercedes,2.0,0 days 00:01:17.659000,0 days 00:01:17.027000,0 days 00:01:16.523000,19,Mexico City Grand Prix,77.659,77.027,76.523
+16,LEC,Charles Leclerc,Ferrari,3.0,0 days 00:01:17.506000,0 days 00:01:16.944000,0 days 00:01:16.633000,19,Mexico City Grand Prix,77.506,76.944,76.633
+3,VER,Max Verstappen,Red Bull,4.0,0 days 00:01:17.942000,0 days 00:01:16.876000,0 days 00:01:16.692000,19,Mexico City Grand Prix,77.942,76.876,76.692
+12,ANT,Andrea Kimi Antonelli,Mercedes,5.0,0 days 00:01:17.918000,0 days 00:01:17.133000,0 days 00:01:16.707000,19,Mexico City Grand Prix,77.918,77.133,76.707
+1,NOR,Lando Norris,McLaren,6.0,0 days 00:01:17.733000,0 days 00:01:16.728000,0 days 00:01:16.824000,19,Mexico City Grand Prix,77.733,76.728,76.824
+6,HAD,Isack Hadjar,Red Bull,7.0,0 days 00:01:17.385000,0 days 00:01:17.047000,0 days 00:01:16.900000,19,Mexico City Grand Prix,77.385,77.047,76.9
+41,LIN,Arvid Lindblad,RB F1 Team,8.0,0 days 00:01:18.210000,0 days 00:01:17.135000,0 days 00:01:17.117000,19,Mexico City Grand Prix,78.21,77.135,77.117
+30,LAW,Liam Lawson,RB F1 Team,8.0,,0 days 00:01:17.207000,0 days 00:01:17.029000,19,Mexico City Grand Prix,,77.207,77.029
+10,GAS,Pierre Gasly,Alpine F1 Team,9.0,0 days 00:01:18.194000,0 days 00:01:17.278000,0 days 00:01:17.153000,19,Mexico City Grand Prix,78.194,77.278,77.153
+27,HUL,Nico Hülkenberg,Audi,10.0,0 days 00:01:17.868000,0 days 00:01:17.306000,,19,Mexico City Grand Prix,77.868,77.306,
+43,COL,Franco Colapinto,Alpine F1 Team,11.0,0 days 00:01:18.517000,0 days 00:01:17.640000,,19,Mexico City Grand Prix,78.517,77.64,
+81,PIA,Oscar Piastri,McLaren,12.0,0 days 00:01:17.659000,0 days 00:01:17.646000,,19,Mexico City Grand Prix,77.659,77.646,
+5,BOR,Gabriel Bortoleto,Audi,13.0,0 days 00:01:17.727000,0 days 00:01:17.680000,,19,Mexico City Grand Prix,77.727,77.68,
+87,BEA,Oliver Bearman,Haas F1 Team,14.0,0 days 00:01:18.083000,0 days 00:01:18.083000,,19,Mexico City Grand Prix,78.083,78.083,
+55,SAI,Carlos Sainz,Williams,15.0,0 days 00:01:18.521000,0 days 00:01:18.885000,,19,Mexico City Grand Prix,78.521,78.885,
+23,ALB,Alexander Albon,Williams,16.0,0 days 00:01:18.630000,,,19,Mexico City Grand Prix,78.63,,
+14,ALO,Fernando Alonso,Aston Martin,17.0,0 days 00:01:18.908000,,,19,Mexico City Grand Prix,78.908,,
+50,HIR,Ryo Hirakawa,Haas F1 Team,18.0,0 days 00:01:18.958000,,,19,Mexico City Grand Prix,78.958,,
+18,STR,Lance Stroll,Aston Martin,19.0,0 days 00:01:19.072000,,,19,Mexico City Grand Prix,79.072,,
+11,PER,Sergio Pérez,Cadillac F1 Team,20.0,0 days 00:01:19.105000,,,19,Mexico City Grand Prix,79.105,,
+77,BOT,Valtteri Bottas,Cadillac F1 Team,21.0,0 days 00:01:19.852000,,,19,Mexico City Grand Prix,79.852,,

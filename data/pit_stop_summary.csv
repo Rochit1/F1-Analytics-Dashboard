@@ -1,39 +1,29 @@
 Round,EventName,Driver,LapNumber,Stint,Compound,PitInTime,PitOutTime
-1,Australian Grand Prix,COL,9.0,2.0,HARD,0 days 00:17:09.480000,0 days 00:17:37.180000
-1,Australian Grand Prix,NOR,11.0,2.0,HARD,0 days 00:19:40.861000,0 days 00:19:59.061000
-1,Australian Grand Prix,OCO,11.0,2.0,HARD,0 days 00:19:45.997000,0 days 00:20:04.497000
-1,Australian Grand Prix,GAS,11.0,2.0,HARD,0 days 00:19:46.650000,0 days 00:20:05.250000
-1,Australian Grand Prix,SAI,11.0,2.0,HARD,0 days 00:19:56.659000,0 days 00:20:16.459000
-1,Australian Grand Prix,LAW,11.0,2.0,HARD,0 days 00:20:02.746000,0 days 00:20:21.846000
-1,Australian Grand Prix,ALO,11.0,2.0,SOFT,0 days 00:20:48.545000,0 days 00:21:14.440000
+1,Australian Grand Prix,COL,46.0,3.0,SOFT,0 days 01:12:34.738999999,0 days 01:12:53.299999999
+1,Australian Grand Prix,NOR,46.0,3.0,MEDIUM,0 days 00:19:43.406000,0 days 00:20:01.672000
+1,Australian Grand Prix,GAS,46.0,2.0,HARD,0 days 00:19:54.135000,0 days 00:20:12.807000
+1,Australian Grand Prix,OCO,46.0,2.0,HARD,0 days 00:19:56.923000,0 days 00:20:15.493000
+1,Australian Grand Prix,SAI,46.0,4.0,SOFT,0 days 00:20:04.992000,0 days 00:20:24.851000
+1,Australian Grand Prix,LAW,46.0,3.0,SOFT,0 days 00:20:20.833000,0 days 00:20:39.945000
 1,Australian Grand Prix,STR,11.0,2.0,HARD,0 days 00:20:37.821000,0 days 00:21:14.507000
+1,Australian Grand Prix,ALO,11.0,2.0,SOFT,0 days 00:20:48.545000,0 days 00:21:14.440000
 1,Australian Grand Prix,RUS,12.0,2.0,HARD,0 days 00:21:15.981000,0 days 00:21:33.775000
 1,Australian Grand Prix,ANT,12.0,2.0,HARD,0 days 00:22:00.272000,0 days 00:22:21.257000
 1,Australian Grand Prix,ALB,12.0,2.0,HARD,0 days 00:22:01.303000,0 days 00:22:19.421000
 1,Australian Grand Prix,BOT,12.0,2.0,HARD,0 days 00:23:57.952000,0 days 00:24:28.339000
-1,Australian Grand Prix,LIN,18.0,2.0,HARD,0 days 00:31:07.099000,0 days 00:31:25.605000
-1,Australian Grand Prix,VER,18.0,2.0,MEDIUM,0 days 00:31:12.593000,0 days 00:31:31.663000
 1,Australian Grand Prix,BEA,18.0,2.0,HARD,0 days 00:30:50.106000,0 days 00:31:08.880000
 1,Australian Grand Prix,BOR,18.0,2.0,HARD,0 days 00:53:09.209000,0 days 00:53:31.828000
+1,Australian Grand Prix,LIN,18.0,2.0,HARD,0 days 00:31:07.099000,0 days 00:31:25.605000
+1,Australian Grand Prix,VER,18.0,2.0,MEDIUM,0 days 00:31:12.593000,0 days 00:31:31.663000
 1,Australian Grand Prix,PER,18.0,2.0,HARD,0 days 00:31:56.620000,0 days 00:32:17.991000
-1,Australian Grand Prix,ALO,13.0,3.0,SOFT,0 days 00:40:09.040000,0 days 00:56:21.340000
-1,Australian Grand Prix,LEC,25.0,2.0,HARD,0 days 00:40:48.354000,0 days 00:41:05.954000
 1,Australian Grand Prix,LEC,18.0,1.0,MEDIUM,0 days 00:40:49.682000,0 days 00:41:07.346000
-1,Australian Grand Prix,STR,26.0,3.0,SOFT,0 days 00:44:26.700000,0 days 00:44:59.800000
 1,Australian Grand Prix,STR,18.0,2.0,HARD,0 days 00:44:40.626000,0 days 00:45:13.808000
-1,Australian Grand Prix,HAM,28.0,2.0,HARD,0 days 00:45:03.940000,0 days 00:45:21.640000
 1,Australian Grand Prix,HAM,18.0,1.0,MEDIUM,0 days 00:45:19.036000,0 days 00:45:36.777000
-1,Australian Grand Prix,BOR,33.0,3.0,HARD,0 days 00:52:53.935000,0 days 00:53:16.535000
 1,Australian Grand Prix,ALB,33.0,3.0,SOFT,0 days 00:53:24.013000,0 days 00:53:42.417000
 1,Australian Grand Prix,LAW,33.0,3.0,SOFT,0 days 00:54:27.845000,0 days 00:54:46.035000
 1,Australian Grand Prix,SAI,33.0,3.0,MEDIUM,0 days 00:54:41.807000,0 days 00:55:07.746000
-1,Australian Grand Prix,NOR,34.0,3.0,MEDIUM,0 days 00:54:07.060000,0 days 00:54:24.660000
-1,Australian Grand Prix,VER,41.0,3.0,HARD,0 days 01:03:56.712000,0 days 01:04:14.712000
 1,Australian Grand Prix,PER,43.0,3.0,SOFT,0 days 01:09:13.750000,0 days 01:09:32.701000
 1,Australian Grand Prix,SAI,45.0,4.0,SOFT,0 days 01:11:24.060999999,0 days 01:11:58.675999999
-1,Australian Grand Prix,COL,46.0,3.0,SOFT,0 days 01:12:34.738999999,0 days 01:12:53.299999999
-1,Australian Grand Prix,STR,34.0,4.0,SOFT,0 days 01:14:27.249000,0 days 01:32:28.749000
-1,Australian Grand Prix,STR,39.0,5.0,SOFT,0 days 01:22:06.866000,0 days 01:22:29.266000
 1,Australian Grand Prix,STR,46.0,,,0 days 01:22:16.614000,0 days 01:22:39.083000
 2,Chinese Grand Prix,HAD,1.0,1.0,SOFT,0 days 00:06:25.125000,0 days 00:06:48.187000
 2,Chinese Grand Prix,LAW,9.0,1.0,MEDIUM,0 days 00:19:30.772000,0 days 00:19:53.493000
@@ -105,70 +95,70 @@ Round,EventName,Driver,LapNumber,Stint,Compound,PitInTime,PitOutTime
 4,Miami Grand Prix,BOR,32.0,1.0,MEDIUM,0 days 00:59:55.617000,0 days 01:00:19.603000
 4,Miami Grand Prix,STR,37.0,2.0,SOFT,0 days 01:08:38.349000,0 days 01:09:00.439000
 4,Miami Grand Prix,ALO,41.0,1.0,MEDIUM,0 days 01:14:48.371000,0 days 01:15:11.531000
-5,Canadian Grand Prix,PIA,1.0,2.0,MEDIUM,0 days 00:11:35.201000,0 days 00:11:59.301000
-5,Canadian Grand Prix,NOR,2.0,2.0,MEDIUM,0 days 00:12:53.655000,0 days 00:13:17.055000
+5,Canadian Grand Prix,PIA,1.0,2.0,MEDIUM,0 days 00:11:35.201000,0 days 00:11:59.322000
+5,Canadian Grand Prix,NOR,2.0,2.0,MEDIUM,0 days 00:12:53.655000,0 days 00:13:17.073000
 5,Canadian Grand Prix,HUL,2.0,2.0,SOFT,0 days 00:13:06.553000,0 days 00:13:31.453000
-5,Canadian Grand Prix,SAI,2.0,2.0,MEDIUM,0 days 00:13:10.208000,0 days 00:13:34.908000
-5,Canadian Grand Prix,BOR,2.0,2.0,SOFT,0 days 00:13:12.614000,0 days 00:13:40.714000
+5,Canadian Grand Prix,SAI,2.0,2.0,MEDIUM,0 days 00:13:10.208000,0 days 00:13:34.959000
+5,Canadian Grand Prix,BOR,2.0,2.0,SOFT,0 days 00:13:12.630000,0 days 00:13:40.808000
 5,Canadian Grand Prix,PER,2.0,2.0,SOFT,0 days 00:13:13.091000,0 days 00:13:38.791000
-5,Canadian Grand Prix,BOT,3.0,2.0,SOFT,0 days 00:14:43.855000,0 days 00:15:12.055000
+5,Canadian Grand Prix,BOT,3.0,2.0,SOFT,0 days 00:14:43.855000,0 days 00:15:12.112000
 5,Canadian Grand Prix,BOT,9.0,3.0,MEDIUM,0 days 00:23:13.509000,0 days 00:23:38.309000
-5,Canadian Grand Prix,PIA,12.0,3.0,MEDIUM,0 days 00:26:37.176000,0 days 00:27:13.776000
-5,Canadian Grand Prix,STR,14.0,2.0,SOFT,0 days 00:29:29.471000,0 days 00:29:53.671000
-5,Canadian Grand Prix,NOR,15.0,3.0,MEDIUM,0 days 00:30:15.392000,0 days 00:30:44.192000
+5,Canadian Grand Prix,PIA,12.0,3.0,MEDIUM,0 days 00:26:37.191000,0 days 00:27:13.818000
+5,Canadian Grand Prix,STR,14.0,2.0,SOFT,0 days 00:29:29.486000,0 days 00:29:53.735000
+5,Canadian Grand Prix,NOR,15.0,3.0,MEDIUM,0 days 00:30:15.392000,0 days 00:30:44.251000
 5,Canadian Grand Prix,PER,15.0,3.0,MEDIUM,0 days 00:30:47.863000,0 days 00:31:12.963000
-5,Canadian Grand Prix,OCO,16.0,2.0,MEDIUM,0 days 00:31:52.896000,0 days 00:32:17.696000
-5,Canadian Grand Prix,BOR,18.0,3.0,MEDIUM,0 days 00:34:34.135000,0 days 00:34:58.835000
-5,Canadian Grand Prix,HUL,20.0,3.0,MEDIUM,0 days 00:37:09.895000,0 days 00:37:40.895000
-5,Canadian Grand Prix,ALO,20.0,2.0,SOFT,0 days 00:37:15.069000,0 days 00:37:39.769000
-5,Canadian Grand Prix,COL,30.0,2.0,HARD,0 days 00:49:34.153000,0 days 00:49:59.753000
+5,Canadian Grand Prix,OCO,16.0,2.0,MEDIUM,0 days 00:31:52.896000,0 days 00:32:17.729000
+5,Canadian Grand Prix,BOR,18.0,3.0,MEDIUM,0 days 00:34:34.135000,0 days 00:34:58.901000
+5,Canadian Grand Prix,HUL,20.0,3.0,MEDIUM,0 days 00:37:09.895000,0 days 00:37:40.919000
+5,Canadian Grand Prix,ALO,20.0,2.0,SOFT,0 days 00:37:15.069000,0 days 00:37:39.778000
+5,Canadian Grand Prix,COL,30.0,2.0,HARD,0 days 00:49:34.168000,0 days 00:49:59.808000
 5,Canadian Grand Prix,PER,29.0,4.0,SOFT,0 days 00:49:46.801000,0 days 00:50:11.701000
-5,Canadian Grand Prix,LAW,30.0,2.0,SOFT,0 days 00:49:47.971000,0 days 00:50:12.071000
-5,Canadian Grand Prix,GAS,30.0,2.0,HARD,0 days 00:49:55.410000,0 days 00:50:21.010000
+5,Canadian Grand Prix,LAW,30.0,2.0,SOFT,0 days 00:49:48.018000,0 days 00:50:12.195000
+5,Canadian Grand Prix,GAS,30.0,2.0,HARD,0 days 00:49:55.410000,0 days 00:50:21.054000
 5,Canadian Grand Prix,SAI,30.0,3.0,MEDIUM,0 days 00:50:09.459000,0 days 00:50:35.059000
-5,Canadian Grand Prix,ANT,31.0,2.0,MEDIUM,0 days 00:50:16.912000,0 days 00:50:42.012000
+5,Canadian Grand Prix,ANT,31.0,2.0,MEDIUM,0 days 00:50:16.912000,0 days 00:50:42.065000
 5,Canadian Grand Prix,BEA,30.0,2.0,MEDIUM,0 days 00:50:19.553000,0 days 00:51:04.453000
-5,Canadian Grand Prix,VER,31.0,2.0,MEDIUM,0 days 00:50:23.022000,0 days 00:50:48.122000
-5,Canadian Grand Prix,HAM,31.0,2.0,MEDIUM,0 days 00:50:34.865000,0 days 00:51:00.765000
+5,Canadian Grand Prix,VER,31.0,2.0,MEDIUM,0 days 00:50:23.022000,0 days 00:50:48.221000
+5,Canadian Grand Prix,HAM,31.0,2.0,MEDIUM,0 days 00:50:35.006000,0 days 00:51:00.942000
 5,Canadian Grand Prix,HAD,31.0,2.0,MEDIUM,0 days 00:50:38.006000,0 days 00:51:02.906000
-5,Canadian Grand Prix,LEC,31.0,2.0,MEDIUM,0 days 00:50:40.850000,0 days 00:51:10.950000
-5,Canadian Grand Prix,BOT,29.0,4.0,SOFT,0 days 00:51:02.188000,0 days 00:51:26.588000
-5,Canadian Grand Prix,OCO,30.0,3.0,SOFT,0 days 00:51:29.219000,0 days 00:52:04.519000
-5,Canadian Grand Prix,STR,49.0,3.0,MEDIUM,0 days 01:17:51.300000,0 days 01:18:15.400000
+5,Canadian Grand Prix,LEC,31.0,2.0,MEDIUM,0 days 00:50:40.850000,0 days 00:51:10.964000
+5,Canadian Grand Prix,BOT,29.0,4.0,SOFT,0 days 00:51:02.189000,0 days 00:51:26.602000
+5,Canadian Grand Prix,OCO,30.0,3.0,SOFT,0 days 00:51:29.234000,0 days 00:52:04.585000
+5,Canadian Grand Prix,STR,49.0,3.0,MEDIUM,0 days 01:17:51.300000,0 days 01:18:15.446000
 5,Canadian Grand Prix,HAD,52.0,3.0,SOFT,0 days 01:18:25.134000,0 days 01:18:59.834000
-5,Canadian Grand Prix,BOT,49.0,5.0,MEDIUM,0 days 01:18:48.229000,0 days 01:19:19.329000
-5,Canadian Grand Prix,PIA,51.0,4.0,SOFT,0 days 01:18:50.366000,0 days 01:19:26.466000
+5,Canadian Grand Prix,BOT,49.0,5.0,MEDIUM,0 days 01:18:48.229000,0 days 01:19:19.331000
+5,Canadian Grand Prix,PIA,51.0,4.0,SOFT,0 days 01:18:50.366000,0 days 01:19:26.469000
 5,Canadian Grand Prix,HAD,62.0,4.0,SOFT,0 days 01:31:49.681000,0 days 01:32:24.481000
-6,Monaco Grand Prix,BOT,1.0,2.0,MEDIUM,0 days 00:05:11.097000,0 days 00:05:37.797000
-6,Monaco Grand Prix,BOR,1.0,2.0,HARD,0 days 00:05:11.753000,0 days 00:05:37.653000
-6,Monaco Grand Prix,BEA,1.0,2.0,HARD,0 days 00:05:15.738000,0 days 00:05:47.838000
-6,Monaco Grand Prix,ALO,3.0,2.0,SOFT,0 days 00:07:51.620000,0 days 00:08:16.520000
-6,Monaco Grand Prix,PER,4.0,2.0,MEDIUM,0 days 00:09:10.136000,0 days 00:09:37.236000
-6,Monaco Grand Prix,STR,4.0,2.0,SOFT,0 days 00:09:14.620000,0 days 00:09:39.420000
-6,Monaco Grand Prix,OCO,9.0,2.0,HARD,0 days 00:15:47.335000,0 days 00:16:12.735000
+6,Monaco Grand Prix,BOT,1.0,2.0,MEDIUM,0 days 00:05:11.097000,0 days 00:05:37.856000
+6,Monaco Grand Prix,BOR,1.0,2.0,HARD,0 days 00:05:11.753000,0 days 00:05:37.680000
+6,Monaco Grand Prix,BEA,1.0,2.0,HARD,0 days 00:05:15.738000,0 days 00:05:47.865000
+6,Monaco Grand Prix,ALO,3.0,2.0,SOFT,0 days 00:07:51.635000,0 days 00:08:16.610000
+6,Monaco Grand Prix,PER,4.0,2.0,MEDIUM,0 days 00:09:10.151000,0 days 00:09:37.289000
+6,Monaco Grand Prix,STR,4.0,2.0,SOFT,0 days 00:09:14.620000,0 days 00:09:39.423000
+6,Monaco Grand Prix,OCO,9.0,2.0,HARD,0 days 00:15:47.350000,0 days 00:16:12.832000
 6,Monaco Grand Prix,PER,9.0,3.0,MEDIUM,0 days 00:15:59.835000,0 days 00:16:19.535000
-6,Monaco Grand Prix,HUL,12.0,2.0,HARD,0 days 00:19:39.858000,0 days 00:20:04.658000
-6,Monaco Grand Prix,HAM,28.0,2.0,HARD,0 days 00:39:40.204000,0 days 00:40:04.304000
-6,Monaco Grand Prix,RUS,31.0,2.0,HARD,0 days 00:44:09.388000,0 days 00:44:33.388000
-6,Monaco Grand Prix,HAD,32.0,2.0,HARD,0 days 00:45:28.474000,0 days 00:45:53.174000
+6,Monaco Grand Prix,HUL,12.0,2.0,HARD,0 days 00:19:39.858000,0 days 00:20:04.668000
+6,Monaco Grand Prix,HAM,28.0,2.0,HARD,0 days 00:39:40.220000,0 days 00:40:04.358000
+6,Monaco Grand Prix,RUS,31.0,2.0,HARD,0 days 00:44:09.388000,0 days 00:44:33.417000
+6,Monaco Grand Prix,HAD,32.0,2.0,HARD,0 days 00:45:28.474000,0 days 00:45:53.258000
 6,Monaco Grand Prix,LEC,35.0,2.0,HARD,0 days 00:48:48.285000,0 days 00:49:13.585000
-6,Monaco Grand Prix,COL,35.0,2.0,HARD,0 days 00:50:05.535000,0 days 00:50:31.235000
+6,Monaco Grand Prix,COL,35.0,2.0,HARD,0 days 00:50:05.535000,0 days 00:50:31.332000
 6,Monaco Grand Prix,ANT,37.0,2.0,HARD,0 days 00:50:58.679000,0 days 00:51:22.779000
-6,Monaco Grand Prix,ALB,43.0,2.0,SOFT,0 days 01:00:37.472000,0 days 01:01:02.972000
-6,Monaco Grand Prix,BOR,43.0,3.0,MEDIUM,0 days 01:01:33.347000,0 days 01:01:57.947000
-6,Monaco Grand Prix,LAW,44.0,2.0,SOFT,0 days 01:01:42.457000,0 days 01:02:08.057000
-6,Monaco Grand Prix,GAS,45.0,2.0,HARD,0 days 01:02:41.495000,0 days 01:03:06.995000
+6,Monaco Grand Prix,ALB,43.0,2.0,SOFT,0 days 01:00:37.472000,0 days 01:01:03.025000
+6,Monaco Grand Prix,BOR,43.0,3.0,MEDIUM,0 days 01:01:33.378000,0 days 01:01:58.068000
+6,Monaco Grand Prix,LAW,44.0,2.0,SOFT,0 days 01:01:42.457000,0 days 01:02:08.079000
+6,Monaco Grand Prix,GAS,45.0,2.0,HARD,0 days 01:02:41.495000,0 days 01:03:07.042000
 6,Monaco Grand Prix,PIA,48.0,2.0,HARD,0 days 01:06:31.029000,0 days 01:06:55.229000
-6,Monaco Grand Prix,SAI,52.0,2.0,SOFT,0 days 01:12:46.970999999,0 days 01:13:12.570999999
+6,Monaco Grand Prix,SAI,52.0,2.0,SOFT,0 days 01:12:46.970999999,0 days 01:13:12.632999999
 6,Monaco Grand Prix,HUL,58.0,3.0,HARD,0 days 01:21:17.307000,0 days 01:21:37.807000
 6,Monaco Grand Prix,PIA,59.0,3.0,SOFT,0 days 01:21:25.635000,0 days 01:21:57.035000
-6,Monaco Grand Prix,HAM,60.0,3.0,SOFT,0 days 01:21:26.073000,0 days 01:21:57.273000
-6,Monaco Grand Prix,ALO,58.0,3.0,SOFT,0 days 01:21:34.338000,0 days 01:22:00.638000
+6,Monaco Grand Prix,HAM,60.0,3.0,SOFT,0 days 01:21:26.073000,0 days 01:21:57.300000
+6,Monaco Grand Prix,ALO,58.0,3.0,SOFT,0 days 01:21:34.338000,0 days 01:22:00.672000
 6,Monaco Grand Prix,LEC,60.0,3.0,SOFT,0 days 01:21:34.463000,0 days 01:22:09.363000
 6,Monaco Grand Prix,BOR,58.0,4.0,MEDIUM,0 days 01:22:10.057000,0 days 01:22:30.357000
 6,Monaco Grand Prix,ANT,61.0,3.0,SOFT,0 days 01:22:39.778000,0 days 01:23:06.578000
 6,Monaco Grand Prix,HAD,60.0,3.0,HARD,0 days 01:22:46.086000,0 days 01:23:05.686000
-6,Monaco Grand Prix,RUS,60.0,3.0,SOFT,0 days 01:22:50.085000,0 days 01:23:25.285000
+6,Monaco Grand Prix,RUS,60.0,3.0,SOFT,0 days 01:22:50.098000,0 days 01:23:25.356000
 6,Monaco Grand Prix,LIN,59.0,2.0,MEDIUM,0 days 01:22:51.100000,0 days 01:23:11.300000
 6,Monaco Grand Prix,ALB,59.0,3.0,SOFT,0 days 01:22:52.596000,0 days 01:23:12.296000
 6,Monaco Grand Prix,SAI,59.0,3.0,SOFT,0 days 01:22:54.064000,0 days 01:23:13.864000
@@ -181,8 +171,8 @@ Round,EventName,Driver,LapNumber,Stint,Compound,PitInTime,PitOutTime
 6,Monaco Grand Prix,ALO,59.0,4.0,SOFT,0 days 01:23:27.510000,0 days 01:23:47.710000
 6,Monaco Grand Prix,LEC,61.0,4.0,SOFT,0 days 01:23:29.885000,0 days 01:23:49.885000
 6,Monaco Grand Prix,LAW,60.0,3.0,SOFT,0 days 01:23:41.002000,0 days 01:24:00.902000
-6,Monaco Grand Prix,PER,59.0,4.0,SOFT,0 days 01:23:51.502000,0 days 01:24:17.502000
-6,Monaco Grand Prix,BOR,59.0,5.0,SOFT,0 days 01:24:06.813000,0 days 01:24:31.613000
+6,Monaco Grand Prix,PER,59.0,4.0,SOFT,0 days 01:23:51.502000,0 days 01:24:17.507000
+6,Monaco Grand Prix,BOR,59.0,5.0,SOFT,0 days 01:24:06.829000,0 days 01:24:31.653000
 6,Monaco Grand Prix,ANT,66.0,4.0,SOFT,0 days 01:32:43.844000,0 days 01:33:04.544000
 6,Monaco Grand Prix,HAM,66.0,5.0,SOFT,0 days 01:32:47.250000,0 days 01:33:09.750000
 6,Monaco Grand Prix,HAD,66.0,4.0,HARD,0 days 01:32:48.418000,0 days 01:33:10.718000
@@ -210,19 +200,19 @@ Round,EventName,Driver,LapNumber,Stint,Compound,PitInTime,PitOutTime
 6,Monaco Grand Prix,BOR,67.0,7.0,SOFT,0 days 02:10:29.774000,0 days 02:44:19.674000
 6,Monaco Grand Prix,ANT,68.0,5.0,SOFT,0 days 02:12:12.024000,0 days 02:48:06.124000
 6,Monaco Grand Prix,HAM,68.0,6.0,SOFT,0 days 02:12:15.196000,0 days 02:48:11.396000
-6,Monaco Grand Prix,HAD,68.0,5.0,SOFT,0 days 02:12:17.821000,0 days 02:48:14.421000
+6,Monaco Grand Prix,HAD,68.0,5.0,SOFT,0 days 02:12:17.868000,0 days 02:48:14.488000
 6,Monaco Grand Prix,RUS,68.0,5.0,SOFT,0 days 02:12:20.728000,0 days 02:48:18.828000
-6,Monaco Grand Prix,GAS,68.0,5.0,SOFT,0 days 02:12:23.290000,0 days 02:48:14.790000
-6,Monaco Grand Prix,PIA,68.0,6.0,SOFT,0 days 02:12:26.556000,0 days 02:48:17.956000
+6,Monaco Grand Prix,GAS,68.0,5.0,SOFT,0 days 02:12:23.290000,0 days 02:48:14.886000
+6,Monaco Grand Prix,PIA,68.0,6.0,SOFT,0 days 02:12:26.556000,0 days 02:48:18.034000
 6,Monaco Grand Prix,LAW,68.0,5.0,SOFT,0 days 02:12:29.165000,0 days 02:48:15.165000
-6,Monaco Grand Prix,LIN,68.0,5.0,SOFT,0 days 02:12:32.696000,0 days 02:13:35.196000
-6,Monaco Grand Prix,ALB,68.0,6.0,SOFT,0 days 02:12:34.790000,0 days 02:13:36.990000
-6,Monaco Grand Prix,SAI,68.0,6.0,SOFT,0 days 02:12:37.618000,0 days 02:13:39.518000
-6,Monaco Grand Prix,OCO,68.0,6.0,SOFT,0 days 02:12:39.884000,0 days 02:13:42.484000
-6,Monaco Grand Prix,HUL,68.0,7.0,SOFT,0 days 02:12:42.993000,0 days 02:13:44.893000
+6,Monaco Grand Prix,LIN,68.0,5.0,SOFT,0 days 02:12:32.696000,0 days 02:13:35.292000
+6,Monaco Grand Prix,ALB,68.0,6.0,SOFT,0 days 02:12:34.868000,0 days 02:13:37.094000
+6,Monaco Grand Prix,SAI,68.0,6.0,SOFT,0 days 02:12:37.869000,0 days 02:13:39.837000
+6,Monaco Grand Prix,OCO,68.0,6.0,SOFT,0 days 02:12:40.118000,0 days 02:13:42.787000
+6,Monaco Grand Prix,HUL,68.0,7.0,SOFT,0 days 02:12:42.993000,0 days 02:13:44.923000
 6,Monaco Grand Prix,COL,68.0,6.0,SOFT,0 days 02:12:48.759000,0 days 02:13:53.159000
-6,Monaco Grand Prix,ALO,68.0,7.0,SOFT,0 days 02:12:51.994000,0 days 02:13:56.894000
-6,Monaco Grand Prix,PER,68.0,7.0,SOFT,0 days 02:12:54.552000,0 days 02:14:00.352000
+6,Monaco Grand Prix,ALO,68.0,7.0,SOFT,0 days 02:12:51.997000,0 days 02:13:56.938000
+6,Monaco Grand Prix,PER,68.0,7.0,SOFT,0 days 02:12:54.552000,0 days 02:14:00.372000
 6,Monaco Grand Prix,BOR,68.0,8.0,SOFT,0 days 02:12:56.029000,0 days 02:13:59.929000
 6,Monaco Grand Prix,RUS,72.0,6.0,SOFT,0 days 02:19:38.018000,0 days 02:19:57.718000
 7,Barcelona Grand Prix,HAM,11.0,1.0,SOFT,0 days 00:19:06.289000,0 days 00:19:28.769000
@@ -273,98 +263,98 @@ Round,EventName,Driver,LapNumber,Stint,Compound,PitInTime,PitOutTime
 7,Barcelona Grand Prix,HAD,58.0,3.0,HARD,0 days 01:25:54.289000,0 days 01:26:16.238000
 7,Barcelona Grand Prix,OCO,58.0,3.0,MEDIUM,0 days 01:27:44.973000,0 days 01:28:07.873000
 7,Barcelona Grand Prix,ALB,50.0,4.0,SOFT,0 days 01:28:47.306000,0 days 01:29:10.009000
-8,Austrian Grand Prix,HAM,12.0,1.0,MEDIUM,0 days 00:18:16,0 days 00:18:37.300000
-8,Austrian Grand Prix,LEC,13.0,1.0,MEDIUM,0 days 00:19:34.611000,0 days 00:19:56.311000
-8,Austrian Grand Prix,GAS,13.0,1.0,MEDIUM,0 days 00:19:57.672000,0 days 00:20:19.272000
-8,Austrian Grand Prix,SAI,14.0,1.0,SOFT,0 days 00:21:15.449000,0 days 00:21:36.749000
-8,Austrian Grand Prix,BOR,17.0,1.0,SOFT,0 days 00:24:47.179000,0 days 00:25:09.779000
-8,Austrian Grand Prix,VER,18.0,1.0,MEDIUM,0 days 00:25:32.461000,0 days 00:25:53.761000
-8,Austrian Grand Prix,HAD,18.0,1.0,MEDIUM,0 days 00:25:46.069000,0 days 00:26:07.769000
-8,Austrian Grand Prix,LIN,18.0,1.0,MEDIUM,0 days 00:25:56.802000,0 days 00:26:18.202000
-8,Austrian Grand Prix,OCO,18.0,1.0,MEDIUM,0 days 00:26:14.833000,0 days 00:26:36.633000
+8,Austrian Grand Prix,HAM,12.0,1.0,MEDIUM,0 days 00:18:16.017000,0 days 00:18:37.386000
+8,Austrian Grand Prix,LEC,13.0,1.0,MEDIUM,0 days 00:19:34.616000,0 days 00:19:56.347000
+8,Austrian Grand Prix,GAS,13.0,1.0,MEDIUM,0 days 00:19:57.675000,0 days 00:20:19.275000
+8,Austrian Grand Prix,SAI,14.0,1.0,SOFT,0 days 00:21:15.453000,0 days 00:21:36.824000
+8,Austrian Grand Prix,BOR,17.0,1.0,SOFT,0 days 00:24:47.184000,0 days 00:25:09.789000
+8,Austrian Grand Prix,VER,18.0,1.0,MEDIUM,0 days 00:25:32.465000,0 days 00:25:53.782000
+8,Austrian Grand Prix,HAD,18.0,1.0,MEDIUM,0 days 00:25:46.128000,0 days 00:26:07.898000
+8,Austrian Grand Prix,LIN,18.0,1.0,MEDIUM,0 days 00:25:56.802000,0 days 00:26:18.210000
+8,Austrian Grand Prix,OCO,18.0,1.0,MEDIUM,0 days 00:26:14.835000,0 days 00:26:36.713000
 8,Austrian Grand Prix,ALB,18.0,1.0,MEDIUM,0 days 00:26:17.113000,0 days 00:26:38.313000
-8,Austrian Grand Prix,RUS,19.0,1.0,MEDIUM,0 days 00:26:40.718000,0 days 00:27:01.918000
-8,Austrian Grand Prix,PIA,19.0,1.0,MEDIUM,0 days 00:26:56.641000,0 days 00:27:18.641000
-8,Austrian Grand Prix,LAW,19.0,1.0,MEDIUM,0 days 00:27:09.009000,0 days 00:27:31.009000
-8,Austrian Grand Prix,COL,20.0,1.0,MEDIUM,0 days 00:28:48.729000,0 days 00:29:10.229000
-8,Austrian Grand Prix,NOR,21.0,1.0,MEDIUM,0 days 00:29:25.824000,0 days 00:29:47.324000
-8,Austrian Grand Prix,HUL,21.0,1.0,MEDIUM,0 days 00:29:55.706000,0 days 00:30:17.206000
-8,Austrian Grand Prix,ANT,24.0,1.0,MEDIUM,0 days 00:32:54.499000,0 days 00:33:15.899000
-8,Austrian Grand Prix,BEA,24.0,1.0,MEDIUM,0 days 00:33:53.795000,0 days 00:34:15.295000
+8,Austrian Grand Prix,RUS,19.0,1.0,MEDIUM,0 days 00:26:40.718000,0 days 00:27:01.922000
+8,Austrian Grand Prix,PIA,19.0,1.0,MEDIUM,0 days 00:26:56.644000,0 days 00:27:18.721000
+8,Austrian Grand Prix,LAW,19.0,1.0,MEDIUM,0 days 00:27:09.013000,0 days 00:27:31.035000
+8,Austrian Grand Prix,COL,20.0,1.0,MEDIUM,0 days 00:28:48.724000,0 days 00:29:10.285000
+8,Austrian Grand Prix,NOR,21.0,1.0,MEDIUM,0 days 00:29:25.830000,0 days 00:29:47.408000
+8,Austrian Grand Prix,HUL,21.0,1.0,MEDIUM,0 days 00:29:55.706000,0 days 00:30:17.291000
+8,Austrian Grand Prix,ANT,24.0,1.0,MEDIUM,0 days 00:32:54.501000,0 days 00:33:15.914000
+8,Austrian Grand Prix,BEA,24.0,1.0,MEDIUM,0 days 00:33:53.798000,0 days 00:34:15.391000
 8,Austrian Grand Prix,ALO,24.0,1.0,MEDIUM,0 days 00:34:21.799000,0 days 00:34:44.099000
 8,Austrian Grand Prix,STR,24.0,1.0,MEDIUM,0 days 00:34:30.473000,0 days 00:34:53.973000
-8,Austrian Grand Prix,HAM,25.0,2.0,HARD,0 days 00:34:41.205000,0 days 00:35:02.405000
-8,Austrian Grand Prix,OCO,33.0,2.0,MEDIUM,0 days 00:45:46.672000,0 days 00:46:12.072000
-8,Austrian Grand Prix,LEC,37.0,2.0,HARD,0 days 00:49:36.347000,0 days 00:49:57.347000
+8,Austrian Grand Prix,HAM,25.0,2.0,HARD,0 days 00:34:41.208999999,0 days 00:35:02.458999999
+8,Austrian Grand Prix,OCO,33.0,2.0,MEDIUM,0 days 00:45:46.682000,0 days 00:46:12.137000
+8,Austrian Grand Prix,LEC,37.0,2.0,HARD,0 days 00:49:38.364000,0 days 00:49:59.384000
 8,Austrian Grand Prix,ALB,37.0,2.0,MEDIUM,0 days 00:50:46.204000,0 days 00:51:07.404000
-8,Austrian Grand Prix,GAS,38.0,2.0,HARD,0 days 00:51:34.103000,0 days 00:51:55.303000
-8,Austrian Grand Prix,HAD,40.0,2.0,MEDIUM,0 days 00:53:16.481000,0 days 00:53:37.681000
-8,Austrian Grand Prix,PIA,42.0,2.0,HARD,0 days 00:55:35.812000,0 days 00:55:57.012000
-8,Austrian Grand Prix,HAM,42.0,3.0,SOFT,0 days 00:55:37.472000,0 days 00:55:58.672000
-8,Austrian Grand Prix,RUS,43.0,2.0,HARD,0 days 00:56:31.785000,0 days 00:56:52.985000
-8,Austrian Grand Prix,BOR,44.0,2.0,MEDIUM,0 days 00:58:47.094000,0 days 00:59:08.894000
-8,Austrian Grand Prix,LAW,45.0,2.0,HARD,0 days 00:59:53.792000,0 days 01:00:15.292000
-8,Austrian Grand Prix,HUL,45.0,2.0,MEDIUM,0 days 01:00:09.488000,0 days 01:00:31.988000
-8,Austrian Grand Prix,BEA,45.0,2.0,HARD,0 days 01:00:27.963000,0 days 01:00:49.963000
-8,Austrian Grand Prix,LIN,46.0,2.0,HARD,0 days 01:01:06.281000,0 days 01:01:27.781000
-8,Austrian Grand Prix,NOR,47.0,2.0,HARD,0 days 01:01:44.351000,0 days 01:02:06.151000
-8,Austrian Grand Prix,COL,46.0,2.0,HARD,0 days 01:01:49.515000,0 days 01:02:10.915000
-8,Austrian Grand Prix,VER,49.0,2.0,HARD,0 days 01:03:48.538000,0 days 01:04:09.738000
-8,Austrian Grand Prix,ANT,51.0,2.0,HARD,0 days 01:06:14.731000,0 days 01:06:36.231000
+8,Austrian Grand Prix,GAS,38.0,2.0,HARD,0 days 00:51:34.103000,0 days 00:51:55.315000
+8,Austrian Grand Prix,HAD,40.0,2.0,MEDIUM,0 days 00:53:16.483000,0 days 00:53:37.751000
+8,Austrian Grand Prix,PIA,42.0,2.0,HARD,0 days 00:55:35.816000,0 days 00:55:57.025000
+8,Austrian Grand Prix,HAM,42.0,3.0,SOFT,0 days 00:55:37.474000,0 days 00:55:58.741000
+8,Austrian Grand Prix,RUS,43.0,2.0,HARD,0 days 00:56:31.791000,0 days 00:56:53.012000
+8,Austrian Grand Prix,BOR,44.0,2.0,MEDIUM,0 days 00:58:47.099000,0 days 00:59:08.976000
+8,Austrian Grand Prix,LAW,45.0,2.0,HARD,0 days 00:59:53.796000,0 days 01:00:15.341000
+8,Austrian Grand Prix,HUL,45.0,2.0,MEDIUM,0 days 01:00:09.493000,0 days 01:00:32.084000
+8,Austrian Grand Prix,BEA,45.0,2.0,HARD,0 days 01:00:27.977000,0 days 01:00:50.021000
+8,Austrian Grand Prix,LIN,46.0,2.0,HARD,0 days 01:01:06.290000,0 days 01:01:27.841000
+8,Austrian Grand Prix,NOR,47.0,2.0,HARD,0 days 01:01:44.356000,0 days 01:02:06.172000
+8,Austrian Grand Prix,COL,46.0,2.0,HARD,0 days 01:01:49.517000,0 days 01:02:10.963000
+8,Austrian Grand Prix,VER,49.0,2.0,HARD,0 days 01:03:48.544000,0 days 01:04:09.796000
+8,Austrian Grand Prix,ANT,51.0,2.0,HARD,0 days 01:06:14.731000,0 days 01:06:36.233000
 8,Austrian Grand Prix,ALO,49.0,2.0,SOFT,0 days 01:06:29.094000,0 days 01:06:57.794000
-8,Austrian Grand Prix,GAS,51.0,3.0,MEDIUM,0 days 01:07:41.166000,0 days 01:08:02.666000
-8,Austrian Grand Prix,LEC,59.0,3.0,HARD,0 days 01:16:33.840000,0 days 01:16:56.540000
-9,British Grand Prix,ALB,1.0,1.0,MEDIUM,0 days 00:06:54.499000,0 days 00:07:38.599000
-9,British Grand Prix,PIA,2.0,1.0,MEDIUM,0 days 00:08:15.448000,0 days 00:08:55.948000
-9,British Grand Prix,ALB,14.0,2.0,HARD,0 days 00:28:42.786000,0 days 00:29:23.986000
-9,British Grand Prix,VER,17.0,1.0,MEDIUM,0 days 00:31:12.628000,0 days 00:31:41.328000
-9,British Grand Prix,HUL,17.0,1.0,MEDIUM,0 days 00:31:54.573000,0 days 00:32:23.473000
-9,British Grand Prix,STR,18.0,1.0,MEDIUM,0 days 00:34:11.121999999,0 days 00:34:39.821999999
+8,Austrian Grand Prix,GAS,51.0,3.0,MEDIUM,0 days 01:07:41.169000,0 days 01:08:02.749000
+8,Austrian Grand Prix,LEC,59.0,3.0,HARD,0 days 01:16:33.844000,0 days 01:16:56.582000
+9,British Grand Prix,ALB,1.0,1.0,MEDIUM,0 days 00:06:54.505000,0 days 00:07:38.684000
+9,British Grand Prix,PIA,2.0,1.0,MEDIUM,0 days 00:08:15.452000,0 days 00:08:56.005000
+9,British Grand Prix,ALB,14.0,2.0,HARD,0 days 00:28:42.786000,0 days 00:29:24.077000
+9,British Grand Prix,VER,17.0,1.0,MEDIUM,0 days 00:31:12.633000,0 days 00:31:41.371000
+9,British Grand Prix,HUL,17.0,1.0,MEDIUM,0 days 00:31:54.573000,0 days 00:32:23.552000
+9,British Grand Prix,STR,18.0,1.0,MEDIUM,0 days 00:34:11.121999999,0 days 00:34:39.855999999
 9,British Grand Prix,HAD,19.0,1.0,MEDIUM,0 days 00:34:30.503000,0 days 00:35:00.403000
-9,British Grand Prix,SAI,20.0,1.0,MEDIUM,0 days 00:36:40.733000,0 days 00:37:09.533000
-9,British Grand Prix,ALO,20.0,1.0,MEDIUM,0 days 00:37:30.798000,0 days 00:37:59.498000
-9,British Grand Prix,PER,21.0,1.0,MEDIUM,0 days 00:38:39.595000,0 days 00:39:08.895000
-9,British Grand Prix,OCO,21.0,1.0,MEDIUM,0 days 00:38:40.451000,0 days 00:39:23.651000
-9,British Grand Prix,COL,22.0,1.0,MEDIUM,0 days 00:39:57.554000,0 days 00:40:26.854000
-9,British Grand Prix,RUS,23.0,1.0,MEDIUM,0 days 00:40:52.147000,0 days 00:41:20.747000
-9,British Grand Prix,HAM,23.0,1.0,MEDIUM,0 days 00:40:53.747000,0 days 00:41:28.547000
-9,British Grand Prix,GAS,23.0,1.0,MEDIUM,0 days 00:41:36.072000,0 days 00:42:09.672000
-9,British Grand Prix,LEC,25.0,1.0,MEDIUM,0 days 00:43:45.836000,0 days 00:44:14.236000
-9,British Grand Prix,ALB,23.0,3.0,MEDIUM,0 days 00:43:56.211000,0 days 00:44:35.811000
-9,British Grand Prix,BOR,26.0,1.0,MEDIUM,0 days 00:46:11.109000,0 days 00:46:39.709000
-9,British Grand Prix,LIN,27.0,1.0,MEDIUM,0 days 00:47:43.893000,0 days 00:48:12.793000
-9,British Grand Prix,NOR,28.0,1.0,MEDIUM,0 days 00:48:53.303000,0 days 00:49:22.103000
-9,British Grand Prix,LAW,28.0,1.0,MEDIUM,0 days 00:49:15.954000,0 days 00:49:44.654000
-9,British Grand Prix,BEA,29.0,1.0,MEDIUM,0 days 00:51:35.455000,0 days 00:52:05.355000
-9,British Grand Prix,BOT,29.0,1.0,MEDIUM,0 days 00:52:01.983000,0 days 00:52:33.483000
-9,British Grand Prix,RUS,34.0,2.0,HARD,0 days 00:58:20.856000,0 days 00:58:49.156000
-9,British Grand Prix,ANT,35.0,1.0,MEDIUM,0 days 00:59:25.087000,0 days 00:59:53.987000
-9,British Grand Prix,HUL,34.0,2.0,HARD,0 days 00:59:28.796000,0 days 01:00:04.596000
-9,British Grand Prix,PIA,36.0,2.0,HARD,0 days 01:02:44.835000,0 days 01:03:14.335000
-9,British Grand Prix,ALB,35.0,4.0,SOFT,0 days 01:03:32.875000,0 days 01:04:04.275000
-9,British Grand Prix,VER,38.0,2.0,HARD,0 days 01:04:38.769000,0 days 01:05:07.669000
-9,British Grand Prix,NOR,38.0,2.0,HARD,0 days 01:04:55.474000,0 days 01:05:25.274000
+9,British Grand Prix,SAI,20.0,1.0,MEDIUM,0 days 00:36:40.736000,0 days 00:37:09.630000
+9,British Grand Prix,ALO,20.0,1.0,MEDIUM,0 days 00:37:30.801000,0 days 00:37:59.533000
+9,British Grand Prix,PER,21.0,1.0,MEDIUM,0 days 00:38:39.598000,0 days 00:39:08.972000
+9,British Grand Prix,OCO,21.0,1.0,MEDIUM,0 days 00:38:40.456000,0 days 00:39:23.709000
+9,British Grand Prix,COL,22.0,1.0,MEDIUM,0 days 00:39:57.556000,0 days 00:40:26.916000
+9,British Grand Prix,RUS,23.0,1.0,MEDIUM,0 days 00:40:52.147000,0 days 00:41:20.810000
+9,British Grand Prix,HAM,23.0,1.0,MEDIUM,0 days 00:40:53.749000,0 days 00:41:28.613000
+9,British Grand Prix,GAS,23.0,1.0,MEDIUM,0 days 00:41:36.078000,0 days 00:42:09.686000
+9,British Grand Prix,LEC,25.0,1.0,MEDIUM,0 days 00:43:45.836000,0 days 00:44:14.280000
+9,British Grand Prix,ALB,23.0,3.0,MEDIUM,0 days 00:43:56.220000,0 days 00:44:35.821000
+9,British Grand Prix,BOR,26.0,1.0,MEDIUM,0 days 00:46:11.110000,0 days 00:46:39.772000
+9,British Grand Prix,LIN,27.0,1.0,MEDIUM,0 days 00:47:43.905000,0 days 00:48:12.879000
+9,British Grand Prix,NOR,28.0,1.0,MEDIUM,0 days 00:48:53.307000,0 days 00:49:22.140000
+9,British Grand Prix,LAW,28.0,1.0,MEDIUM,0 days 00:49:15.958000,0 days 00:49:44.704000
+9,British Grand Prix,BEA,29.0,1.0,MEDIUM,0 days 00:51:35.458000,0 days 00:52:05.429000
+9,British Grand Prix,BOT,29.0,1.0,MEDIUM,0 days 00:52:01.995000,0 days 00:52:33.594000
+9,British Grand Prix,RUS,34.0,2.0,HARD,0 days 00:58:20.862000,0 days 00:58:49.199000
+9,British Grand Prix,ANT,35.0,1.0,MEDIUM,0 days 00:59:25.090000,0 days 00:59:54.038000
+9,British Grand Prix,HUL,34.0,2.0,HARD,0 days 00:59:28.799000,0 days 01:00:04.657000
+9,British Grand Prix,PIA,36.0,2.0,HARD,0 days 01:02:44.837000,0 days 01:03:14.352000
+9,British Grand Prix,ALB,35.0,4.0,SOFT,0 days 01:03:32.878000,0 days 01:04:04.352000
+9,British Grand Prix,VER,38.0,2.0,HARD,0 days 01:04:38.774000,0 days 01:05:07.724000
+9,British Grand Prix,NOR,38.0,2.0,HARD,0 days 01:04:55.478000,0 days 01:05:25.296000
 9,British Grand Prix,HAD,38.0,2.0,HARD,0 days 01:05:14.352000,0 days 01:05:50.752000
-9,British Grand Prix,ANT,41.0,2.0,HARD,0 days 01:09:41.585000,0 days 01:10:22.785000
-9,British Grand Prix,ALB,40.0,5.0,SOFT,0 days 01:12:16.429000,0 days 01:12:48.929000
-9,British Grand Prix,ANT,43.0,3.0,MEDIUM,0 days 01:13:31.663000,0 days 01:14:05.263000
+9,British Grand Prix,ANT,41.0,2.0,HARD,0 days 01:09:41.587999999,0 days 01:10:22.802999999
+9,British Grand Prix,ALB,40.0,5.0,SOFT,0 days 01:12:16.432000,0 days 01:12:49.014000
+9,British Grand Prix,ANT,43.0,3.0,MEDIUM,0 days 01:13:31.663000,0 days 01:14:05.313000
 9,British Grand Prix,HAD,47.0,3.0,MEDIUM,0 days 01:19:36.825000,0 days 01:20:06.425000
-9,British Grand Prix,PER,46.0,2.0,HARD,0 days 01:19:42.582000,0 days 01:20:12.382000
-9,British Grand Prix,LAW,47.0,2.0,HARD,0 days 01:19:57.160000,0 days 01:20:25.660000
-9,British Grand Prix,LIN,47.0,2.0,HARD,0 days 01:20:03.631000,0 days 01:20:35.731000
-9,British Grand Prix,BOR,47.0,2.0,HARD,0 days 01:20:09.066000,0 days 01:20:38.966000
-9,British Grand Prix,BOT,46.0,2.0,HARD,0 days 01:20:26.714000,0 days 01:20:56.214000
-9,British Grand Prix,COL,47.0,2.0,HARD,0 days 01:20:31.463000,0 days 01:21:00.863000
-9,British Grand Prix,LEC,48.0,2.0,HARD,0 days 01:20:34.854000,0 days 01:21:03.654000
-9,British Grand Prix,HAM,48.0,2.0,HARD,0 days 01:21:02.149000,0 days 01:21:30.849000
-9,British Grand Prix,PIA,47.0,3.0,MEDIUM,0 days 01:21:03.857000,0 days 01:21:32.857000
-9,British Grand Prix,ALO,46.0,2.0,HARD,0 days 01:21:17.735000,0 days 01:21:47.635000
-9,British Grand Prix,BEA,47.0,2.0,HARD,0 days 01:21:26.513000,0 days 01:21:56.713000
-9,British Grand Prix,NOR,48.0,3.0,MEDIUM,0 days 01:21:31.210000,0 days 01:21:59.610000
-9,British Grand Prix,OCO,47.0,2.0,HARD,0 days 01:21:33.609000,0 days 01:22:04.809000
-9,British Grand Prix,STR,46.0,2.0,HARD,0 days 01:21:40.753000,0 days 01:22:26.953000
-9,British Grand Prix,GAS,48.0,2.0,HARD,0 days 01:22:41.160000,0 days 01:23:09.860000
-9,British Grand Prix,SAI,48.0,2.0,HARD,0 days 01:23:19.064000,0 days 01:23:48.264000
+9,British Grand Prix,PER,46.0,2.0,HARD,0 days 01:19:42.586000,0 days 01:20:12.452000
+9,British Grand Prix,LAW,47.0,2.0,HARD,0 days 01:19:57.164000,0 days 01:20:25.741000
+9,British Grand Prix,LIN,47.0,2.0,HARD,0 days 01:20:03.637000,0 days 01:20:35.780000
+9,British Grand Prix,BOR,47.0,2.0,HARD,0 days 01:20:09.069000,0 days 01:20:38.995000
+9,British Grand Prix,BOT,46.0,2.0,HARD,0 days 01:20:26.717000,0 days 01:20:56.301000
+9,British Grand Prix,COL,47.0,2.0,HARD,0 days 01:20:31.468000,0 days 01:21:00.929000
+9,British Grand Prix,LEC,48.0,2.0,HARD,0 days 01:20:34.855000,0 days 01:21:03.742000
+9,British Grand Prix,HAM,48.0,2.0,HARD,0 days 01:21:02.162000,0 days 01:21:30.894000
+9,British Grand Prix,PIA,47.0,3.0,MEDIUM,0 days 01:21:03.863000,0 days 01:21:32.944000
+9,British Grand Prix,ALO,46.0,2.0,HARD,0 days 01:21:17.901000,0 days 01:21:47.865000
+9,British Grand Prix,BEA,47.0,2.0,HARD,0 days 01:21:26.513000,0 days 01:21:56.787000
+9,British Grand Prix,NOR,48.0,3.0,MEDIUM,0 days 01:21:31.214000,0 days 01:21:59.689000
+9,British Grand Prix,OCO,47.0,2.0,HARD,0 days 01:21:33.611000,0 days 01:22:04.823000
+9,British Grand Prix,STR,46.0,2.0,HARD,0 days 01:21:40.756000,0 days 01:22:26.990000
+9,British Grand Prix,GAS,48.0,2.0,HARD,0 days 01:22:41.162000,0 days 01:23:09.899000
+9,British Grand Prix,SAI,48.0,2.0,HARD,0 days 01:23:19.079000,0 days 01:23:48.298000
 10,Belgian Grand Prix,HAD,1.0,1.0,HARD,0 days 00:06:46.970000,0 days 00:07:11.126000
 10,Belgian Grand Prix,BEA,1.0,1.0,MEDIUM,0 days 00:06:48.812000,0 days 00:07:15.366000
 10,Belgian Grand Prix,PER,1.0,1.0,HARD,0 days 00:06:49.762000,0 days 00:07:15.134000
@@ -393,49 +383,50 @@ Round,EventName,Driver,LapNumber,Stint,Compound,PitInTime,PitOutTime
 10,Belgian Grand Prix,NOR,30.0,1.0,HARD,0 days 01:03:34.566000,0 days 01:04:02.880000
 10,Belgian Grand Prix,ALO,31.0,2.0,SOFT,0 days 01:07:43.290000,0 days 01:08:08.036000
 10,Belgian Grand Prix,BOT,32.0,2.0,HARD,0 days 01:08:56.694000,0 days 01:09:22.604000
-11,Hungarian Grand Prix,STR,8.0,1.0,SOFT,0 days 00:15:41.346000,0 days 00:16:03.046000
-11,Hungarian Grand Prix,HAM,13.0,1.0,SOFT,0 days 00:22:21.620000,0 days 00:22:43.320000
-11,Hungarian Grand Prix,VER,14.0,1.0,MEDIUM,0 days 00:23:46.669000,0 days 00:24:08.269000
-11,Hungarian Grand Prix,COL,15.0,1.0,MEDIUM,0 days 00:25:55.040000,0 days 00:26:17.940000
+11,Hungarian Grand Prix,STR,8.0,1.0,SOFT,0 days 00:15:41.355000,0 days 00:16:03.144000
+11,Hungarian Grand Prix,HAM,13.0,1.0,SOFT,0 days 00:22:21.620000,0 days 00:22:43.368000
+11,Hungarian Grand Prix,VER,14.0,1.0,MEDIUM,0 days 00:23:46.669000,0 days 00:24:08.294000
+11,Hungarian Grand Prix,COL,15.0,1.0,MEDIUM,0 days 00:25:55.055000,0 days 00:26:18.050000
 11,Hungarian Grand Prix,PIA,16.0,1.0,MEDIUM,0 days 00:26:33.852000,0 days 00:26:55.552000
-11,Hungarian Grand Prix,LEC,16.0,1.0,SOFT,0 days 00:26:41.676000,0 days 00:27:03.576000
-11,Hungarian Grand Prix,GAS,16.0,1.0,MEDIUM,0 days 00:27:14.786000,0 days 00:27:36.186000
+11,Hungarian Grand Prix,LEC,16.0,1.0,SOFT,0 days 00:26:41.680000,0 days 00:27:03.611000
+11,Hungarian Grand Prix,GAS,16.0,1.0,MEDIUM,0 days 00:27:14.793000,0 days 00:27:36.251000
 11,Hungarian Grand Prix,NOR,17.0,1.0,MEDIUM,0 days 00:28:00.540000,0 days 00:28:22.640000
-11,Hungarian Grand Prix,OCO,17.0,1.0,MEDIUM,0 days 00:28:49.903000,0 days 00:29:12.403000
-11,Hungarian Grand Prix,SAI,18.0,1.0,SOFT,0 days 00:30:22.324000,0 days 00:30:43.924000
-11,Hungarian Grand Prix,HAD,19.0,1.0,MEDIUM,0 days 00:31:16.420000,0 days 00:31:38.220000
-11,Hungarian Grand Prix,HUL,19.0,1.0,MEDIUM,0 days 00:31:30.310000,0 days 00:31:51.710000
-11,Hungarian Grand Prix,LIN,20.0,1.0,MEDIUM,0 days 00:32:55.402000,0 days 00:33:16.702000
-11,Hungarian Grand Prix,LAW,21.0,1.0,MEDIUM,0 days 00:34:20.885000,0 days 00:34:42.785000
-11,Hungarian Grand Prix,PER,21.0,2.0,MEDIUM,0 days 00:35:15.179000,0 days 00:35:38.379000
+11,Hungarian Grand Prix,OCO,17.0,1.0,MEDIUM,0 days 00:28:49.903000,0 days 00:29:12.408000
+11,Hungarian Grand Prix,SAI,18.0,1.0,SOFT,0 days 00:30:22.337000,0 days 00:30:43.951000
+11,Hungarian Grand Prix,HAD,19.0,1.0,MEDIUM,0 days 00:31:16.420000,0 days 00:31:38.242000
+11,Hungarian Grand Prix,HUL,19.0,1.0,MEDIUM,0 days 00:31:30.310000,0 days 00:31:51.730000
+11,Hungarian Grand Prix,LIN,20.0,1.0,MEDIUM,0 days 00:32:55.465000,0 days 00:33:16.860000
+11,Hungarian Grand Prix,LAW,21.0,1.0,MEDIUM,0 days 00:34:20.902000,0 days 00:34:42.825000
+11,Hungarian Grand Prix,PER,21.0,2.0,MEDIUM,0 days 00:35:15.179000,0 days 00:35:38.391000
 11,Hungarian Grand Prix,ANT,22.0,1.0,MEDIUM,0 days 00:35:16.641999999,0 days 00:35:37.941999999
-11,Hungarian Grand Prix,BEA,22.0,1.0,MEDIUM,0 days 00:36:16.382000,0 days 00:36:38.882000
-11,Hungarian Grand Prix,ALB,26.0,1.0,MEDIUM,0 days 00:42:20.136000,0 days 00:42:42.236000
-11,Hungarian Grand Prix,RUS,27.0,1.0,MEDIUM,0 days 00:42:56.696000,0 days 00:43:18.896000
-11,Hungarian Grand Prix,BOR,29.0,1.0,SOFT,0 days 00:46:11.589000,0 days 00:46:33.289000
+11,Hungarian Grand Prix,BEA,22.0,1.0,MEDIUM,0 days 00:36:16.397000,0 days 00:36:38.901000
+11,Hungarian Grand Prix,ALB,26.0,1.0,MEDIUM,0 days 00:42:20.136000,0 days 00:42:42.241000
+11,Hungarian Grand Prix,RUS,27.0,1.0,MEDIUM,0 days 00:42:56.696000,0 days 00:43:18.943000
+11,Hungarian Grand Prix,BOR,29.0,1.0,SOFT,0 days 00:46:11.601000,0 days 00:46:33.350000
 11,Hungarian Grand Prix,HAM,30.0,2.0,HARD,0 days 00:46:55.302000,0 days 00:47:16.902000
 11,Hungarian Grand Prix,PIA,33.0,2.0,HARD,0 days 00:51:04.546000,0 days 00:51:26.246000
 11,Hungarian Grand Prix,ALO,34.0,1.0,SOFT,0 days 00:53:49.332000,0 days 00:54:11.432000
-11,Hungarian Grand Prix,OCO,35.0,2.0,HARD,0 days 00:55:29.069000,0 days 00:55:51.369000
-11,Hungarian Grand Prix,LEC,36.0,2.0,HARD,0 days 00:55:31.438000,0 days 00:55:53.138000
-11,Hungarian Grand Prix,STR,37.0,2.0,MEDIUM,0 days 00:58:17.740000,0 days 00:58:41.940000
-11,Hungarian Grand Prix,COL,37.0,2.0,HARD,0 days 00:58:20.671000,0 days 00:58:42.871000
+11,Hungarian Grand Prix,OCO,35.0,2.0,HARD,0 days 00:55:29.069000,0 days 00:55:51.468000
+11,Hungarian Grand Prix,LEC,36.0,2.0,HARD,0 days 00:55:31.440000,0 days 00:55:53.203000
+11,Hungarian Grand Prix,STR,37.0,2.0,MEDIUM,0 days 00:58:17.761000,0 days 00:58:42.002000
+11,Hungarian Grand Prix,COL,37.0,2.0,HARD,0 days 00:58:20.671000,0 days 00:58:42.877000
+11,Hungarian Grand Prix,NOR,39.0,2.0,HARD,0 days 00:59:33.501000,0 days 00:59:55.601000
 11,Hungarian Grand Prix,HUL,39.0,2.0,HARD,0 days 01:00:41.461000,0 days 01:01:03.561000
-11,Hungarian Grand Prix,GAS,39.0,2.0,HARD,0 days 01:00:56.586000,0 days 01:01:18.086000
-11,Hungarian Grand Prix,VER,41.0,2.0,HARD,0 days 01:02:34.058000,0 days 01:02:56.058000
-11,Hungarian Grand Prix,HAD,42.0,2.0,HARD,0 days 01:04:31.983000,0 days 01:04:54.183000
-11,Hungarian Grand Prix,LAW,42.0,2.0,HARD,0 days 01:04:54.514000,0 days 01:05:16.014000
-11,Hungarian Grand Prix,BEA,42.0,2.0,HARD,0 days 01:06:05.054000,0 days 01:06:27.354000
-11,Hungarian Grand Prix,SAI,43.0,2.0,MEDIUM,0 days 01:07:30.243000,0 days 01:07:58.843000
-11,Hungarian Grand Prix,PER,46.0,2.0,MEDIUM,0 days 01:12:30.716000,0 days 01:12:54.916000
+11,Hungarian Grand Prix,GAS,39.0,2.0,HARD,0 days 01:00:56.592000,0 days 01:01:18.166000
+11,Hungarian Grand Prix,VER,41.0,2.0,HARD,0 days 01:02:34.058000,0 days 01:02:56.073000
+11,Hungarian Grand Prix,HAD,42.0,2.0,HARD,0 days 01:04:31.983000,0 days 01:04:54.194000
+11,Hungarian Grand Prix,LAW,42.0,2.0,HARD,0 days 01:04:54.514000,0 days 01:05:16.112000
+11,Hungarian Grand Prix,BEA,42.0,2.0,HARD,0 days 01:06:05.056000,0 days 01:06:27.392000
+11,Hungarian Grand Prix,SAI,43.0,2.0,MEDIUM,0 days 01:07:30.261000,0 days 01:07:58.919000
+11,Hungarian Grand Prix,PER,46.0,2.0,MEDIUM,0 days 01:12:30.736000,0 days 01:12:54.997000
 11,Hungarian Grand Prix,ANT,53.0,2.0,HARD,0 days 01:19:33.974000,0 days 01:19:55.274000
-11,Hungarian Grand Prix,RUS,54.0,2.0,HARD,0 days 01:21:36.025000,0 days 01:21:58.025000
-11,Hungarian Grand Prix,ALB,54.0,2.0,HARD,0 days 01:23:39.271000,0 days 01:24:01.971000
-11,Hungarian Grand Prix,NOR,56.0,3.0,,0 days 01:23:44.520000,0 days 01:24:06.320000
-11,Hungarian Grand Prix,SAI,54.0,3.0,SOFT,0 days 01:23:47.468000,0 days 01:24:09.468000
+11,Hungarian Grand Prix,RUS,54.0,2.0,HARD,0 days 01:21:36.031000,0 days 01:21:58.050000
+11,Hungarian Grand Prix,ALB,54.0,2.0,HARD,0 days 01:23:39.371000,0 days 01:24:02.128000
+11,Hungarian Grand Prix,NOR,56.0,3.0,HARD,0 days 01:23:44.520000,0 days 01:24:06.320000
+11,Hungarian Grand Prix,SAI,54.0,3.0,SOFT,0 days 01:23:47.468000,0 days 01:24:09.550000
 11,Hungarian Grand Prix,HAM,56.0,3.0,HARD,0 days 01:24:03.700000,0 days 01:24:26.100000
-11,Hungarian Grand Prix,LEC,56.0,3.0,HARD,0 days 01:24:17.788000,0 days 01:24:39.688000
-11,Hungarian Grand Prix,GAS,55.0,3.0,HARD,0 days 01:24:28.241000,0 days 01:24:49.941000
+11,Hungarian Grand Prix,LEC,56.0,3.0,HARD,0 days 01:24:17.788000,0 days 01:24:39.733000
+11,Hungarian Grand Prix,GAS,55.0,3.0,HARD,0 days 01:24:28.241000,0 days 01:24:49.981000
 11,Hungarian Grand Prix,ALO,55.0,2.0,MEDIUM,0 days 01:24:38.573000,0 days 01:25:01.173000
 12,Dutch Grand Prix,NOR,2.0,1.0,MEDIUM,0 days 00:33:05.260000,0 days 00:59:16.760000
 12,Dutch Grand Prix,ANT,2.0,1.0,MEDIUM,0 days 00:33:08.095000,0 days 00:59:20.595000
@@ -456,52 +447,52 @@ Round,EventName,Driver,LapNumber,Stint,Compound,PitInTime,PitOutTime
 12,Dutch Grand Prix,BOR,2.0,1.0,SOFT,0 days 00:34:05.710000,0 days 01:00:29.410000
 12,Dutch Grand Prix,STR,2.0,1.0,SOFT,0 days 00:34:40.025999999,0 days 01:01:39.925999999
 12,Dutch Grand Prix,SAI,2.0,1.0,SOFT,0 days 00:34:41.697999999,0 days 01:01:39.097999999
-12,Dutch Grand Prix,BOT,2.0,1.0,HARD,0 days 00:34:44.150999999,0 days 01:01:36.250999999
-12,Dutch Grand Prix,PER,2.0,1.0,SOFT,0 days 00:34:46.016000,0 days 01:01:44.016000
+12,Dutch Grand Prix,BOT,2.0,1.0,HARD,0 days 00:34:44.167000,0 days 01:01:36.298000
+12,Dutch Grand Prix,PER,2.0,1.0,SOFT,0 days 00:34:46.025999999,0 days 01:01:44.115999999
 12,Dutch Grand Prix,LIN,5.0,2.0,MEDIUM,0 days 00:41:20.293000,0 days 00:41:32.593000
 12,Dutch Grand Prix,COL,8.0,2.0,MEDIUM,0 days 00:45:19.012000,0 days 00:45:31.012000
 12,Dutch Grand Prix,BOR,11.0,2.0,SOFT,0 days 00:49:24.979000,0 days 00:49:42.979000
-12,Dutch Grand Prix,STR,15.0,2.0,SOFT,0 days 00:54:45.114000,0 days 00:55:02.714000
+12,Dutch Grand Prix,STR,15.0,2.0,SOFT,0 days 00:54:45.114000,0 days 00:55:02.759000
 12,Dutch Grand Prix,OCO,16.0,2.0,SOFT,0 days 00:56:02.015000,0 days 00:56:20.615000
-12,Dutch Grand Prix,RUS,17.0,2.0,MEDIUM,0 days 00:56:54.016000,0 days 00:57:12.016000
-12,Dutch Grand Prix,PIA,18.0,2.0,HARD,0 days 00:58:11.766000,0 days 00:58:31.966000
-12,Dutch Grand Prix,GAS,18.0,2.0,MEDIUM,0 days 00:58:30.380000,0 days 00:58:48.380000
-12,Dutch Grand Prix,TSU,18.0,2.0,SOFT,0 days 00:58:34.848000,0 days 00:58:52.848000
+12,Dutch Grand Prix,RUS,17.0,2.0,MEDIUM,0 days 00:56:54.016000,0 days 00:57:12.026000
+12,Dutch Grand Prix,PIA,18.0,2.0,HARD,0 days 00:58:11.782000,0 days 00:58:32.049000
+12,Dutch Grand Prix,GAS,18.0,2.0,MEDIUM,0 days 00:58:30.395000,0 days 00:58:48.398000
+12,Dutch Grand Prix,TSU,18.0,2.0,SOFT,0 days 00:58:34.848000,0 days 00:58:52.867000
 12,Dutch Grand Prix,HUL,19.0,2.0,SOFT,0 days 00:59:49.557000,0 days 01:00:06.557000
 12,Dutch Grand Prix,ANT,21.0,2.0,MEDIUM,0 days 01:01:55.449000,0 days 01:02:14.149000
-12,Dutch Grand Prix,NOR,21.0,2.0,SOFT,0 days 01:01:57.042000,0 days 01:02:15.042000
-12,Dutch Grand Prix,LEC,21.0,2.0,SOFT,0 days 01:02:07.026000,0 days 01:02:26.726000
+12,Dutch Grand Prix,NOR,21.0,2.0,SOFT,0 days 01:01:57.042000,0 days 01:02:15.116000
+12,Dutch Grand Prix,LEC,21.0,2.0,SOFT,0 days 01:02:07.033000,0 days 01:02:26.803000
 12,Dutch Grand Prix,LAW,21.0,2.0,SOFT,0 days 01:02:18.875000,0 days 01:02:37.475000
-12,Dutch Grand Prix,COL,21.0,3.0,MEDIUM,0 days 01:03:00.159000,0 days 01:03:19.559000
-12,Dutch Grand Prix,HAM,25.0,2.0,SOFT,0 days 01:07:17.499000,0 days 01:07:35.299000
-12,Dutch Grand Prix,ALB,26.0,2.0,HARD,0 days 01:09:11.916000,0 days 01:09:29.416000
-12,Dutch Grand Prix,BOT,28.0,2.0,HARD,0 days 01:12:22.125000,0 days 01:12:42.125000
-12,Dutch Grand Prix,PER,29.0,2.0,HARD,0 days 01:13:42.184000,0 days 01:14:00.584000
-12,Dutch Grand Prix,SAI,30.0,2.0,SOFT,0 days 01:14:42.578000,0 days 01:15:00.378000
-12,Dutch Grand Prix,ALO,34.0,2.0,SOFT,0 days 01:19:45.499000,0 days 01:20:03.099000
+12,Dutch Grand Prix,COL,21.0,3.0,MEDIUM,0 days 01:03:00.159000,0 days 01:03:19.636000
+12,Dutch Grand Prix,HAM,25.0,2.0,SOFT,0 days 01:07:17.499000,0 days 01:07:35.371000
+12,Dutch Grand Prix,ALB,26.0,2.0,HARD,0 days 01:09:11.916000,0 days 01:09:29.508000
+12,Dutch Grand Prix,BOT,28.0,2.0,HARD,0 days 01:12:22.125000,0 days 01:12:42.170000
+12,Dutch Grand Prix,PER,29.0,2.0,HARD,0 days 01:13:42.184000,0 days 01:14:00.608000
+12,Dutch Grand Prix,SAI,30.0,2.0,SOFT,0 days 01:14:42.594000,0 days 01:15:00.408000
+12,Dutch Grand Prix,ALO,34.0,2.0,SOFT,0 days 01:19:45.515000,0 days 01:20:03.121000
 12,Dutch Grand Prix,BOR,34.0,3.0,MEDIUM,0 days 01:19:59.920000,0 days 01:20:17.420000
 12,Dutch Grand Prix,STR,35.0,3.0,HARD,0 days 01:21:28.904000,0 days 01:21:46.104000
-12,Dutch Grand Prix,LIN,36.0,3.0,MEDIUM,0 days 01:22:41.117000,0 days 01:22:59.617000
+12,Dutch Grand Prix,LIN,36.0,3.0,MEDIUM,0 days 01:22:41.117000,0 days 01:22:59.695000
 12,Dutch Grand Prix,OCO,36.0,3.0,HARD,0 days 01:22:44.742000,0 days 01:23:02.642000
 12,Dutch Grand Prix,ANT,40.0,3.0,HARD,0 days 01:26:27.430000,0 days 01:26:45.130000
-12,Dutch Grand Prix,RUS,40.0,3.0,HARD,0 days 01:26:37.440000,0 days 01:26:54.840000
-12,Dutch Grand Prix,LEC,43.0,3.0,MEDIUM,0 days 01:30:30.957000,0 days 01:30:49.657000
+12,Dutch Grand Prix,RUS,40.0,3.0,HARD,0 days 01:26:37.440000,0 days 01:26:54.891000
+12,Dutch Grand Prix,LEC,43.0,3.0,MEDIUM,0 days 01:30:30.972000,0 days 01:30:49.718000
 12,Dutch Grand Prix,PIA,44.0,3.0,HARD,0 days 01:31:58.200000,0 days 01:32:16.300000
-12,Dutch Grand Prix,TSU,44.0,3.0,HARD,0 days 01:32:58.543000,0 days 01:33:16.343000
-12,Dutch Grand Prix,COL,45.0,4.0,HARD,0 days 01:34:49.935000,0 days 01:35:08.235000
+12,Dutch Grand Prix,TSU,44.0,3.0,HARD,0 days 01:32:58.543000,0 days 01:33:16.367000
+12,Dutch Grand Prix,COL,45.0,4.0,HARD,0 days 01:34:49.935000,0 days 01:35:08.290000
 12,Dutch Grand Prix,NOR,47.0,3.0,HARD,0 days 01:35:24.577000,0 days 01:35:42.077000
-12,Dutch Grand Prix,GAS,46.0,3.0,HARD,0 days 01:35:35.606000,0 days 01:35:53.706000
+12,Dutch Grand Prix,GAS,46.0,3.0,HARD,0 days 01:35:35.606000,0 days 01:35:53.722000
 12,Dutch Grand Prix,LAW,47.0,3.0,MEDIUM,0 days 01:36:11.351000,0 days 01:36:29.551000
 12,Dutch Grand Prix,HUL,48.0,3.0,SOFT,0 days 01:37:55.220000,0 days 01:38:12.920000
-12,Dutch Grand Prix,ALB,49.0,3.0,HARD,0 days 01:39:53.413000,0 days 01:40:10.813000
-12,Dutch Grand Prix,BOT,51.0,3.0,HARD,0 days 01:43:19.720000,0 days 01:43:39.320000
+12,Dutch Grand Prix,ALB,49.0,3.0,HARD,0 days 01:39:53.413000,0 days 01:40:10.895000
+12,Dutch Grand Prix,BOT,51.0,3.0,HARD,0 days 01:43:19.720000,0 days 01:43:39.378000
 12,Dutch Grand Prix,PER,52.0,3.0,HARD,0 days 01:44:15.983000,0 days 01:44:34.483000
 12,Dutch Grand Prix,BOR,53.0,4.0,HARD,0 days 01:45:02.725000,0 days 01:45:21.925000
-12,Dutch Grand Prix,HAM,55.0,3.0,HARD,0 days 01:46:10.280000,0 days 01:46:28.980000
-12,Dutch Grand Prix,LEC,55.0,4.0,HARD,0 days 01:46:18.402000,0 days 01:46:37.102000
-12,Dutch Grand Prix,PIA,55.0,4.0,SOFT,0 days 01:46:39.148000,0 days 01:46:56.948000
+12,Dutch Grand Prix,HAM,55.0,3.0,HARD,0 days 01:46:10.280000,0 days 01:46:28.990000
+12,Dutch Grand Prix,LEC,55.0,4.0,HARD,0 days 01:46:18.402000,0 days 01:46:37.132000
+12,Dutch Grand Prix,PIA,55.0,4.0,SOFT,0 days 01:46:39.148000,0 days 01:46:56.999000
 12,Dutch Grand Prix,ANT,56.0,4.0,HARD,0 days 01:47:52.045000,0 days 01:48:11.145000
-12,Dutch Grand Prix,SAI,65.0,3.0,HARD,0 days 02:02:28.164000,0 days 02:02:46.164000
+12,Dutch Grand Prix,SAI,65.0,3.0,HARD,0 days 02:02:28.164000,0 days 02:02:46.211000
 13,Italian Grand Prix,RUS,3.0,1.0,MEDIUM,0 days 00:39:08.309000,0 days 01:09:54.509000
 13,Italian Grand Prix,GAS,3.0,1.0,MEDIUM,0 days 00:39:11.083000,0 days 01:09:55.683000
 13,Italian Grand Prix,VER,3.0,1.0,SOFT,0 days 00:39:12.984000,0 days 01:09:57.084000
@@ -523,60 +514,60 @@ Round,EventName,Driver,LapNumber,Stint,Compound,PitInTime,PitOutTime
 13,Italian Grand Prix,BOT,3.0,1.0,SOFT,0 days 00:39:54.885000,0 days 01:10:36.685000
 13,Italian Grand Prix,STR,3.0,1.0,SOFT,0 days 00:39:57.525000,0 days 01:10:39.525000
 13,Italian Grand Prix,ALO,3.0,1.0,HARD,0 days 00:40:00.041000,0 days 01:10:39.441000
-13,Italian Grand Prix,LAW,12.0,2.0,HARD,0 days 00:56:37.202000,0 days 00:57:08.302000
-13,Italian Grand Prix,HUL,27.0,2.0,HARD,0 days 01:18:20.100000,0 days 01:18:44.300000
-13,Italian Grand Prix,SAI,27.0,2.0,HARD,0 days 01:18:24.872000,0 days 01:18:49.372000
+13,Italian Grand Prix,LAW,12.0,2.0,HARD,0 days 00:56:37.207000,0 days 00:57:08.404000
+13,Italian Grand Prix,HUL,27.0,2.0,HARD,0 days 01:18:20.102000,0 days 01:18:44.348000
+13,Italian Grand Prix,SAI,27.0,2.0,HARD,0 days 01:18:24.876000,0 days 01:18:49.446000
 13,Italian Grand Prix,OCO,27.0,2.0,HARD,0 days 01:18:27.243000,0 days 01:18:54.443000
-13,Italian Grand Prix,PER,27.0,2.0,SOFT,0 days 01:19:05.854000,0 days 01:19:34.254000
-13,Italian Grand Prix,BOT,27.0,2.0,MEDIUM,0 days 01:19:15.462000,0 days 01:19:50.662000
-13,Italian Grand Prix,ANT,28.0,2.0,MEDIUM,0 days 01:19:27.815000,0 days 01:19:52.715000
-13,Italian Grand Prix,VER,28.0,2.0,MEDIUM,0 days 01:19:29.734000,0 days 01:19:54.634000
-13,Italian Grand Prix,ALB,46.0,2.0,HARD,0 days 01:46:26.941000,0 days 01:46:53.241000
-14,Spanish Grand Prix,ANT,14.0,1.0,MEDIUM,0 days 00:28:01.583000,0 days 00:28:33.383000
-14,Spanish Grand Prix,VER,14.0,1.0,SOFT,0 days 00:28:08.785000,0 days 00:28:39.785000
-14,Spanish Grand Prix,RUS,14.0,1.0,HARD,0 days 00:28:15.784000,0 days 00:28:46.484000
-14,Spanish Grand Prix,COL,14.0,1.0,MEDIUM,0 days 00:28:55.189000,0 days 00:29:26.789000
-14,Spanish Grand Prix,LIN,14.0,1.0,MEDIUM,0 days 00:28:57.517000,0 days 00:29:29.317000
-14,Spanish Grand Prix,HUL,14.0,1.0,SOFT,0 days 00:28:59.746000,0 days 00:29:30.746000
-14,Spanish Grand Prix,OCO,14.0,1.0,MEDIUM,0 days 00:29:00.283000,0 days 00:29:32.383000
-14,Spanish Grand Prix,ALB,14.0,1.0,MEDIUM,0 days 00:29:18.783000,0 days 00:29:49.883000
-14,Spanish Grand Prix,PER,14.0,1.0,MEDIUM,0 days 00:29:27.612000,0 days 00:29:59.812000
-14,Spanish Grand Prix,ALO,14.0,1.0,HARD,0 days 00:29:42.803000,0 days 00:30:26.603000
+13,Italian Grand Prix,PER,27.0,2.0,SOFT,0 days 01:19:05.854000,0 days 01:19:34.312000
+13,Italian Grand Prix,BOT,27.0,2.0,MEDIUM,0 days 01:19:15.843000,0 days 01:19:51.094000
+13,Italian Grand Prix,ANT,28.0,2.0,MEDIUM,0 days 01:19:27.815000,0 days 01:19:52.778000
+13,Italian Grand Prix,VER,28.0,2.0,MEDIUM,0 days 01:19:29.746000,0 days 01:19:54.679000
+13,Italian Grand Prix,ALB,46.0,2.0,HARD,0 days 01:46:26.945000,0 days 01:46:53.339000
+14,Spanish Grand Prix,ANT,14.0,1.0,MEDIUM,0 days 00:28:01.598000,0 days 00:28:33.441000
+14,Spanish Grand Prix,VER,14.0,1.0,SOFT,0 days 00:28:08.800000,0 days 00:28:39.867000
+14,Spanish Grand Prix,RUS,14.0,1.0,HARD,0 days 00:28:15.784000,0 days 00:28:46.524000
+14,Spanish Grand Prix,COL,14.0,1.0,MEDIUM,0 days 00:28:55.189000,0 days 00:29:26.860000
+14,Spanish Grand Prix,LIN,14.0,1.0,MEDIUM,0 days 00:28:57.522000,0 days 00:29:29.370000
+14,Spanish Grand Prix,HUL,14.0,1.0,SOFT,0 days 00:28:59.759000,0 days 00:29:30.799000
+14,Spanish Grand Prix,OCO,14.0,1.0,MEDIUM,0 days 00:29:00.283000,0 days 00:29:32.456000
+14,Spanish Grand Prix,ALB,14.0,1.0,MEDIUM,0 days 00:29:18.783000,0 days 00:29:49.941000
+14,Spanish Grand Prix,PER,14.0,1.0,MEDIUM,0 days 00:29:27.612000,0 days 00:29:59.829000
+14,Spanish Grand Prix,ALO,14.0,1.0,HARD,0 days 00:29:42.809000,0 days 00:30:26.654000
 14,Spanish Grand Prix,NOR,15.0,1.0,MEDIUM,0 days 00:30:20.779000,0 days 00:30:55.879000
-14,Spanish Grand Prix,SAI,23.0,1.0,HARD,0 days 00:45:16.791000,0 days 00:46:03.091000
-14,Spanish Grand Prix,RUS,28.0,2.0,MEDIUM,0 days 00:52:04.780000,0 days 00:52:35.380000
-14,Spanish Grand Prix,BOT,29.0,1.0,HARD,0 days 00:55:49.981000,0 days 00:56:21.681000
-14,Spanish Grand Prix,SAI,31.0,2.0,MEDIUM,0 days 00:59:28.402000,0 days 00:59:59.802000
-14,Spanish Grand Prix,BEA,33.0,1.0,HARD,0 days 01:01:39.780000,0 days 01:02:13.080000
-14,Spanish Grand Prix,TSU,36.0,1.0,HARD,0 days 01:06:32.287000,0 days 01:07:03.687000
-14,Spanish Grand Prix,ALO,37.0,2.0,SOFT,0 days 01:09:02.341999999,0 days 01:09:34.341999999
-14,Spanish Grand Prix,PIA,42.0,1.0,HARD,0 days 01:15:33.448000,0 days 01:16:04.848000
-14,Spanish Grand Prix,BEA,43.0,2.0,MEDIUM,0 days 01:18:43.123000,0 days 01:19:14.523000
+14,Spanish Grand Prix,SAI,23.0,1.0,HARD,0 days 00:45:16.806000,0 days 00:46:03.173000
+14,Spanish Grand Prix,RUS,28.0,2.0,MEDIUM,0 days 00:52:04.780000,0 days 00:52:35.402000
+14,Spanish Grand Prix,BOT,29.0,1.0,HARD,0 days 00:55:49.981000,0 days 00:56:21.691000
+14,Spanish Grand Prix,SAI,31.0,2.0,MEDIUM,0 days 00:59:28.402000,0 days 00:59:59.830000
+14,Spanish Grand Prix,BEA,33.0,1.0,HARD,0 days 01:01:39.780000,0 days 01:02:13.092000
+14,Spanish Grand Prix,TSU,36.0,1.0,HARD,0 days 01:06:32.287000,0 days 01:07:03.701000
+14,Spanish Grand Prix,ALO,37.0,2.0,SOFT,0 days 01:09:02.350000,0 days 01:09:34.352000
+14,Spanish Grand Prix,PIA,42.0,1.0,HARD,0 days 01:15:33.448000,0 days 01:16:04.856000
+14,Spanish Grand Prix,BEA,43.0,2.0,MEDIUM,0 days 01:18:43.123000,0 days 01:19:14.564000
 14,Spanish Grand Prix,LAW,44.0,1.0,HARD,0 days 01:18:49.122000,0 days 01:19:20.022000
-14,Spanish Grand Prix,BOT,43.0,2.0,HARD,0 days 01:20:21.910000,0 days 01:20:53.510000
-14,Spanish Grand Prix,BOR,47.0,1.0,HARD,0 days 01:24:16.435000,0 days 01:24:47.235000
-14,Spanish Grand Prix,LEC,48.0,1.0,HARD,0 days 01:24:31.351000,0 days 01:25:02.651000
-14,Spanish Grand Prix,GAS,55.0,1.0,HARD,0 days 01:37:18.968000,0 days 01:37:50.368000
-15,Azerbaijan Grand Prix,SAI,20.0,1.0,MEDIUM,0 days 00:41:11.652000,0 days 00:41:32.252000
-15,Azerbaijan Grand Prix,BOT,26.0,1.0,MEDIUM,0 days 00:53:06.179000,0 days 00:53:29.179000
-15,Azerbaijan Grand Prix,GAS,30.0,1.0,MEDIUM,0 days 00:58:50.649000,0 days 00:59:11.349000
-15,Azerbaijan Grand Prix,ANT,30.0,1.0,MEDIUM,0 days 00:58:55.864000,0 days 00:59:16.564000
-15,Azerbaijan Grand Prix,NOR,30.0,1.0,MEDIUM,0 days 00:59:06.752000,0 days 00:59:27.552000
-15,Azerbaijan Grand Prix,COL,30.0,1.0,MEDIUM,0 days 00:59:09.504000,0 days 00:59:30.204000
-15,Azerbaijan Grand Prix,BEA,30.0,1.0,SOFT,0 days 00:59:16.280000,0 days 00:59:37.480000
-15,Azerbaijan Grand Prix,OCO,30.0,1.0,SOFT,0 days 00:59:26.705000,0 days 00:59:48.105000
-15,Azerbaijan Grand Prix,LIN,30.0,1.0,MEDIUM,0 days 00:59:36.037000,0 days 00:59:58.137000
-15,Azerbaijan Grand Prix,BOR,30.0,1.0,MEDIUM,0 days 00:59:45.195000,0 days 01:00:05.495000
-15,Azerbaijan Grand Prix,PER,30.0,1.0,MEDIUM,0 days 00:59:58.664000,0 days 01:00:20.864000
-15,Azerbaijan Grand Prix,SAI,30.0,2.0,SOFT,0 days 01:00:13.811000,0 days 01:00:35.211000
-15,Azerbaijan Grand Prix,RUS,31.0,1.0,MEDIUM,0 days 01:00:33.786000,0 days 01:00:54.386000
-15,Azerbaijan Grand Prix,PIA,31.0,1.0,SOFT,0 days 01:00:49.512000,0 days 01:01:10.012000
+14,Spanish Grand Prix,BOT,43.0,2.0,HARD,0 days 01:20:21.910000,0 days 01:20:53.577000
+14,Spanish Grand Prix,BOR,47.0,1.0,HARD,0 days 01:24:16.435000,0 days 01:24:47.271000
+14,Spanish Grand Prix,LEC,48.0,1.0,HARD,0 days 01:24:31.351000,0 days 01:25:02.670000
+14,Spanish Grand Prix,GAS,55.0,1.0,HARD,0 days 01:37:18.968000,0 days 01:37:50.451000
+15,Azerbaijan Grand Prix,SAI,20.0,1.0,MEDIUM,0 days 00:41:11.665000,0 days 00:41:32.327000
+15,Azerbaijan Grand Prix,BOT,26.0,1.0,MEDIUM,0 days 00:53:06.179000,0 days 00:53:29.203000
+15,Azerbaijan Grand Prix,GAS,30.0,1.0,MEDIUM,0 days 00:58:50.658000,0 days 00:59:11.395000
+15,Azerbaijan Grand Prix,ANT,30.0,1.0,MEDIUM,0 days 00:58:55.865000,0 days 00:59:16.636000
+15,Azerbaijan Grand Prix,NOR,30.0,1.0,MEDIUM,0 days 00:59:06.845000,0 days 00:59:27.646000
+15,Azerbaijan Grand Prix,COL,30.0,1.0,MEDIUM,0 days 00:59:09.510000,0 days 00:59:30.235000
+15,Azerbaijan Grand Prix,BEA,30.0,1.0,SOFT,0 days 00:59:16.280000,0 days 00:59:37.562000
+15,Azerbaijan Grand Prix,OCO,30.0,1.0,SOFT,0 days 00:59:26.705000,0 days 00:59:48.124000
+15,Azerbaijan Grand Prix,LIN,30.0,1.0,MEDIUM,0 days 00:59:36.046000,0 days 00:59:58.221000
+15,Azerbaijan Grand Prix,BOR,30.0,1.0,MEDIUM,0 days 00:59:45.195000,0 days 01:00:05.580000
+15,Azerbaijan Grand Prix,PER,30.0,1.0,MEDIUM,0 days 00:59:58.667000,0 days 01:00:20.932000
+15,Azerbaijan Grand Prix,SAI,30.0,2.0,SOFT,0 days 01:00:13.811000,0 days 01:00:35.239000
+15,Azerbaijan Grand Prix,RUS,31.0,1.0,MEDIUM,0 days 01:00:33.786000,0 days 01:00:54.468000
+15,Azerbaijan Grand Prix,PIA,31.0,1.0,SOFT,0 days 01:00:49.512000,0 days 01:01:10.056000
 15,Azerbaijan Grand Prix,VER,31.0,1.0,MEDIUM,0 days 01:00:50.358000,0 days 01:01:11.158000
 15,Azerbaijan Grand Prix,HAD,31.0,1.0,SOFT,0 days 01:00:57.311000,0 days 01:01:19.211000
 15,Azerbaijan Grand Prix,LEC,31.0,1.0,SOFT,0 days 01:01:00.058000,0 days 01:01:22.058000
-15,Azerbaijan Grand Prix,HAM,31.0,1.0,SOFT,0 days 01:01:12.165000,0 days 01:01:34.265000
-15,Azerbaijan Grand Prix,LAW,31.0,1.0,SOFT,0 days 01:01:54.112000,0 days 01:02:15.812000
-15,Azerbaijan Grand Prix,HUL,32.0,1.0,MEDIUM,0 days 01:04:24.115000,0 days 01:04:44.215000
+15,Azerbaijan Grand Prix,HAM,31.0,1.0,SOFT,0 days 01:01:12.165000,0 days 01:01:34.276000
+15,Azerbaijan Grand Prix,LAW,31.0,1.0,SOFT,0 days 01:01:54.112000,0 days 01:02:15.830000
+15,Azerbaijan Grand Prix,HUL,32.0,1.0,MEDIUM,0 days 01:04:24.117000,0 days 01:04:44.222000
 15,Azerbaijan Grand Prix,RUS,36.0,2.0,SOFT,0 days 01:13:48.831000,0 days 01:14:03.931000
 15,Azerbaijan Grand Prix,VER,36.0,2.0,SOFT,0 days 01:13:50.222000,0 days 01:14:05.422000
 15,Azerbaijan Grand Prix,PIA,36.0,2.0,MEDIUM,0 days 01:13:54.503000,0 days 01:14:09.603000
@@ -591,135 +582,202 @@ Round,EventName,Driver,LapNumber,Stint,Compound,PitInTime,PitOutTime
 15,Azerbaijan Grand Prix,SAI,36.0,3.0,SOFT,0 days 01:14:08.510000,0 days 01:14:24.410000
 15,Azerbaijan Grand Prix,BOR,36.0,2.0,SOFT,0 days 01:14:09.346000,0 days 01:14:24.546000
 15,Azerbaijan Grand Prix,PER,36.0,2.0,SOFT,0 days 01:14:10.872000,0 days 01:14:26.172000
-15,Azerbaijan Grand Prix,LAW,36.0,2.0,MEDIUM,0 days 01:14:21.240000,0 days 01:14:44.840000
+15,Azerbaijan Grand Prix,LAW,36.0,2.0,MEDIUM,0 days 01:14:21.240000,0 days 01:14:44.938000
 15,Azerbaijan Grand Prix,BOT,36.0,2.0,SOFT,0 days 01:14:49.585000,0 days 01:15:04.585000
-16,Bahrain Grand Prix,PER,1.0,1.0,SOFT,0 days 01:37:10.054000,0 days 01:37:48.054000
+16,Bahrain Grand Prix,PER,1.0,1.0,SOFT,0 days 01:37:10.054000,0 days 01:37:48.086000
 16,Bahrain Grand Prix,PIA,2.0,2.0,INTERMEDIATE,0 days 01:39:45.441000,0 days 01:41:06.841000
-16,Bahrain Grand Prix,BOR,2.0,2.0,INTERMEDIATE,0 days 01:39:46.612000,0 days 01:41:00.412000
-16,Bahrain Grand Prix,STR,2.0,2.0,INTERMEDIATE,0 days 01:39:47.394000,0 days 01:40:47.794000
-16,Bahrain Grand Prix,HUL,2.0,2.0,INTERMEDIATE,0 days 01:39:48.755000,0 days 01:40:49.855000
-16,Bahrain Grand Prix,PER,2.0,3.0,INTERMEDIATE,0 days 01:39:49.347000,0 days 01:40:31.047000
-16,Bahrain Grand Prix,LEC,3.0,2.0,INTERMEDIATE,0 days 01:42:39.835000,0 days 01:43:17.835000
-16,Bahrain Grand Prix,HUL,8.0,3.0,SOFT,0 days 01:51:35.267000,0 days 01:52:02.767000
+16,Bahrain Grand Prix,BOR,2.0,2.0,INTERMEDIATE,0 days 01:39:46.612000,0 days 01:41:00.478000
+16,Bahrain Grand Prix,STR,2.0,2.0,INTERMEDIATE,0 days 01:39:47.503000,0 days 01:40:47.949000
+16,Bahrain Grand Prix,HUL,2.0,2.0,INTERMEDIATE,0 days 01:39:48.755000,0 days 01:40:49.932000
+16,Bahrain Grand Prix,PER,2.0,3.0,INTERMEDIATE,0 days 01:39:49.347000,0 days 01:40:31.068000
+16,Bahrain Grand Prix,LEC,3.0,2.0,INTERMEDIATE,0 days 01:42:39.842000,0 days 01:43:17.852000
+16,Bahrain Grand Prix,HUL,8.0,3.0,SOFT,0 days 01:51:35.282000,0 days 01:52:02.876000
 16,Bahrain Grand Prix,ANT,9.0,1.0,INTERMEDIATE,0 days 01:53:03.083000,0 days 01:53:30.783000
-16,Bahrain Grand Prix,VER,9.0,3.0,SOFT,0 days 01:53:03.936000,0 days 01:53:31.536000
+16,Bahrain Grand Prix,VER,9.0,3.0,SOFT,0 days 01:53:03.941000,0 days 01:53:31.582000
 16,Bahrain Grand Prix,RUS,9.0,3.0,SOFT,0 days 01:53:09.402000,0 days 01:53:38.202000
-16,Bahrain Grand Prix,HAD,9.0,2.0,SOFT,0 days 01:53:18.011000,0 days 01:53:46.111000
+16,Bahrain Grand Prix,HAD,9.0,2.0,SOFT,0 days 01:53:18.011000,0 days 01:53:46.145000
 16,Bahrain Grand Prix,LAW,9.0,2.0,HARD,0 days 01:53:27.230000,0 days 01:53:55.830000
-16,Bahrain Grand Prix,OCO,9.0,2.0,SOFT,0 days 01:53:29.058000,0 days 01:53:57.658000
-16,Bahrain Grand Prix,LIN,9.0,2.0,HARD,0 days 01:53:33.964000,0 days 01:54:02.464000
-16,Bahrain Grand Prix,SAI,9.0,2.0,SOFT,0 days 01:53:36.355000,0 days 01:54:08.355000
-16,Bahrain Grand Prix,BOR,9.0,3.0,SOFT,0 days 01:53:41.292000,0 days 01:54:09.092000
+16,Bahrain Grand Prix,OCO,9.0,2.0,SOFT,0 days 01:53:29.058000,0 days 01:53:57.749000
+16,Bahrain Grand Prix,LIN,9.0,2.0,HARD,0 days 01:53:33.964000,0 days 01:54:02.562000
+16,Bahrain Grand Prix,SAI,9.0,2.0,SOFT,0 days 01:53:36.355000,0 days 01:54:08.420000
+16,Bahrain Grand Prix,BOR,9.0,3.0,SOFT,0 days 01:53:41.292000,0 days 01:54:09.165000
 16,Bahrain Grand Prix,PIA,9.0,4.0,HARD,0 days 01:53:42.074000,0 days 01:54:11.274000
-16,Bahrain Grand Prix,ALB,9.0,2.0,SOFT,0 days 01:53:44.246000,0 days 01:54:16.646000
+16,Bahrain Grand Prix,ALB,9.0,2.0,SOFT,0 days 01:53:44.261000,0 days 01:54:16.728000
 16,Bahrain Grand Prix,STR,9.0,3.0,HARD,0 days 01:53:44.371000,0 days 01:54:12.371000
-16,Bahrain Grand Prix,PER,9.0,4.0,MEDIUM,0 days 01:53:54.761000,0 days 01:54:24.561000
-16,Bahrain Grand Prix,NOR,9.0,2.0,HARD,0 days 01:54:35.129000,0 days 01:55:05.829000
-16,Bahrain Grand Prix,LEC,9.0,3.0,SOFT,0 days 01:54:38.098000,0 days 01:55:06.698000
-16,Bahrain Grand Prix,ALO,9.0,3.0,HARD,0 days 01:54:45.473000,0 days 01:55:13.773000
-16,Bahrain Grand Prix,GAS,9.0,3.0,HARD,0 days 01:55:02.958000,0 days 01:55:31.058000
-16,Bahrain Grand Prix,COL,9.0,3.0,HARD,0 days 01:55:15.663000,0 days 01:55:43.563000
-16,Bahrain Grand Prix,BEA,10.0,2.0,MEDIUM,0 days 01:57:28.121000,0 days 01:57:56.621000
-16,Bahrain Grand Prix,BOR,15.0,4.0,HARD,0 days 02:06:45.044000,0 days 02:07:21.744000
-16,Bahrain Grand Prix,ALB,16.0,3.0,HARD,0 days 02:08:28.060000,0 days 02:08:55.660000
-16,Bahrain Grand Prix,PER,18.0,5.0,HARD,0 days 02:12:02.883000,0 days 02:12:31.683000
+16,Bahrain Grand Prix,PER,9.0,4.0,MEDIUM,0 days 01:53:54.777000,0 days 01:54:24.647000
+16,Bahrain Grand Prix,NOR,9.0,2.0,HARD,0 days 01:54:35.129000,0 days 01:55:05.919000
+16,Bahrain Grand Prix,LEC,9.0,3.0,SOFT,0 days 01:54:38.098000,0 days 01:55:06.749000
+16,Bahrain Grand Prix,ALO,9.0,3.0,HARD,0 days 01:54:45.473000,0 days 01:55:13.787000
+16,Bahrain Grand Prix,GAS,9.0,3.0,HARD,0 days 01:55:02.974000,0 days 01:55:31.126000
+16,Bahrain Grand Prix,COL,9.0,3.0,HARD,0 days 01:55:15.663000,0 days 01:55:43.618000
+16,Bahrain Grand Prix,BEA,10.0,2.0,MEDIUM,0 days 01:57:28.121000,0 days 01:57:56.674000
+16,Bahrain Grand Prix,BOR,15.0,4.0,HARD,0 days 02:06:45.044000,0 days 02:07:21.817000
+16,Bahrain Grand Prix,ALB,16.0,3.0,HARD,0 days 02:08:28.060000,0 days 02:08:55.668000
+16,Bahrain Grand Prix,PER,18.0,5.0,HARD,0 days 02:12:02.883000,0 days 02:12:31.770000
 16,Bahrain Grand Prix,PER,21.0,6.0,HARD,0 days 02:17:41.922000,0 days 02:18:11.122000
-16,Bahrain Grand Prix,BEA,24.0,3.0,HARD,0 days 02:22:26.387000,0 days 02:22:55.387000
-16,Bahrain Grand Prix,GAS,25.0,4.0,SOFT,0 days 02:24:07.469999999,0 days 02:24:35.169999999
-16,Bahrain Grand Prix,SAI,26.0,3.0,HARD,0 days 02:25:51.298000,0 days 02:26:19.498000
-16,Bahrain Grand Prix,LEC,28.0,4.0,SOFT,0 days 02:29:00.143000,0 days 02:29:28.043000
-16,Bahrain Grand Prix,LIN,28.0,3.0,HARD,0 days 02:29:07.330000,0 days 02:29:36.530000
+16,Bahrain Grand Prix,BEA,24.0,3.0,HARD,0 days 02:22:26.387000,0 days 02:22:55.432000
+16,Bahrain Grand Prix,GAS,25.0,4.0,SOFT,0 days 02:24:07.469999999,0 days 02:24:35.227999999
+16,Bahrain Grand Prix,SAI,26.0,3.0,HARD,0 days 02:25:51.298000,0 days 02:26:19.531000
+16,Bahrain Grand Prix,LEC,28.0,4.0,SOFT,0 days 02:29:00.408000,0 days 02:29:28.365000
+16,Bahrain Grand Prix,LIN,28.0,3.0,HARD,0 days 02:29:07.330000,0 days 02:29:36.584000
 16,Bahrain Grand Prix,STR,28.0,4.0,HARD,0 days 02:29:09.690000,0 days 02:29:37.990000
 16,Bahrain Grand Prix,OCO,29.0,3.0,HARD,0 days 02:30:48.122000,0 days 02:31:17.122000
-16,Bahrain Grand Prix,ALB,29.0,4.0,SOFT,0 days 02:31:25.607000,0 days 02:31:53.407000
-16,Bahrain Grand Prix,LAW,30.0,3.0,HARD,0 days 02:32:28.159000,0 days 02:32:56.159000
+16,Bahrain Grand Prix,ALB,29.0,4.0,SOFT,0 days 02:31:25.607000,0 days 02:31:53.466000
+16,Bahrain Grand Prix,LAW,30.0,3.0,HARD,0 days 02:32:28.159000,0 days 02:32:56.185000
 16,Bahrain Grand Prix,HAD,31.0,3.0,SOFT,0 days 02:33:50.222000,0 days 02:34:18.722000
-16,Bahrain Grand Prix,HAM,31.0,2.0,MEDIUM,0 days 02:33:53.050000,0 days 02:34:20.850000
-16,Bahrain Grand Prix,ALO,31.0,4.0,SOFT,0 days 02:34:20.478000,0 days 02:34:48.078000
-16,Bahrain Grand Prix,COL,31.0,4.0,MEDIUM,0 days 02:34:35.775000,0 days 02:35:03.375000
+16,Bahrain Grand Prix,HAM,31.0,2.0,MEDIUM,0 days 02:33:53.050000,0 days 02:34:20.852000
+16,Bahrain Grand Prix,ALO,31.0,4.0,SOFT,0 days 02:34:20.478000,0 days 02:34:48.093000
+16,Bahrain Grand Prix,COL,31.0,4.0,MEDIUM,0 days 02:34:37.619000,0 days 02:35:05.250000
 16,Bahrain Grand Prix,RUS,32.0,4.0,SOFT,0 days 02:35:21.672000,0 days 02:35:49.272000
-16,Bahrain Grand Prix,HUL,32.0,4.0,SOFT,0 days 02:36:04.356000,0 days 02:36:32.756000
-16,Bahrain Grand Prix,VER,33.0,4.0,SOFT,0 days 02:36:48.335000,0 days 02:37:16.135000
+16,Bahrain Grand Prix,HUL,32.0,4.0,SOFT,0 days 02:36:04.356000,0 days 02:36:32.775000
+16,Bahrain Grand Prix,VER,33.0,4.0,SOFT,0 days 02:36:48.335000,0 days 02:37:16.169000
 16,Bahrain Grand Prix,ANT,33.0,2.0,MEDIUM,0 days 02:36:58.416000,0 days 02:37:26.016000
 16,Bahrain Grand Prix,PIA,33.0,5.0,MEDIUM,0 days 02:37:36.043000,0 days 02:38:04.343000
-16,Bahrain Grand Prix,NOR,34.0,3.0,SOFT,0 days 02:39:20.971000,0 days 02:39:49.171000
-16,Bahrain Grand Prix,BOR,34.0,5.0,SOFT,0 days 02:40:33.670000,0 days 02:41:25.470000
-16,Bahrain Grand Prix,GAS,37.0,5.0,SOFT,0 days 02:45:09.995000,0 days 02:45:37.795000
-16,Bahrain Grand Prix,BEA,38.0,4.0,HARD,0 days 02:46:51.448000,0 days 02:47:19.448000
-16,Bahrain Grand Prix,PER,39.0,7.0,MEDIUM,0 days 02:49:50.505000,0 days 02:50:21.805000
+16,Bahrain Grand Prix,NOR,34.0,3.0,SOFT,0 days 02:39:20.971000,0 days 02:39:49.221000
+16,Bahrain Grand Prix,BOR,34.0,5.0,SOFT,0 days 02:40:33.670000,0 days 02:41:25.489000
+16,Bahrain Grand Prix,GAS,37.0,5.0,SOFT,0 days 02:45:09.995000,0 days 02:45:37.849000
+16,Bahrain Grand Prix,BEA,38.0,4.0,HARD,0 days 02:46:51.448000,0 days 02:47:19.465000
+16,Bahrain Grand Prix,PER,39.0,7.0,MEDIUM,0 days 02:49:50.505000,0 days 02:50:21.843000
 16,Bahrain Grand Prix,OCO,41.0,3.0,HARD,0 days 02:51:57.300000,0 days 02:52:25.700000
-16,Bahrain Grand Prix,COL,42.0,4.0,MEDIUM,0 days 02:53:50.988000,0 days 02:54:19.188000
-16,Bahrain Grand Prix,VER,43.0,4.0,SOFT,0 days 02:54:12.879000,0 days 02:54:40.479000
-16,Bahrain Grand Prix,SAI,42.0,4.0,SOFT,0 days 02:54:13.269000,0 days 02:54:52.869000
-16,Bahrain Grand Prix,HAM,43.0,2.0,MEDIUM,0 days 02:54:54.926000,0 days 02:55:22.926000
-16,Bahrain Grand Prix,LEC,43.0,4.0,SOFT,0 days 02:55:13.551000,0 days 02:55:41.651000
-16,Bahrain Grand Prix,LIN,43.0,4.0,SOFT,0 days 02:55:51.176000,0 days 02:56:19.176000
+16,Bahrain Grand Prix,COL,42.0,4.0,MEDIUM,0 days 02:53:50.988000,0 days 02:54:19.199000
+16,Bahrain Grand Prix,VER,43.0,4.0,SOFT,0 days 02:54:12.879000,0 days 02:54:40.521000
+16,Bahrain Grand Prix,SAI,42.0,4.0,SOFT,0 days 02:54:13.269000,0 days 02:54:52.954000
+16,Bahrain Grand Prix,HAM,43.0,2.0,MEDIUM,0 days 02:54:54.926000,0 days 02:55:22.979000
+16,Bahrain Grand Prix,LEC,43.0,4.0,SOFT,0 days 02:55:13.551000,0 days 02:55:41.729000
+16,Bahrain Grand Prix,LIN,43.0,4.0,SOFT,0 days 02:55:51.176000,0 days 02:56:19.248000
 16,Bahrain Grand Prix,STR,43.0,5.0,SOFT,0 days 02:55:53.520000,0 days 02:56:20.920000
 16,Bahrain Grand Prix,ANT,44.0,3.0,SOFT,0 days 02:56:41.504000,0 days 02:57:08.704000
 16,Bahrain Grand Prix,RUS,44.0,4.0,SOFT,0 days 02:56:50.070000,0 days 02:57:17.770000
 16,Bahrain Grand Prix,HAD,44.0,3.0,SOFT,0 days 02:57:06.708000,0 days 02:57:34.008000
-16,Bahrain Grand Prix,BOR,44.0,5.0,SOFT,0 days 02:59:27.661000,0 days 02:59:55.361000
+16,Bahrain Grand Prix,BOR,44.0,5.0,SOFT,0 days 02:59:27.661000,0 days 02:59:55.365000
 16,Bahrain Grand Prix,PIA,45.0,6.0,HARD,0 days 02:59:42.614000,0 days 03:00:10.014000
-16,Bahrain Grand Prix,NOR,45.0,3.0,SOFT,0 days 02:59:51.536000,0 days 03:00:19.336000
-16,Bahrain Grand Prix,LAW,45.0,3.0,HARD,0 days 03:00:03.114000,0 days 03:00:32.714000
-16,Bahrain Grand Prix,ALO,45.0,4.0,SOFT,0 days 03:00:14.114000,0 days 03:00:41.914000
-16,Bahrain Grand Prix,HUL,45.0,5.0,SOFT,0 days 03:00:15.927000,0 days 03:00:44.127000
-16,Bahrain Grand Prix,PER,44.0,8.0,SOFT,0 days 03:00:26.880000,0 days 03:00:55.780000
-16,Bahrain Grand Prix,GAS,45.0,5.0,SOFT,0 days 03:00:59.717000,0 days 03:01:28.017000
-17,Singapore Grand Prix,HAM,18.0,1.0,MEDIUM,0 days 00:34:00.094000,0 days 00:34:24.094000
-17,Singapore Grand Prix,PER,21.0,1.0,SOFT,0 days 00:39:58.063000,0 days 00:40:23.263000
-17,Singapore Grand Prix,ALB,22.0,1.0,MEDIUM,0 days 00:41:34.430000,0 days 00:41:58.430000
-17,Singapore Grand Prix,ANT,23.0,1.0,SOFT,0 days 00:42:09.841000,0 days 00:42:33.941000
-17,Singapore Grand Prix,LEC,24.0,1.0,SOFT,0 days 00:43:44.154000,0 days 00:44:08.754000
-17,Singapore Grand Prix,LIN,26.0,1.0,MEDIUM,0 days 00:48:09.193000,0 days 00:48:33.493000
-17,Singapore Grand Prix,STR,26.0,2.0,MEDIUM,0 days 00:48:24.831000,0 days 00:48:48.431000
-17,Singapore Grand Prix,OCO,28.0,1.0,SOFT,0 days 00:51:07.283000,0 days 00:51:32.183000
-17,Singapore Grand Prix,BOT,28.0,1.0,MEDIUM,0 days 00:52:37.080000,0 days 00:53:06.280000
-17,Singapore Grand Prix,GAS,29.0,1.0,MEDIUM,0 days 00:52:40.520000,0 days 00:53:05.020000
-17,Singapore Grand Prix,HUL,30.0,1.0,MEDIUM,0 days 00:54:17.075000,0 days 00:54:41.375000
-17,Singapore Grand Prix,LAW,31.0,1.0,SOFT,0 days 00:55:54.605000,0 days 00:56:19.205000
-17,Singapore Grand Prix,SAI,31.0,1.0,SOFT,0 days 00:56:20.225000,0 days 00:56:44.425000
-17,Singapore Grand Prix,VER,32.0,1.0,SOFT,0 days 00:56:37.997000,0 days 00:57:01.597000
-17,Singapore Grand Prix,NOR,32.0,1.0,SOFT,0 days 00:56:58.386000,0 days 00:57:22.286000
-17,Singapore Grand Prix,PIA,33.0,1.0,SOFT,0 days 00:58:42.687000,0 days 00:59:08.387000
-17,Singapore Grand Prix,BEA,33.0,1.0,SOFT,0 days 00:59:19.525000,0 days 00:59:44.325000
-17,Singapore Grand Prix,HAD,33.0,2.0,SOFT,0 days 00:59:41.195000,0 days 01:00:05.695000
-17,Singapore Grand Prix,ALO,35.0,2.0,MEDIUM,0 days 01:03:20.561000,0 days 01:03:44.861000
-17,Singapore Grand Prix,ALB,37.0,2.0,SOFT,0 days 01:06:47.682000,0 days 01:07:13.482000
-17,Singapore Grand Prix,LEC,39.0,2.0,MEDIUM,0 days 01:08:43.002000,0 days 01:09:07.102000
-17,Singapore Grand Prix,ANT,39.0,2.0,MEDIUM,0 days 01:08:53.738000,0 days 01:09:17.238000
-17,Singapore Grand Prix,PER,38.0,2.0,MEDIUM,0 days 01:09:26.323000,0 days 01:09:51.123000
-17,Singapore Grand Prix,RUS,39.0,1.0,MEDIUM,0 days 01:09:42.466999999,0 days 01:10:06.066999999
-17,Singapore Grand Prix,PIA,41.0,2.0,MEDIUM,0 days 01:12:41.701000,0 days 01:13:05.701000
-18,United States Grand Prix,VER,13.0,1.0,SOFT,0 days 00:26:15.407000,0 days 00:26:39.307000
-18,United States Grand Prix,BEA,13.0,1.0,SOFT,0 days 00:26:53.335000,0 days 00:27:17.535000
-18,United States Grand Prix,HAM,14.0,1.0,SOFT,0 days 00:28:02.922000,0 days 00:28:27.022000
-18,United States Grand Prix,LEC,15.0,1.0,SOFT,0 days 00:29:40.350000,0 days 00:30:04.350000
-18,United States Grand Prix,PIA,15.0,1.0,MEDIUM,0 days 00:29:56.430000,0 days 00:30:19.830000
-18,United States Grand Prix,STR,15.0,2.0,SOFT,0 days 00:30:32.706000,0 days 00:30:57.006000
-18,United States Grand Prix,NOR,16.0,1.0,MEDIUM,0 days 00:31:36.127000,0 days 00:32:01.827000
-18,United States Grand Prix,ALB,16.0,1.0,SOFT,0 days 00:32:12.799000,0 days 00:32:37.199000
-18,United States Grand Prix,SAI,17.0,1.0,SOFT,0 days 00:34:08.742000,0 days 00:34:42.342000
-18,United States Grand Prix,LIN,18.0,1.0,SOFT,0 days 00:35:26.655000,0 days 00:35:50.355000
-18,United States Grand Prix,OCO,21.0,1.0,SOFT,0 days 00:40:35.180000,0 days 00:41:00.080000
-18,United States Grand Prix,RUS,22.0,1.0,MEDIUM,0 days 00:41:52.493000,0 days 00:42:22.193000
-18,United States Grand Prix,BEA,22.0,2.0,HARD,0 days 00:42:57.239000,0 days 00:43:31.939000
-18,United States Grand Prix,PER,23.0,1.0,SOFT,0 days 00:44:30.730000,0 days 00:44:55.830000
-18,United States Grand Prix,ANT,24.0,1.0,MEDIUM,0 days 00:44:46.495000,0 days 00:45:09.995000
-18,United States Grand Prix,GAS,24.0,1.0,SOFT,0 days 00:45:38.338000,0 days 00:46:05.238000
-18,United States Grand Prix,HAD,25.0,1.0,SOFT,0 days 00:46:43.320000,0 days 00:47:07.320000
-18,United States Grand Prix,LAW,25.0,1.0,SOFT,0 days 00:47:13.261000,0 days 00:47:37.461000
-18,United States Grand Prix,BOR,26.0,1.0,SOFT,0 days 00:49:17.248000,0 days 00:49:41.248000
-18,United States Grand Prix,ALO,28.0,1.0,SOFT,0 days 00:52:37.542000,0 days 00:53:01.742000
-18,United States Grand Prix,HUL,29.0,1.0,SOFT,0 days 00:54:15.106000,0 days 00:54:39.006000
-18,United States Grand Prix,BOT,29.0,1.0,HARD,0 days 00:55:03.412000,0 days 00:55:27.612000
-18,United States Grand Prix,COL,30.0,1.0,HARD,0 days 00:56:33.137000,0 days 00:56:58.437000
-18,United States Grand Prix,VER,31.0,2.0,SOFT,0 days 00:56:47.056000,0 days 00:57:12.356000
-18,United States Grand Prix,ALB,31.0,2.0,SOFT,0 days 00:58:11.908000,0 days 00:58:35.508000
-18,United States Grand Prix,HAM,38.0,2.0,MEDIUM,0 days 01:08:37.850000,0 days 01:09:01.750000
-18,United States Grand Prix,LEC,39.0,2.0,MEDIUM,0 days 01:10:10.975999999,0 days 01:10:35.175999999
-18,United States Grand Prix,SAI,38.0,2.0,HARD,0 days 01:10:25.212999999,0 days 01:10:49.512999999
-18,United States Grand Prix,LIN,40.0,2.0,MEDIUM,0 days 01:13:09.285000,0 days 01:13:33.785000
-18,United States Grand Prix,STR,41.0,2.0,SOFT,0 days 01:15:19.674000,0 days 01:15:43.474000
-18,United States Grand Prix,ALO,42.0,2.0,MEDIUM,0 days 01:17:03.826000,0 days 01:17:44.226000
-18,United States Grand Prix,BOR,50.0,2.0,HARD,0 days 01:30:08.568000,0 days 01:30:32.468000
+16,Bahrain Grand Prix,NOR,45.0,3.0,SOFT,0 days 02:59:51.552000,0 days 03:00:19.421000
+16,Bahrain Grand Prix,LAW,45.0,3.0,HARD,0 days 03:00:03.130000,0 days 03:00:32.754000
+16,Bahrain Grand Prix,ALO,45.0,4.0,SOFT,0 days 03:00:14.114000,0 days 03:00:41.923000
+16,Bahrain Grand Prix,HUL,45.0,5.0,SOFT,0 days 03:00:15.927000,0 days 03:00:44.204000
+16,Bahrain Grand Prix,PER,44.0,8.0,SOFT,0 days 03:00:26.880000,0 days 03:00:55.817000
+16,Bahrain Grand Prix,GAS,45.0,5.0,SOFT,0 days 03:00:59.717000,0 days 03:01:28.052000
+17,Singapore Grand Prix,HAM,18.0,1.0,MEDIUM,0 days 00:34:00.094000,0 days 00:34:24.142000
+17,Singapore Grand Prix,PER,21.0,1.0,SOFT,0 days 00:39:58.074000,0 days 00:40:23.361000
+17,Singapore Grand Prix,ALB,22.0,1.0,MEDIUM,0 days 00:41:34.430000,0 days 00:41:58.523000
+17,Singapore Grand Prix,ANT,23.0,1.0,SOFT,0 days 00:42:09.859000,0 days 00:42:33.974000
+17,Singapore Grand Prix,LEC,24.0,1.0,SOFT,0 days 00:43:44.154000,0 days 00:44:08.795000
+17,Singapore Grand Prix,LIN,26.0,1.0,MEDIUM,0 days 00:48:09.196000,0 days 00:48:33.568000
+17,Singapore Grand Prix,STR,26.0,2.0,MEDIUM,0 days 00:48:25.318000,0 days 00:48:48.919000
+17,Singapore Grand Prix,OCO,28.0,1.0,SOFT,0 days 00:51:07.283000,0 days 00:51:32.214000
+17,Singapore Grand Prix,BOT,28.0,1.0,MEDIUM,0 days 00:52:37.085000,0 days 00:53:06.351000
+17,Singapore Grand Prix,GAS,29.0,1.0,MEDIUM,0 days 00:52:40.520000,0 days 00:53:05.101000
+17,Singapore Grand Prix,HUL,30.0,1.0,MEDIUM,0 days 00:54:17.090000,0 days 00:54:41.465000
+17,Singapore Grand Prix,LAW,31.0,1.0,SOFT,0 days 00:55:54.605000,0 days 00:56:19.268000
+17,Singapore Grand Prix,SAI,31.0,1.0,SOFT,0 days 00:56:20.225000,0 days 00:56:44.427000
+17,Singapore Grand Prix,VER,32.0,1.0,SOFT,0 days 00:56:38.023000,0 days 00:57:01.721000
+17,Singapore Grand Prix,NOR,32.0,1.0,SOFT,0 days 00:56:58.389000,0 days 00:57:22.311000
+17,Singapore Grand Prix,PIA,33.0,1.0,SOFT,0 days 00:58:42.693000,0 days 00:59:08.406000
+17,Singapore Grand Prix,BEA,33.0,1.0,SOFT,0 days 00:59:19.525000,0 days 00:59:44.396000
+17,Singapore Grand Prix,HAD,33.0,2.0,SOFT,0 days 00:59:41.207000,0 days 01:00:05.756000
+17,Singapore Grand Prix,ALO,35.0,2.0,MEDIUM,0 days 01:03:20.577000,0 days 01:03:44.907000
+17,Singapore Grand Prix,ALB,37.0,2.0,SOFT,0 days 01:06:47.683000,0 days 01:07:13.555000
+17,Singapore Grand Prix,LEC,39.0,2.0,MEDIUM,0 days 01:08:43.002000,0 days 01:09:07.111000
+17,Singapore Grand Prix,ANT,39.0,2.0,MEDIUM,0 days 01:08:53.743000,0 days 01:09:17.334000
+17,Singapore Grand Prix,PER,38.0,2.0,MEDIUM,0 days 01:09:26.323000,0 days 01:09:51.173000
+17,Singapore Grand Prix,RUS,39.0,1.0,MEDIUM,0 days 01:09:42.488999999,0 days 01:10:06.136999999
+17,Singapore Grand Prix,PIA,41.0,2.0,MEDIUM,0 days 01:12:41.701000,0 days 01:13:05.777000
+18,United States Grand Prix,VER,13.0,1.0,SOFT,0 days 00:26:15.407000,0 days 00:26:39.367000
+18,United States Grand Prix,BEA,13.0,1.0,SOFT,0 days 00:26:53.339000,0 days 00:27:17.556000
+18,United States Grand Prix,HAM,14.0,1.0,SOFT,0 days 00:28:02.922000,0 days 00:28:27.042000
+18,United States Grand Prix,LEC,15.0,1.0,SOFT,0 days 00:29:40.350000,0 days 00:30:04.422000
+18,United States Grand Prix,PIA,15.0,1.0,MEDIUM,0 days 00:29:56.438000,0 days 00:30:19.851000
+18,United States Grand Prix,STR,15.0,2.0,SOFT,0 days 00:30:32.706000,0 days 00:30:57.044000
+18,United States Grand Prix,NOR,16.0,1.0,MEDIUM,0 days 00:31:36.127000,0 days 00:32:01.887000
+18,United States Grand Prix,ALB,16.0,1.0,SOFT,0 days 00:32:12.799000,0 days 00:32:37.224000
+18,United States Grand Prix,SAI,17.0,1.0,SOFT,0 days 00:34:08.745000,0 days 00:34:42.437000
+18,United States Grand Prix,LIN,18.0,1.0,SOFT,0 days 00:35:26.655000,0 days 00:35:50.448000
+18,United States Grand Prix,OCO,21.0,1.0,SOFT,0 days 00:40:35.196000,0 days 00:41:00.133000
+18,United States Grand Prix,RUS,22.0,1.0,MEDIUM,0 days 00:41:52.493000,0 days 00:42:22.254000
+18,United States Grand Prix,BEA,22.0,2.0,HARD,0 days 00:42:57.239000,0 days 00:43:31.983000
+18,United States Grand Prix,PER,23.0,1.0,SOFT,0 days 00:44:30.730000,0 days 00:44:55.914000
+18,United States Grand Prix,ANT,24.0,1.0,MEDIUM,0 days 00:44:46.495000,0 days 00:45:10.089000
+18,United States Grand Prix,GAS,24.0,1.0,SOFT,0 days 00:45:38.338000,0 days 00:46:05.320000
+18,United States Grand Prix,HAD,25.0,1.0,SOFT,0 days 00:46:43.322000,0 days 00:47:07.388000
+18,United States Grand Prix,LAW,25.0,1.0,SOFT,0 days 00:47:13.269000,0 days 00:47:37.495000
+18,United States Grand Prix,BOR,26.0,1.0,SOFT,0 days 00:49:17.257000,0 days 00:49:41.341000
+18,United States Grand Prix,ALO,28.0,1.0,SOFT,0 days 00:52:37.542000,0 days 00:53:01.744000
+18,United States Grand Prix,HUL,29.0,1.0,SOFT,0 days 00:54:15.108000,0 days 00:54:39.037000
+18,United States Grand Prix,BOT,29.0,1.0,HARD,0 days 00:55:03.412000,0 days 00:55:27.653000
+18,United States Grand Prix,COL,30.0,1.0,HARD,0 days 00:56:33.150000,0 days 00:56:58.516000
+18,United States Grand Prix,VER,31.0,2.0,SOFT,0 days 00:56:47.060000,0 days 00:57:12.449000
+18,United States Grand Prix,ALB,31.0,2.0,SOFT,0 days 00:58:11.908000,0 days 00:58:35.606000
+18,United States Grand Prix,HAM,38.0,2.0,MEDIUM,0 days 01:08:37.850000,0 days 01:09:01.805000
+18,United States Grand Prix,LEC,39.0,2.0,MEDIUM,0 days 01:10:10.991000,0 days 01:10:35.218000
+18,United States Grand Prix,SAI,38.0,2.0,HARD,0 days 01:10:25.212999999,0 days 01:10:49.592999999
+18,United States Grand Prix,LIN,40.0,2.0,MEDIUM,0 days 01:13:09.285000,0 days 01:13:33.790000
+18,United States Grand Prix,STR,41.0,2.0,SOFT,0 days 01:15:19.678000,0 days 01:15:43.502000
+18,United States Grand Prix,ALO,42.0,2.0,MEDIUM,0 days 01:17:03.826000,0 days 01:17:44.250000
+18,United States Grand Prix,BOR,50.0,2.0,HARD,0 days 01:30:08.568000,0 days 01:30:32.542000
+19,Mexico City Grand Prix,GAS,1.0,1.0,SOFT,-1 days +23:08:59.071000,
+19,Mexico City Grand Prix,BOT,1.0,1.0,SOFT,-1 days +23:08:59.071000,
+19,Mexico City Grand Prix,PER,1.0,1.0,SOFT,-1 days +23:08:59.071000,
+19,Mexico City Grand Prix,STR,1.0,1.0,SOFT,-1 days +23:08:59.071000,
+19,Mexico City Grand Prix,LAW,1.0,1.0,MEDIUM,-1 days +23:08:59.071000,
+19,Mexico City Grand Prix,NOR,1.0,1.0,SOFT,-1 days +23:08:59.071000,
+19,Mexico City Grand Prix,ALO,1.0,1.0,SOFT,-1 days +23:08:59.071000,
+19,Mexico City Grand Prix,ANT,1.0,1.0,SOFT,-1 days +23:08:59.071000,
+19,Mexico City Grand Prix,LIN,1.0,1.0,SOFT,-1 days +23:08:59.071000,
+19,Mexico City Grand Prix,ALO,3.0,1.0,SOFT,0 days 00:08:12.601000,0 days 00:08:36.501000
+19,Mexico City Grand Prix,STR,3.0,1.0,SOFT,0 days 00:08:18.149000,0 days 00:08:45.249000
+19,Mexico City Grand Prix,HAD,7.0,1.0,SOFT,0 days 00:14:14.119000,0 days 00:14:38.019000
+19,Mexico City Grand Prix,LAW,11.0,2.0,SOFT,0 days 00:20:04.023000,0 days 00:20:26.823000
+19,Mexico City Grand Prix,GAS,17.0,1.0,SOFT,0 days 00:28:11.357000,0 days 00:28:34.257000
+19,Mexico City Grand Prix,ALB,18.0,1.0,SOFT,0 days 00:29:42.763000,0 days 00:30:04.763000
+19,Mexico City Grand Prix,PIA,26.0,1.0,SOFT,0 days 00:40:15.593000,0 days 00:40:38.193000
+19,Mexico City Grand Prix,VER,27.0,1.0,MEDIUM,0 days 00:41:17.628000,0 days 00:41:40.028000
+19,Mexico City Grand Prix,LEC,27.0,1.0,SOFT,0 days 00:41:19.237000,0 days 00:41:47.937000
+19,Mexico City Grand Prix,HAM,28.0,1.0,SOFT,0 days 00:42:42.784000,0 days 00:43:05.484000
+19,Mexico City Grand Prix,PER,30.0,1.0,SOFT,0 days 00:46:33.057000,0 days 00:47:01.957000
+19,Mexico City Grand Prix,BOT,30.0,1.0,SOFT,0 days 00:46:56.060000,0 days 00:47:22.760000
+19,Mexico City Grand Prix,HUL,31.0,1.0,MEDIUM,0 days 00:47:27.400000,0 days 00:47:49.300000
+19,Mexico City Grand Prix,RUS,33.0,1.0,SOFT,0 days 00:49:48.360000,0 days 00:50:22.260000
+19,Mexico City Grand Prix,COL,34.0,1.0,MEDIUM,0 days 00:51:31.260000,0 days 00:51:54.560000
+19,Mexico City Grand Prix,LIN,35.0,1.0,SOFT,0 days 00:52:46.053000,0 days 00:53:08.853000
+19,Mexico City Grand Prix,HIR,35.0,2.0,SOFT,0 days 00:53:28.391000,0 days 00:53:51.191000
+19,Mexico City Grand Prix,SAI,36.0,1.0,SOFT,0 days 00:54:47.582000,0 days 00:55:10.082000
+19,Mexico City Grand Prix,BOR,38.0,1.0,MEDIUM,0 days 00:57:13.791000,0 days 00:57:36.291000
+19,Mexico City Grand Prix,NOR,39.0,1.0,SOFT,0 days 00:57:50.438000,0 days 00:58:15.138000
+19,Mexico City Grand Prix,BEA,40.0,1.0,SOFT,0 days 00:59:53.747000,0 days 01:00:16.247000
+19,Mexico City Grand Prix,HAD,41.0,2.0,MEDIUM,0 days 01:01:25.184000,0 days 01:01:47.784000
+19,Mexico City Grand Prix,ALB,41.0,2.0,SOFT,0 days 01:01:52.270000,0 days 01:02:17.670000
+19,Mexico City Grand Prix,LAW,42.0,2.0,SOFT,0 days 01:02:57.347000,0 days 01:03:19.847000
+19,Mexico City Grand Prix,ANT,43.0,1.0,SOFT,0 days 01:03:07.064000,0 days 01:03:30.764000
+19,Mexico City Grand Prix,HAM,44.0,2.0,MEDIUM,0 days 01:04:44.336000,0 days 01:05:08.136000
+19,Mexico City Grand Prix,HIR,43.0,2.0,SOFT,0 days 01:04:53.636000,0 days 01:05:17.436000
+19,Mexico City Grand Prix,PER,43.0,2.0,MEDIUM,0 days 01:05:06.885000,0 days 01:05:30.985000
+19,Mexico City Grand Prix,RUS,44.0,2.0,MEDIUM,0 days 01:05:13.217000,0 days 01:05:35.417000
+19,Mexico City Grand Prix,PIA,44.0,2.0,MEDIUM,0 days 01:05:30.270000,0 days 01:05:54.770000
+19,Mexico City Grand Prix,GAS,44.0,2.0,MEDIUM,0 days 01:06:03.169000,0 days 01:06:25.969000
+19,Mexico City Grand Prix,LAW,44.0,3.0,SOFT,0 days 01:43:05.921000,0 days 02:19:37.521000
+19,Mexico City Grand Prix,SAI,44.0,2.0,MEDIUM,0 days 01:43:08.055000,0 days 02:19:40.455000
+19,Mexico City Grand Prix,HIR,44.0,3.0,SOFT,0 days 01:43:09.856000,0 days 02:19:28.756000
+19,Mexico City Grand Prix,PER,44.0,3.0,SOFT,0 days 01:43:12.544000,0 days 02:19:25.444000
+19,Mexico City Grand Prix,ALB,44.0,3.0,MEDIUM,0 days 01:43:16.515000,0 days 02:19:38.315000
+19,Mexico City Grand Prix,VER,45.0,2.0,SOFT,0 days 01:45:05.187000,0 days 02:23:40.087000
+19,Mexico City Grand Prix,LEC,45.0,2.0,MEDIUM,0 days 01:45:07.494000,0 days 02:23:43.294000
+19,Mexico City Grand Prix,HAM,45.0,3.0,SOFT,0 days 01:45:09.684000,0 days 02:23:39.284000
+19,Mexico City Grand Prix,ANT,45.0,2.0,MEDIUM,0 days 01:45:12.495000,0 days 02:23:47.795000
+19,Mexico City Grand Prix,NOR,45.0,2.0,MEDIUM,0 days 01:45:15.953000,0 days 02:23:48.353000
+19,Mexico City Grand Prix,RUS,45.0,3.0,SOFT,0 days 01:45:19.646000,0 days 02:23:34.946000
+19,Mexico City Grand Prix,PIA,45.0,3.0,SOFT,0 days 01:45:22.257000,0 days 02:23:14.257000
+19,Mexico City Grand Prix,LIN,45.0,2.0,MEDIUM,0 days 01:45:25.021000,0 days 02:23:29.621000
+19,Mexico City Grand Prix,COL,45.0,2.0,SOFT,0 days 01:45:28.013000,0 days 02:23:22.513000
+19,Mexico City Grand Prix,GAS,45.0,3.0,SOFT,0 days 01:45:31.697000,0 days 02:23:07.897000
+19,Mexico City Grand Prix,HUL,45.0,2.0,SOFT,0 days 01:45:32.993000,0 days 02:23:25.893000
+19,Mexico City Grand Prix,BEA,45.0,2.0,MEDIUM,0 days 01:45:35.416000,0 days 02:23:23.816000
+19,Mexico City Grand Prix,BOR,45.0,2.0,SOFT,0 days 01:45:41.048000,0 days 02:23:31.048000
+19,Mexico City Grand Prix,HAD,45.0,3.0,SOFT,0 days 01:45:43.493000,0 days 02:23:28.993000
+19,Mexico City Grand Prix,LAW,45.0,4.0,SOFT,0 days 01:45:45.265000,0 days 01:46:45.765000
+19,Mexico City Grand Prix,SAI,45.0,3.0,SOFT,0 days 01:45:47.341000,0 days 01:46:45.941000
+19,Mexico City Grand Prix,HIR,45.0,4.0,SOFT,0 days 01:45:48.505000,0 days 01:46:45.805000
+19,Mexico City Grand Prix,PER,45.0,4.0,SOFT,0 days 01:45:51.590000,0 days 01:46:48.590000
+19,Mexico City Grand Prix,ALB,45.0,4.0,SOFT,0 days 01:45:53.158000,0 days 01:46:47.958000
+19,Mexico City Grand Prix,HIR,59.0,5.0,SOFT,0 days 02:07:04.069000,0 days 02:07:26.969000
+19,Mexico City Grand Prix,HUL,59.0,3.0,SOFT,0 days 02:07:08.498000,0 days 02:07:42.998000
+19,Mexico City Grand Prix,PER,59.0,5.0,SOFT,0 days 02:07:08.889000,0 days 02:07:38.689000
