@@ -2,27 +2,27 @@ driverId,driverNumber,driverCode,driverUrl,givenName,familyName,dateOfBirth,driv
 albon,23.0,ALB,http://en.wikipedia.org/wiki/Alexander_Albon,Alexander,Albon,1996-03-23,Thai
 alonso,14.0,ALO,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,1981-07-29,Spanish
 antonelli,12.0,ANT,https://en.wikipedia.org/wiki/Andrea_Kimi_Antonelli,Andrea Kimi,Antonelli,2006-08-25,Italian
-paul_aron,,,,Paul,Aron,,
+paul_aron,,ARO,https://en.wikipedia.org/wiki/Paul_Aron,Paul,Aron,2004-02-04,Estonian
 bearman,87.0,BEA,http://en.wikipedia.org/wiki/Oliver_Bearman,Oliver,Bearman,2005-05-08,British
-dino_beganovic,,,,Dino,Beganovic,,
+dino_beganovic,38.0,BEG,https://en.wikipedia.org/wiki/Dino_Beganovic,Dino,Beganovic,2004-01-19,Swedish
 bortoleto,5.0,BOR,https://en.wikipedia.org/wiki/Gabriel_Bortoleto,Gabriel,Bortoleto,2004-10-14,Brazilian
 bottas,77.0,BOT,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,1989-08-28,Finnish
-luke_browning,,,,Luke,Browning,,
-rafael_camara,,,,Rafael,Camara,,
+luke_browning,46.0,BRO,https://en.wikipedia.org/wiki/Luke_Browning,Luke,Browning,2002-01-31,British
+rafael_camara,51.0,CAM,https://en.wikipedia.org/wiki/Rafael_C%C3%A2mara,Rafael,Camara,2005-05-05,Brazilian
 colapinto,43.0,COL,http://en.wikipedia.org/wiki/Franco_Colapinto,Franco,Colapinto,2003-05-27,Argentine
-jak_crawford,,,,Jak,Crawford,,
-leonardo_fornaroli,,,,Leonardo,Fornaroli,,
+jak_crawford,34.0,CRA,https://en.wikipedia.org/wiki/Jak_Crawford,Jak,Crawford,2005-05-02,American
+leonardo_fornaroli,67.0,FOR,https://en.wikipedia.org/wiki/Leonardo_Fornaroli,Leonardo,Fornaroli,2004-12-03,Italian
 gasly,10.0,GAS,http://en.wikipedia.org/wiki/Pierre_Gasly,Pierre,Gasly,1996-02-07,French
 hadjar,6.0,HAD,https://en.wikipedia.org/wiki/Isack_Hadjar,Isack,Hadjar,2004-09-28,French
 hamilton,44.0,HAM,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,1985-01-07,British
-colton_herta,,,,Colton,Herta,,
+colton_herta,,HER,https://en.wikipedia.org/wiki/Colton_Herta,Colton,Herta,2000-03-30,American
 ryo_hirakawa,50.0,HIR,https://en.wikipedia.org/wiki/Ryo_Hirakawa,Ryo,Hirakawa,1994-03-07,Japanese
 hulkenberg,27.0,HUL,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,1987-08-19,German
-ayumu_iwasa,,,,Ayumu,Iwasa,,
+ayumu_iwasa,36.0,IWA,https://en.wikipedia.org/wiki/Ayumu_Iwasa,Ayumu,Iwasa,2001-09-22,Japanese
 lawson,30.0,LAW,http://en.wikipedia.org/wiki/Liam_Lawson,Liam,Lawson,2002-02-11,New Zealander
 leclerc,16.0,LEC,http://en.wikipedia.org/wiki/Charles_Leclerc,Charles,Leclerc,1997-10-16,Monegasque
 arvid_lindblad,41.0,LIN,https://en.wikipedia.org/wiki/Arvid_Lindblad,Arvid,Lindblad,2007-08-08,British
-gabriele_mini,,,,Gabriele,Mini,,
+gabriele_mini,61.0,MIN,https://en.wikipedia.org/wiki/Gabriele_Mini,Gabriele,Mini,2005-03-20,Italian
 norris,1.0,NOR,http://en.wikipedia.org/wiki/Lando_Norris,Lando,Norris,1999-11-13,British
 ocon,31.0,OCO,http://en.wikipedia.org/wiki/Esteban_Ocon,Esteban,Ocon,1996-09-17,French
 piastri,81.0,PIA,http://en.wikipedia.org/wiki/Oscar_Piastri,Oscar,Piastri,2001-04-06,Australian
